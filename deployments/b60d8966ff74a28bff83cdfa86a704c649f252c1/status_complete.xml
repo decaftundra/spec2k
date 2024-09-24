@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>b60d8966ff74a28bff83cdfa86a704c649f252c1</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Forces purge of tokens regardless of failure type. Unhides two fields in RCS and SAS segments.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2021-10-17T18:52:54.5830086Z</lastSuccessEndTime>
+  <receivedTime>2021-10-17T18:48:33.8385975Z</receivedTime>
+  <startTime>2021-10-17T18:48:34.0417251Z</startTime>
+  <endTime>2021-10-17T18:52:54.5830086Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

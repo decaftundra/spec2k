@@ -1,0 +1,213 @@
+﻿Plant,Material,Subassembly,Component,Feature,Description
+3101,521415-3,"BLANKET, ASSEMBLY",BLANKET UPPER,Surface,worn
+3101,521415-3,"BLANKET, ASSEMBLY",BLANKET LOWER,Surface,worn
+3101,521415-3,"BLANKET, ASSEMBLY",POST,Surface,worn
+3101,521415-3,BODY ASSEMBLY,SPACER,Surface,worn
+3101,521415-3,BODY ASSEMBLY,WASHER,Surface,damaged
+3101,521415-3,BODY ASSEMBLY,CASTING BODY,Surface,damaged
+3101,521415-3,BODY ASSEMBLY,BUSHING,,Broken
+3101,521415-3,BODY ASSEMBLY,BUSHING,,worn
+3101,521415-3,CRANK ASSEMBLY,"INSERT, HELICALCOIL",Insert,broken
+3101,521415-3,CRANK ASSEMBLY,"CRANK, MACHINED",Teeth,damage
+3101,521415-3,SEAL ASSY,CASE,Surface,worn
+3101,521415-3,SEAL ASSY,WASHER,Surface,damaged
+3101,521415-3,Valve Assembly,"CABLE, SAFETY / K20B18",,Missing
+3101,521415-3,Valve Assembly,MACHINED BUTTERFLY,Surface,corroded
+3101,521415-3,Valve Assembly,MACHINED BUTTERFLY,Groove,damage
+3101,521415-3,Valve Assembly,MACHINED BUTTERFLY,Threads,damaged
+3101,521415-3,Valve Assembly,MACHINED BUTTERFLY,Inner Hole,out of round
+3101,521415-3,Valve Assembly,SETSCREW,Threads,damaged
+3101,521415-3,Valve Assembly,THRUST WASHER,Surface,worn
+3101,521415-3,Valve Assembly,UPPER SLEEVE,Surface,worn
+3101,521415-3,Valve Assembly,UPPER SLEEVE,Inner Hole,worn
+3101,521415-3,Valve Assembly,BUSHING,,Broken
+3101,521415-3,Valve Assembly,BUSHING,,worn
+3101,521415-3,Valve Assembly,LINK$,Inner Hole,worn
+3101,521415-3,Valve Assembly,LINK$,Body,Broken
+3101,521415-3,Valve Assembly,ROLLER,Surface,worn
+3101,521415-3,Valve Assembly,ROLLER,Inner Hole,worn
+3101,521415-3,Valve Assembly,BOLT SHOULDER,Threads,damaged
+3101,521415-3,Valve Assembly,WASHER,Surface,worn
+3101,521415-3,Valve Assembly,"SCREW,CAP,SOCKET HD .1380x32UNRF x .375",Threads,damaged
+3101,521415-3,Valve Assembly,SCREW,Threads,damaged
+3101,521415-3,Valve Assembly,"SCREW, SHCS, DRILLED, 4-40 X 1/4",Threads,damaged
+3101,521415-3,Valve Assembly,"SCREW,CAP,SOCKET HEAD,.190-32",Threads,damaged
+3101,521415-3,Valve Assembly,NUT,,damaged
+3101,521415-3,Valve Assembly,NUT$,,damaged
+3101,521415-3,Valve Assembly,RETAINER BEARING,Inner Teeth,damaged
+3101,521415-3,Valve Assembly,"WASHER, SPRING",Surface,damaged
+3101,521415-3,Valve Assembly,WASHER,Surface,worn
+3101,521415-3,Valve Assembly,WASHER,Surface,worn
+3101,521415-3,Valve Assembly,WASHER,Surface,worn
+3101,521415-3,Valve Assembly,WASHER,Surface,worn
+3101,521415-3,Valve Assembly,WASHER,Surface,worn
+3101,521415-3,Valve Assembly,SHAFT VALVE,Surface,worn
+3101,521415-3,Valve Assembly,SHAFT VALVE,Outer Teeth,damaged
+3101,521415-3,Valve Assembly,CAP LOWER,Surface,damaged
+3101,521415-3,Valve Assembly,COVER LINKAGE,Surface,damaged
+3101,521415-3,Valve Assembly,CLEVIS,Surface,worn
+3101,521415-3,Valve Assembly,CLEVIS,Surface,damaged
+3101,521415-3,Valve Assembly,GLAND NUT,Surface,damaged
+3101,521415-3,Valve Assembly,"SCREW, CAP",Surface,damaged
+3101,521415-3,Valve Assembly,SHIPPING CLOSURE,,Missing
+3101,521415-3,Valve Assembly,BEARING,Surface,worn
+3101,521415-3,Valve Assembly,"SCREW,CAP,SOCKET HEAD,.190-32",Threads,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","FITTING, ADAPTER, UNION",Surface,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY",O-RING,,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","FILTER, DISC",Screen,Clog
+3101,521415-3,"ACTUATOR, ASSEMBLY","RING, RETAINING",,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY",SERVO ASSEMBLY,Nozzle,Stuck Open
+3101,521415-3,"ACTUATOR, ASSEMBLY",SERVO ASSEMBLY,Nozzle,Stuck Close
+3101,521415-3,"ACTUATOR, ASSEMBLY",SERVO ASSEMBLY,Flapper,Damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY",SERVO ASSEMBLY,Lead Wire,Broken
+3101,521415-3,"ACTUATOR, ASSEMBLY","SCREW, CAP",Surface,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY",SPACER,Surface,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY",O-RING,,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY",PACKING,,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","RETAINER, PACKING",,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY",PACKING,,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","CONNECTOR, ELECTRICAL",Connector Pin,Broken
+3101,521415-3,"ACTUATOR, ASSEMBLY","CONNECTOR, ELECTRICAL",Connector Pin,Bent
+3101,521415-3,"ACTUATOR, ASSEMBLY","SCREW, CAP",Surface,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY","HOUSING, CONNECTOR",Housing,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY","SCREW, CAP",Surface,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY",PACKING,,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","NUT, JAM, HEX",Surface,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY","ENDCAP, MACHINED",Surface,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY",PACKING,,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","RETAINER, PACKING",,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","GUIDE, PISTON",Surface,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY","TRANSDUCER, LINEAR",Armature,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY","TRANSDUCER, LINEAR",Wire,Broken
+3101,521415-3,"ACTUATOR, ASSEMBLY","TRANSDUCER, LINEAR",Housing,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY",PACKING,,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","RETAINER, PACKING",,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY",PISTON ASSY,Housing,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY",PISTON ASSY,Insert,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY",PISTON SEAL ASSY,Housing,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","GUIDE, ROD",Surface,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","SEAL, ROD",Surface,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","SEAL, ROD",Surface,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","HOUSING, ACTUATOR",Insert,damaged
+3101,521415-3,"ACTUATOR, ASSEMBLY","HOUSING, ACTUATOR",Plug,worn
+3101,521415-3,"ACTUATOR, ASSEMBLY","HOUSING, ACTUATOR",Housing,Cracked
+3101,521415-3,REGULATOR ASSEMBLY,REGULATOR ASSEMBLY,,.
+3101,521415-3,REGULATOR ASSEMBLY,SPOOL & SLEEVE ASSEMBLY,Spool,Corroded
+3101,521415-3,REGULATOR ASSEMBLY,SPOOL & SLEEVE ASSEMBLY,Sleeve,Worn
+3101,521415-3,REGULATOR ASSEMBLY,SCREW,Threads,damaged
+3101,521415-3,REGULATOR ASSEMBLY,PACKING,,worn
+3101,521415-3,REGULATOR ASSEMBLY,"RETAINER, SPRING",Surface,worn
+3101,521415-3,REGULATOR ASSEMBLY,BALL,Surface,worn
+3101,521415-3,REGULATOR ASSEMBLY,"WASHER, FLAT",Surface,worn
+3101,521415-3,REGULATOR ASSEMBLY,"WASHER, FLAT",Surface,worn
+3101,521415-3,REGULATOR ASSEMBLY,"WASHER, FLAT",Surface,worn
+3101,521415-3,REGULATOR ASSEMBLY,"SPRING, COMPRESSION",,damaged
+3101,521415-3,REGULATOR ASSEMBLY,"COVER, REGULATOR",Surface,Dent
+3101,521415-3,EXTERNALLY CAUSED,External contamination (Induced),,f.o.d
+3101,521415-3,EXTERNALLY CAUSED,External contamination (Induced),,oil
+3101,521415-3,EXTERNALLY CAUSED,External contamination (Induced),,other
+3101,521415-3,EXTERNALLY CAUSED,External contamination (Induced),,particulate
+3101,521415-3,EXTERNALLY CAUSED,External contamination (Induced),,water
+3101,521415-3,EXTERNALLY CAUSED,Maintenance and handling,,installation problem
+3101,521415-3,EXTERNALLY CAUSED,Maintenance and handling (induced),,external damage
+3101,521415-3,EXTERNALLY CAUSED,Maintenance and handling (induced),,missing parts
+3101,521415-3,EXTERNALLY CAUSED,Maintenance and handling (induced),,see analysis discussion
+3101,521415-3,NO FAILURES HAD OCCURRED,Modify,,.
+3101,521415-3,NO FAILURES HAD OCCURRED,Overhaul,,.
+3101,521415-3,NO FAILURES HAD OCCURRED,Recertification,,.
+3101,521415-3,NO FAILURES HAD OCCURRED,See analysis discussion,,.
+3101,521415-3,NO FAILURES HAD OCCURRED,Test okay,,.
+3101,521415-3,OTHER,Failure Cause Undetermined,,.
+3101,521415-3,OTHER,Ground strap,,bent
+3101,521415-3,OTHER,Ground strap,,corroded
+3101,521415-3,OTHER,I.D. Plate,,damaged
+3101,521415-3,OTHER,I.D. Plate,,loose
+3101,521415-3,OTHER,I.D. Plate,,missing
+3101,522915,BODY ASSEMBLY,Body machined,plug-koenig,worn
+3101,522915,BODY ASSEMBLY,Body machined,ball,damage
+3101,522915,BODY ASSEMBLY,Body machined,"probe, inlet",worn
+3101,522915,BODY ASSEMBLY,Body machined,bushing,worn
+3101,522915,BODY ASSEMBLY,Body machined,bushing,damage
+3101,522915,VALVE ASSEMBLY,Valve,pre-form wire,Broken
+3101,522915,VALVE ASSEMBLY,Valve,ball ceramic,broken
+3101,522915,VALVE ASSEMBLY,Valve,ball ceramic,ball deform
+3101,522915,VALVE ASSEMBLY,Valve,"cap, bottom",damaged
+3101,522915,VALVE ASSEMBLY,Valve,"retainer, seal",worn
+3101,522915,VALVE ASSEMBLY,Actuator,washer,missing
+3101,522915,VALVE ASSEMBLY,Actuator,washer,damage
+3101,522915,VALVE ASSEMBLY,Valve,butterfly ring,damage
+3101,522915,VALVE ASSEMBLY,Valve,sleeve,damage
+3101,522915,VALVE ASSEMBLY,Valve,"seal-set, shaft",damage
+3101,522915,VALVE ASSEMBLY,Valve,"seal-set, shaft",worn
+3101,522915,VALVE ASSEMBLY,Valve,machined butterfly,corroded
+3101,522915,VALVE ASSEMBLY,Valve,machined butterfly,damage groove
+3101,522915,VALVE ASSEMBLY,Valve,machined butterfly,damage
+3101,522915,VALVE ASSEMBLY,Valve,machined butterfly,out of round
+3101,522915,VALVE ASSEMBLY,Valve,shaft,twisted
+3101,522915,VALVE ASSEMBLY,Valve,shaft,broken teeth
+3101,522915,VALVE ASSEMBLY,Valve,"shaft, Valve",bent
+3101,522915,VALVE ASSEMBLY,Valve,MACHINED COVER,dented
+3101,522915,VALVE ASSEMBLY,Actuator,actuator cover,porosity
+3101,522915,VALVE ASSEMBLY,Actuator,actuator cover,damage
+3101,522915,VALVE ASSEMBLY,Actuator,actuator cover,dented
+3101,522915,VALVE ASSEMBLY,Actuator,machined cover,porosity
+3101,522915,VALVE ASSEMBLY,Valve,"retainer, spring washer",damage
+3101,522915,VALVE ASSEMBLY,Valve,"cap, top",damage
+3101,522915,VALVE ASSEMBLY,Valve,"retainer, ball",damage
+3101,522915,VALVE ASSEMBLY,Valve,screw cap,porosity
+3101,522915,VALVE ASSEMBLY,Valve,screw cap,damage threads
+3101,522915,VALVE ASSEMBLY,Valve,crank,damage
+3101,522915,VALVE ASSEMBLY,Actuator,link,worn
+3101,522915,VALVE ASSEMBLY,Actuator,actuator spring,damage
+3101,522915,VALVE ASSEMBLY,Actuator,piston rod guide,bent
+3101,522915,VALVE ASSEMBLY,Actuator,guide,bent
+3101,522915,VALVE ASSEMBLY,Actuator,Inner piston rod set,damage
+3101,522915,VALVE ASSEMBLY,Actuator,expander,damage
+3101,522915,VALVE ASSEMBLY,Actuator,expander,damage
+3101,522915,VALVE ASSEMBLY,Actuator,"bolt, shoulder",damage threads
+3101,522915,VALVE ASSEMBLY,Actuator,MACHINED COVER,dented
+3101,522915,VALVE ASSEMBLY,Actuator,e-seal,worn
+3101,522915,VALVE ASSEMBLY,Actuator,piston,damage
+3101,522915,VALVE ASSEMBLY,Valve,nut,damage threads
+3101,522915,VALVE ASSEMBLY,Valve,nylon Screw,damage threads
+3101,522915,VALVE ASSEMBLY,Valve,"washer, spring",missing
+3101,522915,VALVE ASSEMBLY,Valve,"washer, spring",deform
+3101,522915,VALVE ASSEMBLY,Valve,washer,deform
+3101,522915,VALVE ASSEMBLY,Valve,washer,deform
+3101,522915,VALVE ASSEMBLY,Valve,washer,deform
+3101,522915,VALVE ASSEMBLY,Valve,washer,deform
+3101,522915,VALVE ASSEMBLY,Valve,washer,deform
+3101,522915,VALVE ASSEMBLY,Valve,"SCREW, CAP, SOCKET",Missing
+3101,522915,VALVE ASSEMBLY,Valve,WASHER,deform
+3101,522915,VALVE ASSEMBLY,Valve,NUT,Damaged
+3101,522915,VALVE ASSEMBLY,Valve,"SCREW, CAP, SOCKET",Missing
+3101,522915,VALVE ASSEMBLY,Actuator,link,worn
+3101,522915,VALVE ASSEMBLY,Actuator,link,worn
+3101,522915,VALVE ASSEMBLY,Actuator,link,worn
+3101,522915,VALVE ASSEMBLY,Valve,NUT,Damaged
+3101,522915,VALVE ASSEMBLY,Valve,Washer,deform
+3101,522915,VALVE ASSEMBLY,Valve,"SCREW, CAP, SOCKET",Missing
+3101,522915,VALVE ASSEMBLY,Valve,"RING (SET), INNER PISTON",Worn
+3101,522915,VALVE ASSEMBLY,Valve,"RING (SET), OUTER PISTON",Worn
+3101,522915,VALVE ASSEMBLY,Valve,"GUIDE, PISTON",Worn
+3101,522915,VALVE ASSEMBLY,Actuator,Outer piston rod set,damage
+3101,522915,EXTERNALLY CAUSED,External contamination (Induced),,f.o.d
+3101,522915,EXTERNALLY CAUSED,External contamination (Induced),,oil
+3101,522915,EXTERNALLY CAUSED,External contamination (Induced),,other
+3101,522915,EXTERNALLY CAUSED,External contamination (Induced),,particulate
+3101,522915,EXTERNALLY CAUSED,External contamination (Induced),,water
+3101,522915,EXTERNALLY CAUSED,Maintenance and handling,,installation problem
+3101,522915,EXTERNALLY CAUSED,Maintenance and handling (induced),,external damage
+3101,522915,EXTERNALLY CAUSED,Maintenance and handling (induced),,missing parts
+3101,522915,EXTERNALLY CAUSED,Maintenance and handling (induced),,see analysis discussion
+3101,522915,NO FAILURES HAD OCCURRED,Modify,,.
+3101,522915,NO FAILURES HAD OCCURRED,Overhaul,,.
+3101,522915,NO FAILURES HAD OCCURRED,Recertification,,.
+3101,522915,NO FAILURES HAD OCCURRED,See analysis discussion,,.
+3101,522915,NO FAILURES HAD OCCURRED,Test okay,,.
+3101,522915,OTHER,Failure Cause Undetermined,,.
+3101,522915,OTHER,Ground strap,,bent
+3101,522915,OTHER,Ground strap,,corroded
+3101,522915,OTHER,I.D. Plate,,damaged
+3101,522915,OTHER,I.D. Plate,,loose
+3101,522915,OTHER,I.D. Plate,,missing

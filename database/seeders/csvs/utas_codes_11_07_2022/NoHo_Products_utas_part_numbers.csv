@@ -1,0 +1,33 @@
+id,meggitt_part_no,utas_part_no,description,created_at,updated_at
+1,521575-1,1023422,Buffer shutoff valve,NULL,NULL
+2,520985-2,1020316-1,High pressure compressor bleed valve,NULL,NULL
+3,521765,1020923-1,Low pressure compressor buffer air valve,NULL,NULL
+4,521225-1,1020924-1,High pressure compressor bleed valve,NULL,NULL
+5,521435,1021498-2,Starter Air Valve,NULL,NULL
+6,521435-1,1021498-3,Starter Air Valve,NULL,NULL
+7,521415-1,1023141-2,Active Clearance Control Valve,NULL,NULL
+8,521415-2,1023141-3,Active Clearance Control Valve,NULL,NULL
+9,521415-3,1023141-4,Active Clearance Control Valve,NULL,NULL
+10,521235-2,1023640-2,High pressure compressor bleed valve,NULL,NULL
+11,520975-2,1023662,Engine Starter Air Valve,NULL,NULL
+12,522755,1023662-2,Engine Starter Air Valve,NULL,NULL
+13,522755-1,1023662-3,Engine Starter Air Valve,NULL,NULL
+14,521815,1024212-2,Engine Starter Air Valve,NULL,NULL
+15,522025,1025044-2,HPC Bleed Check Valve-Active,NULL,NULL
+16,522915,1032330,Buffer Bleed Air SOV,NULL,NULL
+17,1023422,1023422,Buffer shutoff valve,NULL,NULL
+18,1020316-1,1020316-1,High pressure compressor bleed valve,NULL,NULL
+19,1020923-1,1020923-1,Low pressure compressor buffer air valve,NULL,NULL
+20,1020924-1,1020924-1,High pressure compressor bleed valve,NULL,NULL
+21,1021498-2,1021498-2,Starter Air Valve,NULL,NULL
+22,1021498-3,1021498-3,Starter Air Valve,NULL,NULL
+23,1023141-2,1023141-2,Active Clearance Control Valve,NULL,NULL
+24,1023141-3,1023141-3,Active Clearance Control Valve,NULL,NULL
+25,1023141-4,1023141-4,Active Clearance Control Valve,NULL,NULL
+26,1023640-2,1023640-2,High pressure compressor bleed valve,NULL,NULL
+27,1023662,1023662,Engine Starter Air Valve,NULL,NULL
+28,1023662-2,1023662-2,Engine Starter Air Valve,NULL,NULL
+29,1023662-3,1023662-3,Engine Starter Air Valve,NULL,NULL
+30,1024212-2,1024212-2,Engine Starter Air Valve,NULL,NULL
+31,1025044-2,1025044-2,HPC Bleed Check Valve-Active,NULL,NULL
+32,1032330,1032330,Buffer Bleed Air SOV,NULL,NULL

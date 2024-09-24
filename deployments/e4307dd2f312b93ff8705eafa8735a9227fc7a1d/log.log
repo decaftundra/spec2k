@@ -1,0 +1,45 @@
+2021-09-13T09:30:25.6797426Z,Updating submodules.,8187cb5a-e6e9-433b-b2f0-87a1b31e3c8a,0
+2021-09-13T09:30:25.7578615Z,Preparing deployment for commit id 'e4307dd2f3'.,e4a7a1c3-f94f-4b75-82b3-fbe114161284,0
+2021-09-13T09:30:25.8984930Z,Running custom deployment command...,06a75be7-40aa-4a54-a17a-a6c627a2d0ff,0
+2021-09-13T09:30:25.9453701Z,Running deployment command...,a781797d-8b02-4500-896a-17a60b4c41a9,0
+	2021-09-13T09:30:25.9453701Z,Command: D:\home\SiteExtensions\ComposerExtension\Hooks\deploy.cmd,,0
+	2021-09-13T09:30:27.0704177Z,Install Dependencies with Composer,,0
+	2021-09-13T09:30:32.6762063Z,Installing dependencies from lock file,,1
+	2021-09-13T09:30:32.6762063Z,Verifying lock file contents can be installed on current platform.,,1
+	2021-09-13T09:30:32.8480765Z,Nothing to install&comma; update or remove,,1
+	2021-09-13T09:30:33.0668209Z,Package microsoft/application-insights is abandoned&comma; you should avoid using it. No replacement was suggested.,,1
+	2021-09-13T09:30:33.0668209Z,Generating optimized autoload files,,1
+	2021-09-13T09:34:28.5674743Z,> Illuminate\Foundation\ComposerScripts::postAutoloadDump,,1
+	2021-09-13T09:34:29.8861983Z,> @php artisan package:discover --ansi,,1
+	2021-09-13T09:34:36.2148897Z,Discovered Package: [32macademe/laravel-azure-file-storage-driver[39m,,0
+	2021-09-13T09:34:36.2148897Z,Discovered Package: [32mfideloper/proxy[39m,,0
+	2021-09-13T09:34:36.2148897Z,Discovered Package: [32mfruitcake/laravel-cors[39m,,0
+	2021-09-13T09:34:36.2148897Z,Discovered Package: [32mixudra/curl[39m,,0
+	2021-09-13T09:34:36.2461426Z,Discovered Package: [32mlaracasts/utilities[39m,,0
+	2021-09-13T09:34:36.2461426Z,Discovered Package: [32mlaravel/legacy-factories[39m,,0
+	2021-09-13T09:34:36.2617410Z,Discovered Package: [32mlaravel/passport[39m,,0
+	2021-09-13T09:34:36.2617410Z,Discovered Package: [32mlaravel/tinker[39m,,0
+	2021-09-13T09:34:36.2617410Z,Discovered Package: [32mlaravel/ui[39m,,0
+	2021-09-13T09:34:36.2617410Z,Discovered Package: [32mmadnest/madzipper[39m,,0
+	2021-09-13T09:34:36.2617410Z,Discovered Package: [32mmatthewbdaly/laravel-azure-storage[39m,,0
+	2021-09-13T09:34:36.2773596Z,Discovered Package: [32mnesbot/carbon[39m,,0
+	2021-09-13T09:34:36.2773596Z,[32mPackage manifest generated successfully.[39m,,0
+	2021-09-13T09:34:36.4973569Z,54 packages you are using are looking for funding.,,1
+	2021-09-13T09:34:36.4973569Z,Use the `composer fund` command to find out more!,,1
+	2021-09-13T09:34:36.5286192Z,Handling Basic Web Site deployment.,,0
+	2021-09-13T09:35:05.8609336Z,Creating app_offline.htm,,0
+	2021-09-13T09:35:05.8765805Z,KuduSync.NET from: 'D:\home\repository' to: 'D:\home\site',,0
+	2021-09-13T09:35:05.8765805Z,Copying file: 'app\SAPOAuth2Client.php',,0
+	2021-09-13T09:35:05.8765805Z,Copying file: 'app\Http\Middleware\FetchNotificationData.php',,0
+	2021-09-13T09:35:05.8765805Z,Copying file: 'bootstrap\cache\packages.php',,0
+	2021-09-13T09:35:05.8922083Z,Copying file: 'bootstrap\cache\services.php',,0
+	2021-09-13T09:35:05.8922083Z,Copying file: 'database\factories\SAPAccessTokenFactory.php',,0
+	2021-09-13T09:35:05.8922083Z,Copying file: 'tests\Feature\ApiTest.php',,0
+	2021-09-13T09:35:05.8922083Z,Copying file: 'tests\Unit\SAPOAuth2ClientTest.php',,0
+	2021-09-13T09:35:05.9078079Z,Copying file: 'vendor\composer\installed.php',,0
+	2021-09-13T09:35:05.9078079Z,Copying file: 'vendor\composer\InstalledVersions.php',,0
+	2021-09-13T09:35:05.9078079Z,Deleting app_offline.htm,,0
+	2021-09-13T09:35:05.9234342Z,Finished successfully.,,0
+2021-09-13T09:35:05.9703088Z,Running post deployment command(s)...,ec640fd6-22a9-4170-b654-0f6e3a849c8b,0
+2021-09-13T09:35:06.0484441Z,Triggering recycle (preview mode disabled).,a51b9f9d-c442-4a9b-809e-6eed1daadda0,0
+2021-09-13T09:35:06.1109441Z,Deployment successful.,2d0f566f-1de6-4749-bf18-f398c6d3a9e9,0

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>14da7dd058014ae6b61d7aeadcea1e5e92f63815</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Adds extra collins parts as seeders, adds further filters to UtasCode model to comply with validation due to data discrepancies.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2021-10-31T16:52:31.6243234Z</lastSuccessEndTime>
+  <receivedTime>2021-10-31T16:44:02.4943362Z</receivedTime>
+  <startTime>2021-10-31T16:44:02.7131056Z</startTime>
+  <endTime>2021-10-31T16:52:31.6243234Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

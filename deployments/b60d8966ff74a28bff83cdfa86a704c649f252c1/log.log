@@ -1,0 +1,43 @@
+2021-10-17T18:48:33.9479863Z,Updating submodules.,1e54f1a4-f17f-47d7-b3ae-4a6f29f0cdc8,0
+2021-10-17T18:48:34.0261036Z,Preparing deployment for commit id 'b60d8966ff'.,a0f27e1a-7c9f-443a-8e28-a7ddb36f60b8,0
+2021-10-17T18:48:34.2135969Z,Running custom deployment command...,934e1264-13ed-47c0-9ed0-8d5eec209a38,0
+2021-10-17T18:48:34.2604742Z,Running deployment command...,d6e80550-923a-4902-b42d-5cf9a40fd503,0
+	2021-10-17T18:48:34.2761069Z,Command: D:\home\SiteExtensions\ComposerExtension\Hooks\deploy.cmd,,0
+	2021-10-17T18:48:36.2917376Z,Install Dependencies with Composer,,0
+	2021-10-17T18:48:42.0769441Z,Installing dependencies from lock file,,1
+	2021-10-17T18:48:42.0925560Z,Verifying lock file contents can be installed on current platform.,,1
+	2021-10-17T18:48:43.7780919Z,Nothing to install&comma; update or remove,,1
+	2021-10-17T18:48:43.9832500Z,Package microsoft/application-insights is abandoned&comma; you should avoid using it. No replacement was suggested.,,1
+	2021-10-17T18:48:43.9988751Z,Generating optimized autoload files,,1
+	2021-10-17T18:52:11.7692872Z,> Illuminate\Foundation\ComposerScripts::postAutoloadDump,,1
+	2021-10-17T18:52:12.8630465Z,> @php artisan package:discover --ansi,,1
+	2021-10-17T18:52:20.4412680Z,Discovered Package: [32macademe/laravel-azure-file-storage-driver[39m,,0
+	2021-10-17T18:52:20.4412680Z,Discovered Package: [32mfideloper/proxy[39m,,0
+	2021-10-17T18:52:20.4569179Z,Discovered Package: [32mfruitcake/laravel-cors[39m,,0
+	2021-10-17T18:52:20.4569179Z,Discovered Package: [32mixudra/curl[39m,,0
+	2021-10-17T18:52:20.4569179Z,Discovered Package: [32mlaracasts/utilities[39m,,0
+	2021-10-17T18:52:20.4569179Z,Discovered Package: [32mlaravel/legacy-factories[39m,,0
+	2021-10-17T18:52:20.4569179Z,Discovered Package: [32mlaravel/passport[39m,,0
+	2021-10-17T18:52:20.4725118Z,Discovered Package: [32mlaravel/tinker[39m,,0
+	2021-10-17T18:52:20.4725118Z,Discovered Package: [32mlaravel/ui[39m,,0
+	2021-10-17T18:52:20.4725118Z,Discovered Package: [32mmadnest/madzipper[39m,,0
+	2021-10-17T18:52:20.4725118Z,Discovered Package: [32mmatthewbdaly/laravel-azure-storage[39m,,0
+	2021-10-17T18:52:20.4881825Z,Discovered Package: [32mnesbot/carbon[39m,,0
+	2021-10-17T18:52:20.4881825Z,[32mPackage manifest generated successfully.[39m,,0
+	2021-10-17T18:52:20.7694091Z,54 packages you are using are looking for funding.,,1
+	2021-10-17T18:52:20.7850135Z,Use the `composer fund` command to find out more!,,1
+	2021-10-17T18:52:20.8475132Z,Handling Basic Web Site deployment.,,0
+	2021-10-17T18:52:54.2861548Z,Creating app_offline.htm,,0
+	2021-10-17T18:52:54.2861548Z,KuduSync.NET from: 'D:\home\repository' to: 'D:\home\site',,0
+	2021-10-17T18:52:54.2861548Z,Copying file: 'app\Http\Middleware\FetchNotificationData.php',,0
+	2021-10-17T18:52:54.3017545Z,Copying file: 'app\ValidationProfiles\DefaultProfile.php',,0
+	2021-10-17T18:52:54.3017545Z,Copying file: 'app\ValidationProfiles\UtasProfile.php',,0
+	2021-10-17T18:52:54.3017545Z,Copying file: 'bootstrap\cache\packages.php',,0
+	2021-10-17T18:52:54.3173795Z,Copying file: 'bootstrap\cache\services.php',,0
+	2021-10-17T18:52:54.3173795Z,Copying file: 'vendor\composer\installed.php',,0
+	2021-10-17T18:52:54.3173795Z,Copying file: 'vendor\composer\InstalledVersions.php',,0
+	2021-10-17T18:52:54.3173795Z,Deleting app_offline.htm,,0
+	2021-10-17T18:52:54.3330080Z,Finished successfully.,,0
+2021-10-17T18:52:54.4129113Z,Running post deployment command(s)...,e1dac040-fdea-45ab-98ca-79e3ab813eee,0
+2021-10-17T18:52:54.4892595Z,Triggering recycle (preview mode disabled).,29f1877f-3839-4c71-9259-41c2570e295f,0
+2021-10-17T18:52:54.5517712Z,Deployment successful.,a77321b5-c0ae-418a-bfdf-a34389293e6b,0

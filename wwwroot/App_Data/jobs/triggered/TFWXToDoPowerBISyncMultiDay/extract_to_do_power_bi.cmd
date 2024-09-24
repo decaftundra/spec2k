@@ -1,0 +1,1 @@
+php %HOME%\site\artisan spec2kapp:extract_to_do_power_bi_data

@@ -1,0 +1,54 @@
+2022-07-17T14:23:27.6225062Z,Updating submodules.,63c3ce9a-b3d7-451b-9660-78ffaf78c95d,0
+2022-07-17T14:23:27.6850020Z,Preparing deployment for commit id '79a54e373c'.,cfa0d4f6-d7b0-4608-893e-1f124ef8a9e0,0
+2022-07-17T14:23:27.8412564Z,Running custom deployment command...,afbc00f7-2473-4d21-9098-1be88e1f1b79,0
+2022-07-17T14:23:27.9037628Z,Running deployment command...,9c44dacc-51ff-45b9-9b01-0c2114071c78,0
+	2022-07-17T14:23:27.9037628Z,Command: D:\home\SiteExtensions\ComposerExtension\Hooks\deploy.cmd,,0
+	2022-07-17T14:23:30.3881932Z,Install Dependencies with Composer,,0
+	2022-07-17T14:23:34.9518807Z,Installing dependencies from lock file,,1
+	2022-07-17T14:23:34.9675093Z,Verifying lock file contents can be installed on current platform.,,1
+	2022-07-17T14:23:34.9987602Z,Warning: The lock file is not up to date with the latest changes in composer.json. You may be getting outdated dependencies. It is recommended that you run `composer update` or `composer update <package name>`.,,1
+	2022-07-17T14:23:35.0300072Z,Nothing to install&comma; update or remove,,1
+	2022-07-17T14:23:35.1081347Z,Generating optimized autoload files,,1
+	2022-07-17T14:25:28.1767400Z,> Illuminate\Foundation\ComposerScripts::postAutoloadDump,,1
+	2022-07-17T14:25:28.7906829Z,> @php artisan package:discover --ansi,,1
+	2022-07-17T14:25:34.4680879Z,Discovered Package: [32macademe/laravel-azure-file-storage-driver[39m,,0
+	2022-07-17T14:25:34.4680879Z,Discovered Package: [32mfideloper/proxy[39m,,0
+	2022-07-17T14:25:34.4837118Z,Discovered Package: [32mfruitcake/laravel-cors[39m,,0
+	2022-07-17T14:25:34.4993342Z,Discovered Package: [32mixudra/curl[39m,,0
+	2022-07-17T14:25:34.5149808Z,Discovered Package: [32mlaracasts/utilities[39m,,0
+	2022-07-17T14:25:34.5305813Z,Discovered Package: [32mlaravel/legacy-factories[39m,,0
+	2022-07-17T14:25:34.5619204Z,Discovered Package: [32mlaravel/passport[39m,,0
+	2022-07-17T14:25:34.5774597Z,Discovered Package: [32mlaravel/tinker[39m,,0
+	2022-07-17T14:25:34.5774597Z,Discovered Package: [32mlaravel/ui[39m,,0
+	2022-07-17T14:25:34.5930854Z,Discovered Package: [32mmadnest/madzipper[39m,,0
+	2022-07-17T14:25:34.6087941Z,Discovered Package: [32mmatthewbdaly/laravel-azure-storage[39m,,0
+	2022-07-17T14:25:34.6399636Z,58 packages you are using are looking for funding.,,1
+	2022-07-17T14:25:34.6399636Z,Discovered Package: [32mnesbot/carbon[39m,,0
+	2022-07-17T14:25:34.6555873Z,Use the `composer fund` command to find out more!,,1
+	2022-07-17T14:25:34.6712111Z,[32mPackage manifest generated successfully.[39m,,0
+	2022-07-17T14:25:34.7337153Z,Handling Basic Web Site deployment.,,0
+	2022-07-17T14:25:37.9909408Z,Creating app_offline.htm,,0
+	2022-07-17T14:25:38.0065756Z,KuduSync.NET from: 'D:\home\repository' to: 'D:\home\site',,0
+	2022-07-17T14:25:38.0221877Z,Copying file: 'composer.json',,0
+	2022-07-17T14:25:38.0378184Z,Copying file: 'app\Codes\PlantCode.php',,0
+	2022-07-17T14:25:38.0378184Z,Copying file: 'app\Console\Commands\CreateMiamiTestData.php',,0
+	2022-07-17T14:25:38.0534399Z,Copying file: 'bootstrap\cache\packages.php',,0
+	2022-07-17T14:25:38.0690663Z,Copying file: 'bootstrap\cache\services.php',,0
+	2022-07-17T14:25:38.0847083Z,Copying file: 'database\factories\NotificationFactory.php',,0
+	2022-07-17T14:25:38.0847083Z,Copying file: 'database\seeders\DatabaseSeeder.php',,0
+	2022-07-17T14:25:38.1003179Z,Copying file: 'database\seeders\UpdatedUtasCodesTableSeeder.php',,0
+	2022-07-17T14:25:38.1159496Z,Copying file: 'database\seeders\UpdatedUtasPartNumbersTableSeeder.php',,0
+	2022-07-17T14:25:38.1315743Z,Copying file: 'database\seeders\UpdatedUtasReasonCodesTableSeeder.php',,0
+	2022-07-17T14:25:38.1471913Z,Copying file: 'database\seeders\csvs\utas_codes_11_07_2022\NoHo_Products_utas_codes.csv',,0
+	2022-07-17T14:25:38.1471913Z,Copying file: 'database\seeders\csvs\utas_codes_11_07_2022\NoHo_Products_utas_part_numbers.csv',,0
+	2022-07-17T14:25:38.1628254Z,Copying file: 'database\seeders\csvs\utas_codes_11_07_2022\NoHo_Products_UTAS_Reason_Codes.csv',,0
+	2022-07-17T14:25:38.1784425Z,Copying file: 'resources\views\partials\key.blade.php',,0
+	2022-07-17T14:25:54.7520230Z,Copying file: 'tests\Feature\UtasMisc_SegmentTest.php',,0
+	2022-07-17T14:25:54.7832549Z,Copying file: 'vendor\composer\autoload_classmap.php',,0
+	2022-07-17T14:25:54.7989208Z,Copying file: 'vendor\composer\autoload_static.php',,0
+	2022-07-17T14:25:54.8146006Z,Copying file: 'vendor\composer\installed.php',,0
+	2022-07-17T14:25:54.8301863Z,Deleting app_offline.htm,,0
+	2022-07-17T14:25:54.8457601Z,Finished successfully.,,0
+2022-07-17T14:25:54.8926403Z,Running post deployment command(s)...,d266c6c2-2008-46b3-ba5f-3d79a936f16b,0
+2022-07-17T14:25:54.9551333Z,Triggering recycle (preview mode disabled).,ef28f26f-67e6-4b49-b9c0-6f987bbc63da,0
+2022-07-17T14:25:55.0333051Z,Deployment successful.,f03ed162-4db6-4646-aa59-515534164a06,0

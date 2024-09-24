@@ -1,0 +1,83 @@
+2022-07-10T14:40:52.5716073Z,Updating submodules.,9e857925-bd8d-41b8-a448-4b28cbd8dadf,0
+2022-07-10T14:40:52.6497354Z,Preparing deployment for commit id '434346ebc9'.,1bd67995-bb79-48c4-9861-b06566d20971,0
+2022-07-10T14:40:52.8059858Z,Running custom deployment command...,11531a51-c54a-4391-8463-b7f7a3687c9d,0
+2022-07-10T14:40:52.8528657Z,Running deployment command...,b62a81cc-a206-4322-9f79-7459913a6ef6,0
+	2022-07-10T14:40:52.8684903Z,Command: D:\home\SiteExtensions\ComposerExtension\Hooks\deploy.cmd,,0
+	2022-07-10T14:40:55.1966526Z,Install Dependencies with Composer,,0
+	2022-07-10T14:40:59.1809501Z,Installing dependencies from lock file,,1
+	2022-07-10T14:40:59.1965908Z,Verifying lock file contents can be installed on current platform.,,1
+	2022-07-10T14:40:59.2590777Z,Nothing to install&comma; update or remove,,1
+	2022-07-10T14:40:59.3372066Z,Generating optimized autoload files,,1
+	2022-07-10T14:42:49.5601833Z,> Illuminate\Foundation\ComposerScripts::postAutoloadDump,,1
+	2022-07-10T14:42:50.3175047Z,> @php artisan package:discover --ansi,,1
+	2022-07-10T14:42:56.8903684Z,Discovered Package: [32macademe/laravel-azure-file-storage-driver[39m,,0
+	2022-07-10T14:42:56.9059968Z,Discovered Package: [32mfideloper/proxy[39m,,0
+	2022-07-10T14:42:56.9059968Z,Discovered Package: [32mfruitcake/laravel-cors[39m,,0
+	2022-07-10T14:42:56.9216194Z,Discovered Package: [32mixudra/curl[39m,,0
+	2022-07-10T14:42:56.9372453Z,Discovered Package: [32mlaracasts/utilities[39m,,0
+	2022-07-10T14:42:56.9528713Z,Discovered Package: [32mlaravel/legacy-factories[39m,,0
+	2022-07-10T14:42:56.9684970Z,Discovered Package: [32mlaravel/passport[39m,,0
+	2022-07-10T14:42:56.9841232Z,Discovered Package: [32mlaravel/tinker[39m,,0
+	2022-07-10T14:42:56.9841232Z,Discovered Package: [32mlaravel/ui[39m,,0
+	2022-07-10T14:42:56.9997493Z,Discovered Package: [32mmadnest/madzipper[39m,,0
+	2022-07-10T14:42:57.0153717Z,Discovered Package: [32mmatthewbdaly/laravel-azure-storage[39m,,0
+	2022-07-10T14:42:57.0309991Z,Discovered Package: [32mnesbot/carbon[39m,,0
+	2022-07-10T14:42:57.0309991Z,[32mPackage manifest generated successfully.[39m,,0
+	2022-07-10T14:42:57.0935107Z,58 packages you are using are looking for funding.,,1
+	2022-07-10T14:42:57.1091223Z,Use the `composer fund` command to find out more!,,1
+	2022-07-10T14:42:57.1403720Z,Handling Basic Web Site deployment.,,0
+	2022-07-10T14:42:58.3305268Z,Creating app_offline.htm,,0
+	2022-07-10T14:42:58.3461418Z,KuduSync.NET from: 'D:\home\repository' to: 'D:\home\site',,0
+	2022-07-10T14:42:58.3645487Z,Copying file: 'app\CsvImporter.php',,0
+	2022-07-10T14:42:58.3645487Z,Copying file: 'app\Location.php',,0
+	2022-07-10T14:42:58.3801830Z,Copying file: 'app\Notification.php',,0
+	2022-07-10T14:42:58.3958110Z,Copying file: 'app\XmlExporter.php',,0
+	2022-07-10T14:42:58.4114310Z,Copying file: 'app\Console\Commands\AutosaveCsvImportsValidSegments.php',,0
+	2022-07-10T14:42:58.4270588Z,Copying file: 'app\Console\Commands\GetLatestNotificationsAndPieceParts.php',,0
+	2022-07-10T14:42:58.4426831Z,Copying file: 'app\Console\Commands\GetLatestSingaporeNotificationsAndPieceParts.php',,0
+	2022-07-10T14:42:58.4583075Z,Copying file: 'app\Console\Commands\RemoveSourceDataFromMiscSegmentValues.php',,0
+	2022-07-10T14:42:58.4739338Z,Copying file: 'app\Http\Controllers\ApiController.php',,0
+	2022-07-10T14:42:58.4895589Z,Copying file: 'app\Http\Controllers\CsvImporterController.php',,0
+	2022-07-10T14:42:58.5051962Z,Copying file: 'app\Http\Controllers\InformationController.php',,0
+	2022-07-10T14:42:58.5051962Z,Copying file: 'app\Http\Controllers\LocationController.php',,0
+	2022-07-10T14:42:58.5208087Z,Copying file: 'app\Http\Controllers\Misc_SegmentController.php',,0
+	2022-07-10T14:42:58.5364342Z,Copying file: 'app\Http\Controllers\PartListController.php',,0
+	2022-07-10T14:42:58.5364342Z,Copying file: 'app\Listeners\UpdateSegmentValidation.php',,0
+	2022-07-10T14:43:00.1989530Z,Copying file: 'app\Listeners\UpdateValidation.php',,0
+	2022-07-10T14:43:00.1989530Z,Copying file: 'app\PieceParts\NHS_Segment.php',,0
+	2022-07-10T14:43:00.2145866Z,Copying file: 'app\PieceParts\RPS_Segment.php',,0
+	2022-07-10T14:43:00.2302366Z,Copying file: 'app\PieceParts\WPS_Segment.php',,0
+	2022-07-10T14:43:00.2458372Z,Copying file: 'app\Providers\AuthServiceProvider.php',,0
+	2022-07-10T14:43:00.2458372Z,Copying file: 'app\ShopFindings\ShopFinding.php',,0
+	2022-07-10T14:43:00.2614725Z,Copying file: 'app\Traits\DateTrait.php',,0
+	2022-07-10T14:43:00.2770855Z,Copying file: 'app\ValidationProfiles\DefaultProfile.php',,0
+	2022-07-10T14:43:00.2927109Z,Copying file: 'app\ValidationProfiles\UtasProfile.php',,0
+	2022-07-10T14:43:00.3083373Z,Copying file: 'bootstrap\cache\packages.php',,0
+	2022-07-10T14:43:00.3239634Z,Copying file: 'bootstrap\cache\services.php',,0
+	2022-07-10T14:43:00.3395895Z,Copying file: 'config\filesystems.php',,0
+	2022-07-10T14:43:00.3395895Z,Copying file: 'database\factories\ShopFindingFactory.php',,0
+	2022-07-10T14:43:00.3552164Z,Copying file: 'database\migrations\2021_12_06_101637_add_extra_columns_to_notifications_table.php',,0
+	2022-07-10T14:43:00.3708416Z,Copying file: 'database\migrations\2022_03_18_153027_add_autosaved_at_column_to_notifications_table.php',,0
+	2022-07-10T14:43:00.3864634Z,Copying file: 'resources\views\bitbucket\.DS_Store',,0
+	2022-07-10T14:43:00.4020883Z,Copying file: 'resources\views\csv-importer\create.blade.php',,0
+	2022-07-10T14:43:00.4177138Z,Copying file: 'resources\views\dataset\index.blade.php',,0
+	2022-07-10T14:43:01.0271420Z,Copying file: 'resources\views\deleted\index.blade.php',,0
+	2022-07-10T14:43:01.0427293Z,Copying file: 'resources\views\export\index.blade.php',,0
+	2022-07-10T14:43:01.0583609Z,Copying file: 'resources\views\info\location-parts.blade.php',,0
+	2022-07-10T14:43:01.0740227Z,Copying file: 'resources\views\location\create.blade.php',,0
+	2022-07-10T14:43:01.0895984Z,Copying file: 'resources\views\location\delete.blade.php',,0
+	2022-07-10T14:43:01.0895984Z,Copying file: 'resources\views\location\edit.blade.php',,0
+	2022-07-10T14:43:01.1052231Z,Copying file: 'resources\views\location\index.blade.php',,0
+	2022-07-10T14:43:01.1208486Z,Copying file: 'resources\views\notifications\index.blade.php',,0
+	2022-07-10T14:43:01.1364721Z,Copying file: 'resources\views\part-list\create.blade.php',,0
+	2022-07-10T14:43:01.1520977Z,Copying file: 'resources\views\part-list\delete.blade.php',,0
+	2022-07-10T14:43:01.1520977Z,Copying file: 'resources\views\part-list\edit.blade.php',,0
+	2022-07-10T14:43:01.1677228Z,Copying file: 'resources\views\part-list\index.blade.php',,0
+	2022-07-10T14:43:01.1833495Z,Copying file: 'resources\views\partials\footer.blade.php',,0
+	2022-07-10T14:43:01.1990438Z,Copying file: 'resources\views\partials\key.blade.php',,0
+	2022-07-10T14:43:01.1990438Z,Copying file: 'resources\views\partials\main-nav.blade.php',,0
+	2022-07-10T14:43:01.2145996Z,Omitting next output lines...,,0
+	2022-07-10T14:43:20.0887938Z,Finished successfully.,,0
+2022-07-10T14:43:20.1357131Z,Running post deployment command(s)...,55358b35-bb7b-4e52-aa79-7dec12c9e064,0
+2022-07-10T14:43:20.2294582Z,Triggering recycle (preview mode disabled).,472c66aa-f7fd-41df-8346-f368307a46dd,0
+2022-07-10T14:43:20.2919228Z,Deployment successful.,9f073c5f-c30b-43ef-959e-80fa1528d1f7,0

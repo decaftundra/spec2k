@@ -1,0 +1,264 @@
+2021-10-31T16:44:02.5568481Z,Updating submodules.,d25a727c-373b-455f-b3df-75bb8d97955b,0
+2021-10-31T16:44:02.6978599Z,Preparing deployment for commit id '14da7dd058'.,31d1afc7-b237-4d74-9f3f-25632e6ac733,0
+2021-10-31T16:44:02.8849799Z,Running custom deployment command...,cb2afb51-d976-41d5-b033-7d8aa14f90d9,0
+2021-10-31T16:44:02.9318721Z,Running deployment command...,3a0cde64-1739-48aa-90a1-2d3a3906d8d8,0
+	2021-10-31T16:44:02.9318721Z,Command: D:\home\SiteExtensions\ComposerExtension\Hooks\deploy.cmd,,0
+	2021-10-31T16:44:05.5298641Z,Install Dependencies with Composer,,0
+	2021-10-31T16:44:10.2564633Z,Installing dependencies from lock file,,1
+	2021-10-31T16:44:10.2564633Z,Verifying lock file contents can be installed on current platform.,,1
+	2021-10-31T16:44:10.4752196Z,Package operations: 4 installs&comma; 65 updates&comma; 2 removals,,1
+	2021-10-31T16:44:10.4908455Z,  - Downloading symfony/deprecation-contracts (v2.4.0),,1
+	2021-10-31T16:44:10.4908455Z,  - Downloading psr/http-client (1.0.1),,1
+	2021-10-31T16:44:10.4908455Z,  - Downloading guzzlehttp/psr7 (1.8.3),,1
+	2021-10-31T16:44:10.5064703Z,  - Downloading guzzlehttp/promises (1.5.1),,1
+	2021-10-31T16:44:10.5064703Z,  - Downloading guzzlehttp/guzzle (7.4.0),,1
+	2021-10-31T16:44:10.5220957Z,  - Downloading microsoft/azure-storage-common (1.5.2),,1
+	2021-10-31T16:44:10.5220957Z,  - Downloading microsoft/azure-storage-file (1.2.5),,1
+	2021-10-31T16:44:10.5220957Z,  - Downloading league/mime-type-detection (1.8.0),,1
+	2021-10-31T16:44:10.5377216Z,  - Downloading league/flysystem (1.1.5),,1
+	2021-10-31T16:44:10.5377216Z,  - Downloading doctrine/deprecations (v0.5.3),,1
+	2021-10-31T16:44:10.5697602Z,  - Downloading doctrine/cache (2.1.1),,1
+	2021-10-31T16:44:10.6158483Z,  - Downloading doctrine/dbal (2.13.4),,1
+	2021-10-31T16:44:10.6158483Z,  - Downloading doctrine/inflector (2.0.4),,1
+	2021-10-31T16:44:10.6314725Z,  - Downloading symfony/polyfill-ctype (v1.23.0),,1
+	2021-10-31T16:44:10.6314725Z,  - Downloading symfony/polyfill-php80 (v1.23.1),,1
+	2021-10-31T16:44:10.6470981Z,  - Downloading symfony/polyfill-mbstring (v1.23.1),,1
+	2021-10-31T16:44:10.6470981Z,  - Downloading phpoption/phpoption (1.8.0),,1
+	2021-10-31T16:44:10.6470981Z,  - Downloading graham-campbell/result-type (v1.0.3),,1
+	2021-10-31T16:44:10.6627259Z,  - Downloading vlucas/phpdotenv (v5.3.1),,1
+	2021-10-31T16:44:10.6627259Z,  - Downloading symfony/css-selector (v5.3.4),,1
+	2021-10-31T16:44:10.6627259Z,  - Downloading symfony/var-dumper (v5.3.8),,1
+	2021-10-31T16:44:10.6783498Z,  - Downloading symfony/routing (v5.3.7),,1
+	2021-10-31T16:44:10.6783498Z,  - Downloading symfony/process (v5.3.7),,1
+	2021-10-31T16:44:10.6783498Z,  - Downloading symfony/polyfill-php72 (v1.23.0),,1
+	2021-10-31T16:44:10.6783498Z,  - Downloading symfony/polyfill-intl-normalizer (v1.23.0),,1
+	2021-10-31T16:44:10.6939744Z,  - Downloading symfony/polyfill-intl-idn (v1.23.0),,1
+	2021-10-31T16:44:10.6939744Z,  - Downloading symfony/mime (v5.3.8),,1
+	2021-10-31T16:44:10.6939744Z,  - Downloading symfony/polyfill-php73 (v1.23.0),,1
+	2021-10-31T16:44:10.6939744Z,  - Downloading symfony/http-foundation (v5.3.7),,1
+	2021-10-31T16:44:10.7096007Z,  - Downloading symfony/http-client-contracts (v2.4.0),,1
+	2021-10-31T16:44:10.7096007Z,  - Downloading symfony/event-dispatcher-contracts (v2.4.0),,1
+	2021-10-31T16:44:10.7096007Z,  - Downloading symfony/event-dispatcher (v5.3.7),,1
+	2021-10-31T16:44:10.7252266Z,  - Downloading psr/log (1.1.4),,1
+	2021-10-31T16:44:10.7252266Z,  - Downloading symfony/error-handler (v5.3.7),,1
+	2021-10-31T16:44:10.7252266Z,  - Downloading symfony/http-kernel (v5.3.9),,1
+	2021-10-31T16:44:10.7252266Z,  - Downloading symfony/finder (v5.3.7),,1
+	2021-10-31T16:44:10.7252266Z,  - Downloading symfony/polyfill-intl-grapheme (v1.23.1),,1
+	2021-10-31T16:44:10.7408527Z,  - Downloading symfony/string (v5.3.7),,1
+	2021-10-31T16:44:10.7408527Z,  - Downloading symfony/service-contracts (v2.4.0),,1
+	2021-10-31T16:44:10.7564775Z,  - Downloading symfony/console (v5.3.7),,1
+	2021-10-31T16:44:10.7564775Z,  - Downloading symfony/polyfill-iconv (v1.23.0),,1
+	2021-10-31T16:44:10.7564775Z,  - Downloading swiftmailer/swiftmailer (v6.3.0),,1
+	2021-10-31T16:44:10.7564775Z,  - Downloading symfony/polyfill-php81 (v1.23.0),,1
+	2021-10-31T16:44:10.7564775Z,  - Downloading ramsey/collection (1.2.2),,1
+	2021-10-31T16:44:10.7721008Z,  - Downloading brick/math (0.9.3),,1
+	2021-10-31T16:44:10.7721008Z,  - Downloading ramsey/uuid (4.2.3),,1
+	2021-10-31T16:44:10.7721008Z,  - Downloading opis/closure (3.6.2),,1
+	2021-10-31T16:44:10.7877286Z,  - Downloading symfony/translation-contracts (v2.4.0),,1
+	2021-10-31T16:44:10.7877286Z,  - Downloading symfony/translation (v5.3.9),,1
+	2021-10-31T16:44:10.8033524Z,  - Downloading nesbot/carbon (2.53.1),,1
+	2021-10-31T16:44:10.8033524Z,  - Downloading monolog/monolog (2.3.5),,1
+	2021-10-31T16:44:10.8033524Z,  - Downloading league/commonmark (1.6.6),,1
+	2021-10-31T16:44:10.8189783Z,  - Downloading laravel/serializable-closure (v1.0.3),,1
+	2021-10-31T16:44:10.8189783Z,  - Downloading laravel/framework (v8.68.1),,1
+	2021-10-31T16:44:10.8189783Z,  - Downloading fruitcake/laravel-cors (v2.0.4),,1
+	2021-10-31T16:44:10.8346043Z,  - Downloading laravel/legacy-factories (v1.1.1),,1
+	2021-10-31T16:44:10.8346043Z,  - Downloading symfony/psr-http-message-bridge (v2.1.1),,1
+	2021-10-31T16:44:10.8346043Z,  - Downloading phpseclib/phpseclib (3.0.11),,1
+	2021-10-31T16:44:10.8502304Z,  - Downloading nyholm/psr7 (1.4.1),,1
+	2021-10-31T16:44:10.8502304Z,  - Downloading lcobucci/jwt (3.4.6),,1
+	2021-10-31T16:44:10.8658545Z,  - Downloading defuse/php-encryption (v2.3.1),,1
+	2021-10-31T16:44:10.8658545Z,  - Downloading league/oauth2-server (8.3.3),,1
+	2021-10-31T16:44:10.8658545Z,  - Downloading firebase/php-jwt (v5.4.0),,1
+	2021-10-31T16:44:10.8658545Z,  - Downloading laravel/passport (v10.1.4),,1
+	2021-10-31T16:44:10.8658545Z,  - Downloading nikic/php-parser (v4.13.0),,1
+	2021-10-31T16:44:10.8814801Z,  - Downloading psy/psysh (v0.10.9),,1
+	2021-10-31T16:44:10.8814801Z,  - Downloading laravel/tinker (v2.6.2),,1
+	2021-10-31T16:44:10.8814801Z,  - Downloading laravel/ui (v3.3.0),,1
+	2021-10-31T16:44:10.8814801Z,  - Downloading microsoft/azure-storage-blob (1.5.3),,1
+	2021-10-31T16:44:11.5533718Z,  0/69 [>---------------------------]   0%,,1
+	2021-10-31T16:44:11.7565032Z,  1/69 [>---------------------------]   1%,,1
+	2021-10-31T16:44:11.9596321Z,  7/69 [==>-------------------------]  10%,,1
+	2021-10-31T16:44:12.2252760Z, 10/69 [====>-----------------------]  14%,,1
+	2021-10-31T16:44:12.3346428Z, 11/69 [====>-----------------------]  15%,,1
+	2021-10-31T16:44:12.3971551Z, 15/69 [======>---------------------]  21%,,1
+	2021-10-31T16:44:12.5846510Z, 16/69 [======>---------------------]  23%,,1
+	2021-10-31T16:44:12.7565300Z, 18/69 [=======>--------------------]  26%,,1
+	2021-10-31T16:44:12.8971568Z, 23/69 [=========>------------------]  33%,,1
+	2021-10-31T16:44:13.0065335Z, 25/69 [==========>-----------------]  36%,,1
+	2021-10-31T16:44:13.0846816Z, 26/69 [==========>-----------------]  37%,,1
+	2021-10-31T16:44:13.1940705Z, 27/69 [==========>-----------------]  39%,,1
+	2021-10-31T16:44:13.3034233Z, 29/69 [===========>----------------]  42%,,1
+	2021-10-31T16:44:13.3971711Z, 31/69 [============>---------------]  44%,,1
+	2021-10-31T16:44:13.5065481Z, 34/69 [=============>--------------]  49%,,1
+	2021-10-31T16:44:13.6471734Z, 37/69 [===============>------------]  53%,,1
+	2021-10-31T16:44:13.7721793Z, 39/69 [===============>------------]  56%,,1
+	2021-10-31T16:44:13.9284346Z, 40/69 [================>-----------]  57%,,1
+	2021-10-31T16:44:14.0846930Z, 42/69 [=================>----------]  60%,,1
+	2021-10-31T16:44:14.1784459Z, 44/69 [=================>----------]  63%,,1
+	2021-10-31T16:44:14.3347062Z, 46/69 [==================>---------]  66%,,1
+	2021-10-31T16:44:14.5534679Z, 49/69 [===================>--------]  71%,,1
+	2021-10-31T16:44:14.6159703Z, 50/69 [====================>-------]  72%,,1
+	2021-10-31T16:44:14.6941006Z, 51/69 [====================>-------]  73%,,1
+	2021-10-31T16:44:14.9909919Z, 53/69 [=====================>------]  76%,,1
+	2021-10-31T16:44:15.0534972Z, 55/69 [======================>-----]  79%,,1
+	2021-10-31T16:44:15.1472558Z, 56/69 [======================>-----]  81%,,1
+	2021-10-31T16:44:15.3816419Z, 58/69 [=======================>----]  84%,,1
+	2021-10-31T16:44:15.5379007Z, 61/69 [========================>---]  88%,,1
+	2021-10-31T16:44:15.6004038Z, 64/69 [=========================>--]  92%,,1
+	2021-10-31T16:44:15.6941569Z, 65/69 [==========================>-]  94%,,1
+	2021-10-31T16:44:15.9152640Z, 68/69 [===========================>]  98%,,1
+	2021-10-31T16:44:15.9621395Z, 69/69 [============================] 100%  - Removing microsoft/application-insights (0.4.5),,1
+	2021-10-31T16:44:17.3102739Z,  - Removing dnoegel/php-xdg-base-dir (v0.1.1),,1
+	2021-10-31T16:44:20.2033902Z,  - Upgrading symfony/deprecation-contracts (v2.2.0 => v2.4.0): Extracting archive,,1
+	2021-10-31T16:44:20.3440199Z,  - Installing psr/http-client (1.0.1): Extracting archive,,1
+	2021-10-31T16:44:24.3635995Z,  - Upgrading guzzlehttp/psr7 (1.8.1 => 1.8.3): Extracting archive,,1
+	2021-10-31T16:44:26.3219685Z,  - Upgrading guzzlehttp/promises (1.4.1 => 1.5.1): Extracting archive,,1
+	2021-10-31T16:44:29.2713752Z,  - Upgrading guzzlehttp/guzzle (6.3.3 => 7.4.0): Extracting archive,,1
+	2021-10-31T16:44:32.4919259Z,  - Upgrading microsoft/azure-storage-common (1.5.1 => 1.5.2): Extracting archive,,1
+	2021-10-31T16:44:35.0385011Z,  - Upgrading microsoft/azure-storage-file (1.2.4 => 1.2.5): Extracting archive,,1
+	2021-10-31T16:44:36.4780746Z,  - Upgrading league/mime-type-detection (1.7.0 => 1.8.0): Extracting archive,,1
+	2021-10-31T16:44:39.4966872Z,  - Upgrading league/flysystem (1.1.3 => 1.1.5): Extracting archive,,1
+	2021-10-31T16:44:39.6529328Z,  - Installing doctrine/deprecations (v0.5.3): Extracting archive,,1
+	2021-10-31T16:44:42.6703506Z,  - Upgrading doctrine/cache (1.10.2 => 2.1.1): Extracting archive,,1
+	2021-10-31T16:44:53.5350129Z,  - Upgrading doctrine/dbal (2.12.1 => 2.13.4): Extracting archive,,1
+	2021-10-31T16:44:55.9305572Z,  - Upgrading doctrine/inflector (2.0.3 => 2.0.4): Extracting archive,,1
+	2021-10-31T16:44:57.4362875Z,  - Upgrading symfony/polyfill-ctype (v1.22.1 => v1.23.0): Extracting archive,,1
+	2021-10-31T16:44:59.0769421Z,  - Upgrading symfony/polyfill-php80 (v1.22.1 => v1.23.1): Extracting archive,,1
+	2021-10-31T16:45:00.7958075Z,  - Upgrading symfony/polyfill-mbstring (v1.22.1 => v1.23.1): Extracting archive,,1
+	2021-10-31T16:45:03.6708495Z,  - Upgrading phpoption/phpoption (1.7.5 => 1.8.0): Extracting archive,,1
+	2021-10-31T16:45:05.3114938Z,  - Upgrading graham-campbell/result-type (v1.0.1 => v1.0.3): Extracting archive,,1
+	2021-10-31T16:45:07.7646524Z,  - Upgrading vlucas/phpdotenv (v5.3.0 => v5.3.1): Extracting archive,,1
+	2021-10-31T16:45:10.7959517Z,  - Upgrading symfony/css-selector (v5.2.4 => v5.3.4): Extracting archive,,1
+	2021-10-31T16:45:14.1133061Z,  - Upgrading symfony/var-dumper (v5.2.5 => v5.3.8): Extracting archive,,1
+	2021-10-31T16:45:16.5852954Z,  - Upgrading symfony/routing (v5.2.4 => v5.3.7): Extracting archive,,1
+	2021-10-31T16:45:18.6790641Z,  - Upgrading symfony/process (v5.2.4 => v5.3.7): Extracting archive,,1
+	2021-10-31T16:45:20.2103307Z,  - Upgrading symfony/polyfill-php72 (v1.22.1 => v1.23.0): Extracting archive,,1
+	2021-10-31T16:45:21.8510306Z,  - Upgrading symfony/polyfill-intl-normalizer (v1.22.1 => v1.23.0): Extracting archive,,1
+	2021-10-31T16:45:23.6330424Z,  - Upgrading symfony/polyfill-intl-idn (v1.22.1 => v1.23.0): Extracting archive,,1
+	2021-10-31T16:45:26.4042427Z,  - Upgrading symfony/mime (v5.2.5 => v5.3.8): Extracting archive,,1
+	2021-10-31T16:45:27.8261012Z,  - Upgrading symfony/polyfill-php73 (v1.22.1 => v1.23.0): Extracting archive,,1
+	2021-10-31T16:45:30.9668000Z,  - Upgrading symfony/http-foundation (v5.2.4 => v5.3.7): Extracting archive,,1
+	2021-10-31T16:45:32.5768274Z,  - Upgrading symfony/http-client-contracts (v2.3.1 => v2.4.0): Extracting archive,,1
+	2021-10-31T16:45:33.8894111Z,  - Upgrading symfony/event-dispatcher-contracts (v2.2.0 => v2.4.0): Extracting archive,,1
+	2021-10-31T16:45:36.0161135Z,  - Upgrading symfony/event-dispatcher (v5.2.4 => v5.3.7): Extracting archive,,1
+	2021-10-31T16:45:37.5786067Z,  - Upgrading psr/log (1.1.3 => 1.1.4): Extracting archive,,1
+	2021-10-31T16:45:39.6128528Z,  - Upgrading symfony/error-handler (v5.2.4 => v5.3.7): Extracting archive,,1
+	2021-10-31T16:45:43.4539265Z,  - Upgrading symfony/http-kernel (v5.2.5 => v5.3.9): Extracting archive,,1
+	2021-10-31T16:45:45.5236269Z,  - Upgrading symfony/finder (v5.2.4 => v5.3.7): Extracting archive,,1
+	2021-10-31T16:45:46.9768005Z,  - Upgrading symfony/polyfill-intl-grapheme (v1.22.1 => v1.23.1): Extracting archive,,1
+	2021-10-31T16:45:48.5705415Z,  - Upgrading symfony/string (v5.2.4 => v5.3.7): Extracting archive,,1
+	2021-10-31T16:45:50.5705550Z,  - Upgrading symfony/service-contracts (v2.2.0 => v2.4.0): Extracting archive,,1
+	2021-10-31T16:45:53.7125644Z,  - Upgrading symfony/console (v5.2.5 => v5.3.7): Extracting archive,,1
+	2021-10-31T16:45:56.1677211Z,  - Upgrading symfony/polyfill-iconv (v1.22.1 => v1.23.0): Extracting archive,,1
+	2021-10-31T16:46:01.2836326Z,  - Upgrading swiftmailer/swiftmailer (v6.2.7 => v6.3.0): Extracting archive,,1
+	2021-10-31T16:46:01.4086071Z,  - Installing symfony/polyfill-php81 (v1.23.0): Extracting archive,,1
+	2021-10-31T16:46:04.3860607Z,  - Upgrading ramsey/collection (1.1.3 => 1.2.2): Extracting archive,,1
+	2021-10-31T16:46:06.1204760Z,  - Upgrading brick/math (0.9.2 => 0.9.3): Extracting archive,,1
+	2021-10-31T16:46:09.7303201Z,  - Upgrading ramsey/uuid (4.1.1 => 4.2.3): Extracting archive,,1
+	2021-10-31T16:46:11.4525884Z,  - Upgrading opis/closure (3.6.1 => 3.6.2): Extracting archive,,1
+	2021-10-31T16:46:13.3704573Z,  - Upgrading symfony/translation-contracts (v2.3.0 => v2.4.0): Extracting archive,,1
+	2021-10-31T16:46:16.2925696Z,  - Upgrading symfony/translation (v5.2.5 => v5.3.9): Extracting archive,,1
+	2021-10-31T16:46:32.8149280Z,  - Upgrading nesbot/carbon (2.46.0 => 2.53.1): Extracting archive,,1
+	2021-10-31T16:46:36.6216990Z,  - Upgrading monolog/monolog (2.2.0 => 2.3.5): Extracting archive,,1
+	2021-10-31T16:46:44.5279079Z,  - Upgrading league/commonmark (1.5.7 => 1.6.6): Extracting archive,,1
+	2021-10-31T16:46:44.6529087Z,  - Installing laravel/serializable-closure (v1.0.3): Extracting archive,,1
+	2021-10-31T16:47:17.4821289Z,  - Upgrading laravel/framework (v8.34.0 => v8.68.1): Extracting archive,,1
+	2021-10-31T16:47:19.2790044Z,  - Upgrading fruitcake/laravel-cors (v2.0.3 => v2.0.4): Extracting archive,,1
+	2021-10-31T16:47:20.9453096Z,  - Upgrading laravel/legacy-factories (v1.1.0 => v1.1.1): Extracting archive,,1
+	2021-10-31T16:47:22.9837819Z,  - Upgrading symfony/psr-http-message-bridge (v2.1.0 => v2.1.1): Extracting archive,,1
+	2021-10-31T16:47:32.5813824Z,  - Upgrading phpseclib/phpseclib (3.0.6 => 3.0.11): Extracting archive,,1
+	2021-10-31T16:47:34.2098180Z,  - Upgrading nyholm/psr7 (1.4.0 => 1.4.1): Extracting archive,,1
+	2021-10-31T16:47:37.0702589Z,  - Upgrading lcobucci/jwt (3.4.5 => 3.4.6): Extracting archive,,1
+	2021-10-31T16:47:39.1059070Z,  - Upgrading defuse/php-encryption (v2.2.1 => v2.3.1): Extracting archive,,1
+	2021-10-31T16:47:41.7359416Z,  - Upgrading league/oauth2-server (8.2.4 => 8.3.3): Extracting archive,,1
+	2021-10-31T16:47:43.3882770Z,  - Upgrading firebase/php-jwt (v5.2.1 => v5.4.0): Extracting archive,,1
+	2021-10-31T16:47:46.4413937Z,  - Upgrading laravel/passport (v10.1.2 => v10.1.4): Extracting archive,,1
+	2021-10-31T16:47:51.9167658Z,  - Upgrading nikic/php-parser (v4.10.4 => v4.13.0): Extracting archive,,1
+	2021-10-31T16:47:56.6748099Z,  - Upgrading psy/psysh (v0.10.7 => v0.10.9): Extracting archive,,1
+	2021-10-31T16:47:58.4248621Z,  - Upgrading laravel/tinker (v2.6.1 => v2.6.2): Extracting archive,,1
+	2021-10-31T16:48:00.8196944Z,  - Upgrading laravel/ui (v3.2.0 => v3.3.0): Extracting archive,,1
+	2021-10-31T16:48:03.9159029Z,  - Upgrading microsoft/azure-storage-blob (1.5.2 => 1.5.3): Extracting archive,,1
+	2021-10-31T16:48:04.3874039Z,    0 [>---------------------------]    0 [>---------------------------]Generating optimized autoload files,,1
+	2021-10-31T16:48:58.6427070Z,> Illuminate\Foundation\ComposerScripts::postAutoloadDump,,1
+	2021-10-31T16:48:59.3145913Z,> @php artisan package:discover --ansi,,1
+	2021-10-31T16:49:05.8932137Z,Discovered Package: [32macademe/laravel-azure-file-storage-driver[39m,,0
+	2021-10-31T16:49:05.8932137Z,Discovered Package: [32mfideloper/proxy[39m,,0
+	2021-10-31T16:49:05.8932137Z,Discovered Package: [32mfruitcake/laravel-cors[39m,,0
+	2021-10-31T16:49:05.8932137Z,Discovered Package: [32mixudra/curl[39m,,0
+	2021-10-31T16:49:05.9088245Z,Discovered Package: [32mlaracasts/utilities[39m,,0
+	2021-10-31T16:49:05.9088245Z,Discovered Package: [32mlaravel/legacy-factories[39m,,0
+	2021-10-31T16:49:05.9088245Z,Discovered Package: [32mlaravel/passport[39m,,0
+	2021-10-31T16:49:05.9088245Z,Discovered Package: [32mlaravel/tinker[39m,,0
+	2021-10-31T16:49:05.9244422Z,Discovered Package: [32mlaravel/ui[39m,,0
+	2021-10-31T16:49:05.9244422Z,Discovered Package: [32mmadnest/madzipper[39m,,0
+	2021-10-31T16:49:05.9400702Z,Discovered Package: [32mmatthewbdaly/laravel-azure-storage[39m,,0
+	2021-10-31T16:49:05.9400702Z,Discovered Package: [32mnesbot/carbon[39m,,0
+	2021-10-31T16:49:05.9400702Z,[32mPackage manifest generated successfully.[39m,,0
+	2021-10-31T16:49:05.9869435Z,58 packages you are using are looking for funding.,,1
+	2021-10-31T16:49:05.9869435Z,Use the `composer fund` command to find out more!,,1
+	2021-10-31T16:49:06.0181957Z,Handling Basic Web Site deployment.,,0
+	2021-10-31T16:49:08.2647951Z,Creating app_offline.htm,,0
+	2021-10-31T16:49:08.2647951Z,KuduSync.NET from: 'D:\home\repository' to: 'D:\home\site',,0
+	2021-10-31T16:49:08.2804223Z,Copying file: 'composer.json',,0
+	2021-10-31T16:49:08.2804223Z,Copying file: 'composer.lock',,0
+	2021-10-31T16:49:08.2804223Z,Copying file: 'app\Notification.php',,0
+	2021-10-31T16:49:08.2804223Z,Copying file: 'app\User.php',,0
+	2021-10-31T16:49:08.2804223Z,Copying file: 'app\UtasCode.php',,0
+	2021-10-31T16:49:08.2960450Z,Copying file: 'app\Console\Commands\GetLatestNotificationsAndPieceParts.php',,0
+	2021-10-31T16:49:08.2960450Z,Copying file: 'app\Exceptions\Handler.php',,0
+	2021-10-31T16:49:08.2960450Z,Copying file: 'app\Http\Kernel.php',,0
+	2021-10-31T16:49:08.2960450Z,Copying file: 'app\Http\Controllers\NotificationsController.php',,0
+	2021-10-31T16:49:08.3116760Z,Deleting file: 'app\Http\Middleware\AzureApplicationInsightsMiddleware.php',,0
+	2021-10-31T16:49:08.3116760Z,Copying file: 'app\Listeners\LogFailedLogin.php',,0
+	2021-10-31T16:49:08.3116760Z,Copying file: 'app\Listeners\LogPasswordUpdate.php',,0
+	2021-10-31T16:49:08.3272995Z,Copying file: 'app\Listeners\LogRegisteredUser.php',,0
+	2021-10-31T16:49:08.3272995Z,Copying file: 'app\Listeners\LogSuccessfulLogin.php',,0
+	2021-10-31T16:49:08.3272995Z,Copying file: 'app\Listeners\LogSuccessfulLogout.php',,0
+	2021-10-31T16:49:08.3429401Z,Copying file: 'app\Listeners\LogSuccessfulPasswordReset.php',,0
+	2021-10-31T16:49:08.3429401Z,Copying file: 'app\Providers\AppServiceProvider.php',,0
+	2021-10-31T16:49:08.3585490Z,Copying file: 'app\ShopFindings\ShopFinding.php',,0
+	2021-10-31T16:49:12.1772357Z,Copying file: 'bootstrap\cache\packages.php',,0
+	2021-10-31T16:49:12.1928557Z,Copying file: 'bootstrap\cache\services.php',,0
+	2021-10-31T16:49:12.1928557Z,Copying file: 'database\seeders\AdditionalUtasPartsCrossReferenceSeeder.php',,0
+	2021-10-31T16:49:12.1928557Z,Copying file: 'database\seeders\AdditionalUtasPartsSeeder.php',,0
+	2021-10-31T16:49:12.1928557Z,Copying file: 'database\seeders\DatabaseSeeder.php',,0
+	2021-10-31T16:49:12.2084840Z,Copying file: 'database\seeders\csvs\utas_codes\additional-collins-parts-28-10-2021.csv',,0
+	2021-10-31T16:49:12.2084840Z,Copying file: 'database\seeders\csvs\utas_codes\additional-collins-parts-cross-reference-28-10-2021.csv',,0
+	2021-10-31T16:49:12.2084840Z,Copying file: 'resources\views\notifications\index.blade.php',,0
+	2021-10-31T16:49:12.2084840Z,Copying file: 'tests\Feature\RCS_SegmentTest.php',,0
+	2021-10-31T16:49:12.2241082Z,Deleting file: 'vendor\dnoegel\php-xdg-base-dir\composer.json',,0
+	2021-10-31T16:49:12.2241082Z,Deleting file: 'vendor\dnoegel\php-xdg-base-dir\LICENSE',,0
+	2021-10-31T16:49:12.2397429Z,Deleting file: 'vendor\dnoegel\php-xdg-base-dir\README.md',,0
+	2021-10-31T16:49:12.2397429Z,Deleting file: 'vendor\dnoegel\php-xdg-base-dir\src\Xdg.php',,0
+	2021-10-31T16:49:12.2553597Z,Deleting directory: 'vendor\dnoegel\php-xdg-base-dir\src',,0
+	2021-10-31T16:49:12.2553597Z,Deleting directory: 'vendor\dnoegel\php-xdg-base-dir',,0
+	2021-10-31T16:49:12.2709854Z,Deleting directory: 'vendor\dnoegel',,0
+	2021-10-31T16:49:12.2709854Z,Copying file: 'vendor\bin\carbon',,0
+	2021-10-31T16:49:12.6147383Z,Copying file: 'vendor\bin\carbon.bat',,0
+	2021-10-31T16:49:12.6147383Z,Copying file: 'vendor\bin\commonmark',,0
+	2021-10-31T16:49:12.6303669Z,Copying file: 'vendor\bin\commonmark.bat',,0
+	2021-10-31T16:49:12.6303669Z,Copying file: 'vendor\bin\doctrine-dbal',,0
+	2021-10-31T16:49:12.6474875Z,Copying file: 'vendor\bin\doctrine-dbal.bat',,0
+	2021-10-31T16:49:12.6474875Z,Copying file: 'vendor\bin\generate-defuse-key',,0
+	2021-10-31T16:49:12.6474875Z,Copying file: 'vendor\bin\generate-defuse-key.bat',,0
+	2021-10-31T16:49:12.6616178Z,Copying file: 'vendor\bin\php-parse',,0
+	2021-10-31T16:49:12.6616178Z,Copying file: 'vendor\bin\php-parse.bat',,0
+	2021-10-31T16:49:12.6616178Z,Copying file: 'vendor\bin\psysh',,0
+	2021-10-31T16:49:12.6616178Z,Copying file: 'vendor\bin\psysh.bat',,0
+	2021-10-31T16:49:12.6616178Z,Copying file: 'vendor\bin\var-dump-server',,0
+	2021-10-31T16:49:12.6772391Z,Copying file: 'vendor\bin\var-dump-server.bat',,0
+	2021-10-31T16:49:12.6772391Z,Omitting next output lines...,,0
+	2021-10-31T16:49:32.6416504Z,Processed 643 files...,,0
+	2021-10-31T16:49:52.6438804Z,Processed 1296 files...,,0
+	2021-10-31T16:50:12.6462236Z,Processed 1919 files...,,0
+	2021-10-31T16:50:32.6860743Z,Processed 2557 files...,,0
+	2021-10-31T16:50:52.7193951Z,Processed 3179 files...,,0
+	2021-10-31T16:51:12.7352662Z,Processed 3780 files...,,0
+	2021-10-31T16:51:32.7472344Z,Processed 4312 files...,,0
+	2021-10-31T16:51:52.7742885Z,Processed 4800 files...,,0
+	2021-10-31T16:52:12.8428130Z,Processed 5381 files...,,0
+	2021-10-31T16:52:31.3899120Z,Finished successfully.,,0
+2021-10-31T16:52:31.4524971Z,Running post deployment command(s)...,0197ece7-058b-46eb-ace2-6d6930d3b793,0
+2021-10-31T16:52:31.5305474Z,Triggering recycle (preview mode disabled).,05e734f8-c281-429c-8726-bf1c8194298c,0
+2021-10-31T16:52:31.6086930Z,Deployment successful.,28c98610-a574-45f8-ae04-809c7530b3dd,0

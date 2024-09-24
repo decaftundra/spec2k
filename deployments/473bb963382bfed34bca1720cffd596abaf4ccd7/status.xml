@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>473bb963382bfed34bca1720cffd596abaf4ccd7</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Standardised column order putting buttons on the far left.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2021-11-14T20:10:28.5734585Z</lastSuccessEndTime>
+  <receivedTime>2021-11-14T20:06:32.2740699Z</receivedTime>
+  <startTime>2021-11-14T20:06:32.6021912Z</startTime>
+  <endTime>2021-11-14T20:10:28.5734585Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

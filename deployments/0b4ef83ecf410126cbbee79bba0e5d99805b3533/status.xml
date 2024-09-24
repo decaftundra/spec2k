@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>0b4ef83ecf410126cbbee79bba0e5d99805b3533</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Fixes user role bug, adds rank to user roles.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2021-06-27T15:57:44.9395172Z</lastSuccessEndTime>
+  <receivedTime>2021-06-27T15:54:07.3653999Z</receivedTime>
+  <startTime>2021-06-27T15:54:07.5529049Z</startTime>
+  <endTime>2021-06-27T15:57:44.9395172Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

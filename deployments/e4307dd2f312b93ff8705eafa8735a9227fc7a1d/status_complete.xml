@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>e4307dd2f312b93ff8705eafa8735a9227fc7a1d</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Minor change to logging in FetchNotificationData middleware.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2021-09-13T09:35:06.1265588Z</lastSuccessEndTime>
+  <receivedTime>2021-09-13T09:30:25.5547251Z</receivedTime>
+  <startTime>2021-09-13T09:30:25.789111Z</startTime>
+  <endTime>2021-09-13T09:35:06.1265588Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

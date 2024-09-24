@@ -1,0 +1,1 @@
+php %HOME%\site\artisan spec2kapp:update_validation

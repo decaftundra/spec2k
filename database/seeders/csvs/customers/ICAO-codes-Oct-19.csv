@@ -1,0 +1,1388 @@
+Company Category,Company Name,Company Type,Country,IATA,ICAO,Status
+Airlines,21 Air,Cargo,United States,2I,CSB,Operating
+Airlines,223rd State Airline Flight Unit,Other,Russia,,CHD,Operating
+Airlines,224th State Airline Flight Unit,Military,Russia,,TTF,Operating
+Airlines,748 Air Services,Regional,Kenya,,IHO,Operating
+Airlines,9 Air,Low-cost,China,AQ,JYH,Operating
+Airlines,Abaete Linhas Aereas,Regional,Brazil,,ABJ,Operating
+Airlines,ABX Air,Cargo,United States,GB,ABX,Operating
+Airlines,ACE Air Cargo,Cargo,United States,KO,AER,Operating
+Airlines,ACE Belgium Freighters,Cargo,Belgium,X7,FRH,Operating
+Airlines,ACSA - Air Century,Regional,Dominican Republic,Y2,CEY,Operating
+Airlines,ACT Air,Cargo,Turkey,9T,RUN,Operating
+Airlines,Aegean Airlines,Mainline,Greece,A3,AEE,Operating
+Airlines,Aer Caribe Peru,Cargo,Peru,EF,CPR,Operating
+Airlines,Aer Lingus,Mainline,Ireland,EI,EIN,Operating
+Airlines,Aero Contractors,Regional,Nigeria,,NIG,Operating
+Airlines,Aero Davinci Internacional,Regional,Mexico,,DVI,Operating
+Airlines,Aero JBR,Other,Mexico,,AJB,Operating
+Airlines,Aero Mongolia,Regional,Mongolia,M0,MNG,Operating
+Airlines,Aeroandinas,Regional,Venezuela,,ARD,Operating
+Airlines,Aerobratsk,Regional,Russia,,BRP,Operating
+Airlines,Aerocardal,Regional,Chile,,CDA,Operating
+Airlines,Aerocaribe,Regional,Venezuela,,AOB,Operating
+Airlines,Aerocuahonte,Airline ACMI,Mexico,5G,CUO,Operating
+Airlines,Aerodesierto,Regional,Chile,,DTO,Operating
+Airlines,Aeroeste,Regional,Bolivia,,ROE,Operating
+Airlines,Aeroflot Russian Airlines,Mainline,Russia,SU,AFL,Operating
+Airlines,Aerogaviota,Regional,Cuba,,GTV,Operating
+Airlines,Aerolinea Owen,Regional,Mexico,,OWN,Operating
+Airlines,Aerolineas Argentinas,Mainline,Argentina,AR,ARG,Operating
+Airlines,Aerolineas Estelar,Mainline,Venezuela,ES,ETR,Operating
+Airlines,Aerolineas Mas,Regional,Dominican Republic,,MAF,Operating
+Airlines,Aerolineas SOSA,Regional,Honduras,S0,NSO,Operating
+Airlines,AeroLink Uganda,Regional,Uganda,A8,XAU,Operating
+Airlines,AeroLogic,Cargo,Germany,3S,BOX,Operating
+Airlines,Aeromar Airlines,Regional,Mexico,VW,TAO,Operating
+Airlines,Aeromas,Regional,Uruguay,,MSM,Operating
+Airlines,Aeromexico,Mainline,Mexico,AM,AMX,Operating
+Airlines,Aeromexico Connect,Regional,Mexico,5D,SLI,Operating
+Airlines,Aeronaves TSM,Cargo,Mexico,,VTM,Operating
+Airlines,Aeronexus,Airline ACMI,South Africa,,ARN,Operating
+Airlines,AeroPacifico,Regional,Mexico,,TFO,Operating
+Airlines,Aero-Service,Regional,Congo,,RSR,Operating
+Airlines,Aerospace Consortium,Regional,Kenya,,AKQ,Operating
+Airlines,Aerosucre Colombia,Cargo,Colombia,,KRE,Operating
+Airlines,Aerotranscargo,Cargo,Moldova,F5,ATG,Operating
+Airlines,Aerotucan,Regional,Mexico,,RTU,Operating
+Airlines,AeroUnion,Cargo,Mexico,6R,TNO,Operating
+Airlines,Aerovias DAP,Regional,Chile,V5,DAP,Operating
+Airlines,Aerovis Airlines,Cargo,Ukraine,,VIZ,Operating
+Airlines,Africa Charter Airline,Airline ACMI,South Africa,,FSK,Operating
+Airlines,Africa World Airlines,Low-cost,Ghana,AW,AFW,Operating
+Airlines,African Express Airways,Regional,Kenya,XU,AXK,Operating
+Airlines,Africas Connection,Regional,Sao Tome and Principe,,ACH,Operating
+Airlines,Afrijet Business Service,Regional,Gabon,J7,ABS,Operating
+Airlines,Afriqiyah Airways,Mainline,Libya,8U,AAW,Operating
+Airlines,Air Alanna,Mainline,Ukraine,,ALX,Operating
+Airlines,Air Algerie,Mainline,Algeria,AH,DAH,Operating
+Airlines,Air Alize,Other,New Caledonia,,RLZ,Operating
+Airlines,Air Antwerp,Regional,Belgium,WP,ATW,Operating
+Airlines,Air Arabia,Low-cost,United Arab Emirates,G9,ABY,Operating
+Airlines,Air Arabia Egypt,Low-cost,Egypt,E5,RBG,Operating
+Airlines,Air Arabia Maroc,Low-cost,Morocco,3O,MAC,Operating
+Airlines,Air Archipels,Regional,French Polynesia,,RHL,Operating
+Airlines,Air Astana,Mainline,Kazakhstan,KC,KZR,Operating
+Airlines,Air Atlanta Icelandic,Airline ACMI,Iceland,CC,ABD,Operating
+Airlines,Air Austral,Mainline,Reunion,UU,REU,Operating
+Airlines,Air Belgium,Airline ACMI,Belgium,KF,ABB,Operating
+Airlines,Air Botswana,Regional,Botswana,BP,BOT,Operating
+Airlines,Air Bucharest,Leisure,Romania,,BUR,Operating
+Airlines,Air Burkina,Regional,Burkina Faso,2J,VBW,Operating
+Airlines,Air Burundi,Regional,Burundi,,PBU,Operating
+Airlines,Air Busan,Low-cost,South Korea,BX,ABL,Operating
+Airlines,Air Cairo,Leisure,Egypt,SM,MSC,Operating
+Airlines,Air Caledonie,Regional,New Caledonia,TY,TPC,Operating
+Airlines,Air Calin,Regional,New Caledonia,SB,ACI,Operating
+Airlines,Air Canada,Mainline,Canada,AC,ACA,Operating
+Airlines,Air Canada Rouge,Leisure,Canada,RV,ROU,Operating
+Airlines,Air Caraibes,Regional,Guadeloupe,TX,FWI,Operating
+Airlines,Air Cargo Carriers,Cargo,United States,2Q,SNC,Operating
+Airlines,Air Cargo Global,Cargo,Slovakia,CW,CCC,Operating
+Airlines,Air Central Asia,Other,Kyrgyzstan,,AAT,Operating
+Airlines,Air Changan,Low-cost,China,9H,CGN,Operating
+Airlines,Air Chathams,Regional,New Zealand,3C,CVA,Operating
+Airlines,Air China,Mainline,China,CA,CCA,Operating
+Airlines,Air China Cargo,Cargo,China,CA,CAO,Operating
+Airlines,Air China Inner Mongolia,Regional,China,,CNM,Operating
+Airlines,Air Choice One,Regional,United States,3E,WBR,Operating
+Airlines,Air Class Lineas Aereas,Cargo,Uruguay,VZ,QCL,Operating
+Airlines,Air Corsica,Regional,France,XK,CCM,Operating
+Airlines,Air Costa Rica,Regional,Costa Rica,,RII,Operating
+Airlines,Air Cote D'Ivoire,Regional,Cote d'Ivoire,HF,VRE,Operating
+Airlines,Air Creebec,Mainline,Canada,YN,CRQ,Operating
+Airlines,Air Do,Low-cost,Japan,HD,ADO,Operating
+Airlines,Air Dolomiti,Regional,Italy,EN,DLA,Operating
+Airlines,Air Europa,Leisure,Spain,UX,AEA,Operating
+Airlines,Air Europa Express,Regional,Spain,X5,OVA,Operating
+Airlines,Air Excel (Tanzania),Regional,Tanzania,,XLL,Operating
+Airlines,Air Flamenco,Regional,Puerto Rico,F4,WAF,Operating
+Airlines,Air France,Mainline,France,AF,AFR,Operating
+Airlines,Air France HOP,Regional,France,A5,HOP,Operating
+Airlines,Air Freight NZ,Cargo,New Zealand,,TFR,Operating
+Airlines,Air Georgian,Regional,Canada,ZX,GGN,Operating
+Airlines,Air Ghana,Cargo,Ghana,,GHN,Operating
+Airlines,Air Greenland,Regional,Greenland,GL,GRL,Operating
+Airlines,Air Guicango,Regional,Angola,,NCL,Operating
+Airlines,Air Guilin,Regional,China,GT,CGH,Operating
+Airlines,Air Guyane Express,Regional,French Guiana,,GUY,Operating
+Airlines,Air Hong Kong,Cargo,Hong Kong SAR,LD,AHK,Operating
+Airlines,Air Horizont,Leisure,Malta,,HAT,Operating
+Airlines,Air Iceland Connect,Regional,Iceland,NY,FXI,Operating
+Airlines,Air Incheon,Cargo,South Korea,KJ,AIH,Operating
+Airlines,Air India,Mainline,India,AI,AIC,Operating
+Airlines,Air India Express,Low-cost,India,IX,AXB,Operating
+Airlines,Air Indus,Low-cost,Pakistan,,MPK,Operating
+Airlines,Air Inuit,Regional,Canada,3H,AIE,Operating
+Airlines,Air Italy,Mainline,Italy,IG,ISS,Operating
+Airlines,Air ITM,Other,France,,MQT,Operating
+Airlines,Air Japan,Cargo,Japan,NQ,AJX,Operating
+Airlines,Air KBZ,Regional,Myanmar,K7,KBZ,Operating
+Airlines,Air Kiribati,Regional,Kiribati,IK,AKL,Operating
+Airlines,Air Koryo,Mainline,North Korea,JS,KOR,Operating
+Airlines,Air Kufra,Other,Libya,,KAV,Operating
+Airlines,Air Leap,Regional,Sweden,,LPA,Operating
+Airlines,Air Libya,Regional,Libya,,TLR,Operating
+Airlines,Air Loyaute,Regional,New Caledonia,,RLY,Operating
+Airlines,Air Macau,Mainline,Macau SAR,NX,AMU,Operating
+Airlines,Air Madagascar,Mainline,Madagascar,MD,MDG,Operating
+Airlines,Air Malta,Mainline,Malta,KM,AMC,Operating
+Airlines,Air Manas,Regional,Kyrgyzstan,ZM,MBB,Operating
+Airlines,Air Marshall Islands,Regional,Marshall Islands,,CWM,Operating
+Airlines,Air Mauritius,Mainline,Mauritius,MK,MAU,Operating
+Airlines,Air Max,Cargo,Bulgaria,,RMX,Operating
+Airlines,Air Mediterranean,Airline ACMI,Greece,MV,MAR,Operating
+Airlines,Air Moldova,Mainline,Moldova,9U,MLD,Operating
+Airlines,Air Namibia,Mainline,Namibia,SW,NMB,Operating
+Airlines,Air Nelson,Regional,New Zealand,,RLK,Operating
+Airlines,Air New Zealand,Mainline,New Zealand,NZ,ANZ,Operating
+Airlines,Air Niamey,Virtual Airline,Niger,,AWN,Operating
+Airlines,Air Niugini,Mainline,Papua New Guinea,PX,ANG,Operating
+Airlines,Air North,Regional,Canada,4N,ANT,Operating
+Airlines,Air Nostrum,Regional,Spain,YW,ANE,Operating
+Airlines,Air Panama,Regional,Panama,7P,PST,Operating
+Airlines,Air Peace,Mainline,Nigeria,P4,APK,Operating
+Airlines,Air Safaris & Services (NZ),Regional,New Zealand,,SRI,Operating
+Airlines,Air Saint-Pierre,Regional,St. Pierre and Miquelon,PJ,SPM,Operating
+Airlines,Air Scorpio,Regional,Bulgaria,,SCU,Operating
+Airlines,Air Senegal,Mainline,Senegal,HC,SZN,Operating
+Airlines,Air Seoul,Low-cost,South Korea,RS,ASV,Operating
+Airlines,Air Serbia,Mainline,Serbia,JU,ASL,Operating
+Airlines,Air Seychelles,Mainline,Seychelles,HM,SEY,Operating
+Airlines,Air Sinai,Airline ACMI,Egypt,4D,ASD,Operating
+Airlines,Air Stork,Cargo,Moldova,,MSB,Operating
+Airlines,Air Sunshine,Regional,United States,,RSI,Operating
+Airlines,Air Tahiti,Regional,French Polynesia,VT,VTA,Operating
+Airlines,Air Tahiti Nui,Mainline,French Polynesia,TN,THT,Operating
+Airlines,Air Tanzania,Mainline,Tanzania,TC,ATC,Operating
+Airlines,Air Taxi Benin,Regional,Benin,,ABT,Operating
+Airlines,Air Thanlwin,Regional,Myanmar,YH,AYG,Operating
+Airlines,Air Tindi,Regional,Canada,8T,TIN,Operating
+Airlines,Air Traffic Nairobi,Regional,Kenya,,ATY,Operating
+Airlines,Air Transat,Leisure,Canada,TS,TSC,Operating
+Airlines,Air Travel,Mainline,China,A6,OTC,Operating
+Airlines,Air Unlimited Charter Services,Regional,United States,,AUD,Operating
+Airlines,Air Urga,Regional,Ukraine,3N,URG,Operating
+Airlines,Air Vanuatu,Regional,Vanuatu,NF,AVN,Operating
+Airlines,Air Whitsunday Seaplanes,Regional,Australia,,RWS,Operating
+Airlines,Air Wisconsin,Regional,United States,ZW,AWI,Operating
+Airlines,Air X Charter,Leisure,Malta,,AXY,Operating
+Airlines,Air Zimbabwe,Mainline,Zimbabwe,UM,AZW,Operating
+Airlines,AirAsia,Low-cost,Malaysia,AK,AXM,Operating
+Airlines,AirAsia (India),Low-cost,India,I5,IAD,Operating
+Airlines,AirAsia Japan,Low-cost,Japan,DJ,WAJ,Operating
+Airlines,AirAsia X,Low-cost,Malaysia,D7,XAX,Operating
+Airlines,airBaltic,Regional,Latvia,BT,BTI,Operating
+Airlines,Airblue,Mainline,Pakistan,PA,ABQ,Operating
+Airlines,AirBridgeCargo,Cargo,Russia,RU,ABW,Operating
+Airlines,Airbus Transport International,Cargo,France,4Y,BGA,Operating
+Airlines,Aircompany Grodno,Regional,Belarus,,GRX,Operating
+Airlines,Aircompany ZetAvia,Cargo,Ukraine,ZK,ZAV,Operating
+Airlines,AirEst,Mainline,Estonia,,AEG,Operating
+Airlines,AirExplore,Leisure,Slovakia,ED,AXE,Operating
+Airlines,AIRFAST Indonesia,Regional,Indonesia,,AFE,Operating
+Airlines,AirInter1,Regional,Chad,,HRV,Operating
+Airlines,Airjet Angola,Mainline,Angola,,MBC,Operating
+Airlines,Airkenya,Regional,Kenya,P2,XAK,Operating
+Airlines,Airlift International of Ghana,Cargo,Bahrain,,ALE,Operating
+Airlines,Airlink,Regional,South Africa,4Z,LNK,Operating
+Airlines,AirNet Express,Cargo,United States,,USC,Operating
+Airlines,Airnorth,Regional,Australia,TL,ANO,Operating
+Airlines,AirSwift,Regional,Philippines,T6,ATX,Operating
+Airlines,Airtask Group,Regional,United Kingdom,,DCT,Operating
+Airlines,Airwing,Regional,Norway,,NWG,Operating
+Airlines,Airwork (NZ),Regional,New Zealand,,AWK,Operating
+Airlines,AIS Airlines,Regional,Netherlands,,PNX,Operating
+Airlines,Al Naser Wings Airlines,Mainline,Iraq,,NAD,Operating
+Airlines,Alaska Airlines,Mainline,United States,AS,ASA,Operating
+Airlines,Alba Star,Leisure,Spain,AP,LAV,Operating
+Airlines,Albatros Airlines,Regional,Venezuela,G0,GAL,Operating
+Airlines,ALBAWINGS,Low-cost,Albania,2B,AWT,Operating
+Airlines,Alcon,Cargo,Mexico,,AOA,Operating
+Airlines,Alexandria Airlines,Leisure,Egypt,,KHH,Operating
+Airlines,Alfa Airlines,Cargo,Sudan,,AAJ,Operating
+Airlines,Alidaunia,Regional,Italy,,LID,Operating
+Airlines,Alitalia,Mainline,Italy,AZ,AZA,Operating
+Airlines,Alitalia Cityliner,Regional,Italy,CT,CYL,Operating
+Airlines,ALK Airlines,Leisure,Bulgaria,,VBB,Operating
+Airlines,Alkan Air,Regional,Canada,,AKN,Operating
+Airlines,Allegiance Airways - Gabon,Regional,Gabon,,LGE,Operating
+Airlines,Allegiant Air,Low-cost,United States,G4,AAY,Operating
+Airlines,Alliance Air,Regional,India,9I,LLR,Operating
+Airlines,Alliance Airlines,Regional,Australia,QQ,UTY,Operating
+Airlines,Allied Air Cargo,Cargo,Nigeria,4W,AJK,Operating
+Airlines,Almasria Universal Airlines,Mainline,Egypt,UJ,LMU,Operating
+Airlines,Aloha Air Cargo,Cargo,United States,KH,AAH,Operating
+Airlines,Alpine Air,Cargo,United States,5A,AIP,Operating
+Airlines,Al-Rafedain Falcon,Cargo,Iraq,,RFA,Operating
+Airlines,ALROSA Air Company,Mainline,Russia,6R,DRU,Operating
+Airlines,ALS Limited,Regional,Kenya,,ALW,Operating
+Airlines,Amakusa Airlines,Regional,Japan,MZ,AHX,Operating
+Airlines,Amapola Flyg,Cargo,Sweden,HP,APF,Operating
+Airlines,Amaszonas,Regional,Bolivia,Z8,AZN,Operating
+Airlines,Amaszonas Uruguay,Regional,Uruguay,Z7,AUZ,Operating
+Airlines,Amazon Sky,Cargo,Peru,,AMT,Operating
+Airlines,AMC Airlines,Airline ACMI,Egypt,,AMV,Operating
+Airlines,Amelia International,Airline ACMI,Slovenia,NL,AEH,Operating
+Airlines,American Airlines,Mainline,United States,AA,AAL,Operating
+Airlines,Ameriflight,Cargo,United States,,AMF,Operating
+Airlines,Amerijet International,Cargo,United States,M6,AJT,Operating
+Airlines,Ameristar Charters,Cargo,United States,7Z,AJI,Operating
+Airlines,AMS Airlines,Cargo,Georgia,,GEO,Operating
+Airlines,AMW tchad,Other,Chad,,TWK,Operating
+Airlines,ANA Wings,Regional,Japan,EH,AKX,Operating
+Airlines,ANA-All Nippon Airways,Mainline,Japan,NH,ANA,Operating
+Airlines,Anda Air,Leisure,Ukraine,,SSV,Operating
+Airlines,Andes Lineas Aereas,Mainline,Argentina,OY,ANS,Operating
+Airlines,Angara Airlines,Regional,Russia,2G,AGU,Operating
+Airlines,Angola Air Charter,Cargo,Angola,,AGO,Operating
+Airlines,Anguilla Air Services,Regional,Anguilla,Q3,AXL,Operating
+Airlines,Antonov Airlines,Cargo,Ukraine,,ADB,Operating
+Airlines,APG Airlines,Regional,France,GP,RIV,Operating
+Airlines,Arcus Air,Cargo,Germany,,AZE,Operating
+Airlines,Ariana Afghan Airlines,Mainline,Afghanistan,FG,AFG,Operating
+Airlines,Arik Air,Mainline,Nigeria,W3,ARA,Operating
+Airlines,Arkhangelsk 2nd Aviation Enterprise,Regional,Russia,,OAO,Operating
+Airlines,Arkia,Regional,Israel,IZ,AIZ,Operating
+Airlines,ARM Aviacion,Cargo,Guatemala,,MMG,Operating
+Airlines,Armenia,Mainline,Armenia,RM,NGT,Operating
+Airlines,Armenia Airways,Regional,Armenia,6A,AMW,Operating
+Airlines,Aruba Airlines,Leisure,Aruba,AG,ARU,Operating
+Airlines,Asia Cargo Express,Cargo,Malaysia,3G,CXM,Operating
+Airlines,Asia Pacific Airlines,Cargo,Guam,P9,MGE,Operating
+Airlines,Asia Sky Lines,Regional,Tajikistan,,LIC,Operating
+Airlines,Asialink Cargo Airlines,Cargo,Indonesia,,AKC,Operating
+Airlines,Asian Express Airline,Airline ACMI,Tajikistan,,TXP,Operating
+Airlines,Asian Wings Airways,Regional,Myanmar,YJ,AWM,Operating
+Airlines,Asiana Airlines,Mainline,South Korea,OZ,AAR,Operating
+Airlines,ASKY,Regional,Togo,KP,SKK,Operating
+Airlines,ASL Airlines Belgium,Cargo,Belgium,3V,TAY,Operating
+Airlines,ASL Airlines France,Cargo,France,5O,FPO,Operating
+Airlines,ASL Airlines Hungary,Cargo,Hungary,,FAH,Operating
+Airlines,ASL Airlines Ireland,Cargo,Ireland,,ABR,Operating
+Airlines,ASL Airlines Spain,Cargo,Spain,,PNR,Operating
+Airlines,ASTA - America do Sul Taxi Aereo,Regional,Brazil,0A,AMS,Operating
+Airlines,Astra Airlines,Regional,Greece,A2,AZI,Operating
+Airlines,Astral Aviation,Cargo,Kenya,8V,ACP,Operating
+Airlines,ATA Airlines,Regional,Iran,,TBZ,Operating
+Airlines,ATI - Air Transport International,Cargo,United States,8C,ATN,Operating
+Airlines,Atlantic Airways (Faroe Islands),Mainline,Faroe Islands,RC,FLI,Operating
+Airlines,Atlantic Express Airlines,Regional,Gambia,,JLM,Operating
+Airlines,Atlantis Armenian Airlines,Leisure,Armenia,TD,AEU,Operating
+Airlines,Atlas Air,Cargo,United States,5Y,GTI,Operating
+Airlines,Atlasglobal,Mainline,Turkey,KK,KKK,Operating
+Airlines,Atlasglobal Ukraine,Mainline,Ukraine,UH,UJX,Operating
+Airlines,Atrak Air,Mainline,Iran,,ATR,Operating
+Airlines,Atran,Cargo,Russia,V8,VAS,Operating
+Airlines,ATSA - Aero Transporte SA,Regional,Peru,,AMP,Operating
+Airlines,Auric Air,Regional,Tanzania,UI,AUK,Operating
+Airlines,Aurigny Air Services,Regional,United Kingdom,GR,AUR,Operating
+Airlines,Aurora,Regional,Russia,HZ,SHU,Operating
+Airlines,Austral Lineas Aereas,Regional,Argentina,AU,AUT,Operating
+Airlines,Austrian,Mainline,Austria,OS,AUA,Operating
+Airlines,Avantiair,Regional,Germany,,ATV,Operating
+Airlines,Avia Jaynar,Regional,Kazakhstan,,SAP,Operating
+Airlines,Avia Traffic Company,Regional,Kyrgyzstan,YK,AVJ,Operating
+Airlines,Aviacon Zitotrans,Cargo,Russia,ZR,AZS,Operating
+Airlines,Aviaexpress Aircompany,Regional,Ukraine,,VXX,Operating
+Airlines,Aviakompaniya SKOL,Regional,Russia,,CDV,Operating
+Airlines,Avialeasing,Cargo,Uzbekistan,V2,TWN,Operating
+Airlines,Avialesookhrana Central Base for Forest Protection,Other,Russia,,FFA,Operating
+Airlines,Avianca,Mainline,Colombia,AV,AVA,Operating
+Airlines,Avianca Cargo,Cargo,Colombia,QT,TPA,Operating
+Airlines,Avianca Costa Rica,Mainline,Costa Rica,LR,LRC,Operating
+Airlines,Avianca Ecuador,Regional,Ecuador,2K,GLG,Operating
+Airlines,Avianca El Salvador,Mainline,El Salvador,TA,TAI,Operating
+Airlines,Avianca Guatemala,Regional,Guatemala,GU,GUG,Operating
+Airlines,Avianca Honduras,Regional,Honduras,,ISV,Operating
+Airlines,Avianca Peru,Regional,Peru,T0,TPU,Operating
+Airlines,AviaStar Air Company,Cargo,Belarus,,DEK,Operating
+Airlines,Aviastar Mandiri,Regional,Indonesia,,VIT,Operating
+Airlines,Aviastar-TU,Cargo,Russia,4B,TUP,Operating
+Airlines,Aviatsa,Regional,Honduras,,LEM,Operating
+Airlines,Avion Express,Airline ACMI,Lithuania,X9,NVD,Operating
+Airlines,Avion Express Malta,Airline ACMI,Malta,,MLH,Operating
+Airlines,Avior Airlines,Regional,Venezuela,9V,ROI,Operating
+Airlines,Avstar Aviation,Airline ACMI,South Africa,,VSA,Operating
+Airlines,Ayit Aviation,Regional,Israel,,AYT,Operating
+Airlines,Azal Avia Cargo,Cargo,Azerbaijan,,AHC,Operating
+Airlines,AZee AIR,Cargo,Kazakhstan,,AZL,Operating
+Airlines,Azerbaijan Airlines,Mainline,Azerbaijan,J2,AHY,Operating
+Airlines,Azimuth,Regional,Russia,A4,AZO,Operating
+Airlines,Azman Air,Regional,Nigeria,ZQ,AZM,Operating
+Airlines,Azores Airlines,Mainline,Portugal,S4,RZO,Operating
+Airlines,Azul,Low-cost,Brazil,AD,AZU,Operating
+Airlines,Azur Air Russia,Leisure,Russia,ZF,KTK,Operating
+Airlines,Azur Air Ukraine,Leisure,Ukraine,QU,UTN,Operating
+Airlines,B&K Aero KZ,Airline ACMI,Kazakhstan,,BBK,Operating
+Airlines,BA CityFlyer,Regional,United Kingdom,CJ,CFE,Operating
+Airlines,BADR Airlines,Regional,Sudan,J4,BDR,Operating
+Airlines,Bahamasair,Regional,Bahamas,UP,BHS,Operating
+Airlines,Bamboo Airways,Leisure,Vietnam,QH,BAV,Operating
+Airlines,Bangkok Airways,Regional,Thailand,PG,BKP,Operating
+Airlines,Baron Aviation Services,Cargo,United States,,BVN,Operating
+Airlines,BASe,Regional,Hungary,RP,BPS,Operating
+Airlines,Bassaka Air,Leisure,Cambodia,5B,BSX,Operating
+Airlines,Batik Air,Mainline,Indonesia,ID,BTK,Operating
+Airlines,Bearskin Airlines,Regional,Canada,JV,BLS,Operating
+Airlines,Beibars,Other,Kazakhstan,,BBS,Operating
+Airlines,Beijing Airlines,Mainline,China,,BJN,Operating
+Airlines,Bek Air,Regional,Kazakhstan,Z9,BEK,Operating
+Airlines,Belavia,Mainline,Belarus,B2,BRU,Operating
+Airlines,Bemidji Aviation,Cargo,United States,CH,BMJ,Operating
+Airlines,Ben Air,Regional,Sudan,,BNT,Operating
+Airlines,Benair,Cargo,Denmark,,BDI,Operating
+Airlines,Bering Air,Regional,United States,8E,BRG,Operating
+Airlines,Berjaya Air,Regional,Malaysia,J8,BVT,Operating
+Airlines,Berry Aviation,Airline ACMI,United States,,BYA,Operating
+Airlines,BH Air,Leisure,Bulgaria,8H,BGH,Operating
+Airlines,Bhutan Airlines,Regional,Bhutan,B3,BTN,Operating
+Airlines,Bighorn Airways,Regional,United States,,BHR,Operating
+Airlines,Biman Bangladesh Airlines,Mainline,Bangladesh,BG,BBC,Operating
+Airlines,Binter Cabo Verde,Regional,Cape Verde Islands,3B,NTB,Operating
+Airlines,Binter Canarias,Regional,Spain,NT,IBB,Operating
+Airlines,Bismillah Airlines,Regional,Bangladesh,BH,BML,Operating
+Airlines,Black Sea Airlines,Regional,Ukraine,,ODA,Operating
+Airlines,Blue Air,Low-cost,Romania,0B,BMS,Operating
+Airlines,Blue Bird Airways,Leisure,Greece,BZ,BBG,Operating
+Airlines,Blue Bird Aviation,Regional,Kenya,,BBZ,Operating
+Airlines,Blue Bird Aviation,Regional,Yemen Republic,,BBY,Operating
+Airlines,Blue Bird Aviation (Sudan),Regional,Sudan,,BLB,Operating
+Airlines,Blue Dart Aviation,Cargo,India,BZ,BDA,Operating
+Airlines,Blue Islands,Regional,United Kingdom,SI,BCI,Operating
+Airlines,Blue Panorama Airlines,Leisure,Italy,BV,BPA,Operating
+Airlines,Blue Sky Airways,Regional,Botswana,,BKY,Operating
+Airlines,Blue Sky Aviation,Regional,Kenya,,SBK,Operating
+Airlines,Blue Wing Airlines,Regional,Suriname,,BWI,Operating
+Airlines,Bluebird Nordic,Cargo,Iceland,BO,BBD,Operating
+Airlines,BoA,Mainline,Bolivia,OB,BOV,Operating
+Airlines,Botir Avia,Other,Kyrgyzstan,,BTR,Operating
+Airlines,Boutique Air Inc,Regional,United States,4B,BTQ,Operating
+Airlines,Braathens Regional Airways,Regional,Sweden,DC,BRX,Operating
+Airlines,BRA-Braathens Regional Airlines,Regional,Sweden,TF,SCW,Operating
+Airlines,Bravo Air,Airline ACMI,Georgia,,BRZ,Operating
+Airlines,Bravo Airways,Airline ACMI,Ukraine,,BAY,Operating
+Airlines,Bright Flight,Cargo,Bulgaria,,BFG,Operating
+Airlines,Briko Air Services,Regional,Trinidad & Tobago,,BKO,Operating
+Airlines,British Airways,Mainline,United Kingdom,BA,BAW,Operating
+Airlines,British Airways Limited,Mainline,United Kingdom,,BAT,Operating
+Airlines,British Gulf International,Cargo,United Arab Emirates,,BGI,Operating
+Airlines,Brussels Airlines,Mainline,Belgium,SN,BEL,Operating
+Airlines,Buddha Air,Regional,Nepal,U4,BHA,Operating
+Airlines,Buffalo Airways (Canada),Cargo,Canada,,BFL,Operating
+Airlines,Bukovyna Airlines,Airline ACMI,Ukraine,,BKV,Operating
+Airlines,Bul Air,Low-cost,Bulgaria,LB,BVL,Operating
+Airlines,Bulgaria Air,Mainline,Bulgaria,FB,LZB,Operating
+Airlines,Bulgarian Air Charter,Leisure,Bulgaria,H6,BUC,Operating
+Airlines,Buraq Air,Mainline,Libya,UZ,BRQ,Operating
+Airlines,Buzz,Leisure,Poland,RR,RYS,Operating
+Airlines,C & M Airways,Cargo,United States,,RWG,Operating
+Airlines,C.A.L. Cargo Air Lines,Cargo,Israel,5C,ICL,Operating
+Airlines,Cabo Verde Airlines,Mainline,Cape Verde Islands,VR,TCV,Operating
+Airlines,Cabo Verde Express,Regional,Cape Verde Islands,,CVE,Operating
+Airlines,Caicos Express Airways,Regional,Turks and Caicos Islands,9Q,CXE,Operating
+Airlines,Cairo Aviation,Airline ACMI,Egypt,,CCE,Operating
+Airlines,Calafia Airlines,Regional,Mexico,A7,CFV,Operating
+Airlines,Calima Aviacion,Airline ACMI,Spain,,CMV,Operating
+Airlines,Calm Air,Regional,Canada,MO,CAV,Operating
+Airlines,Camair-Co,Mainline,Cameroon,QC,CRC,Operating
+Airlines,Cambodia Airways,Mainline,Cambodia,KR,KME,Operating
+Airlines,Cambodia Angkor Air,Mainline,Cambodia,K6,KHV,Operating
+Airlines,Cambodia Bayon Airlines,Regional,Cambodia,BD,BYC,Operating
+Airlines,Canadian North,Regional,Canada,5T,MPE,Operating
+Airlines,Canair,Regional,Spain,,RSC,Operating
+Airlines,Canary Fly,Regional,Spain,PM,CNF,Operating
+Airlines,Cape Air,Regional,United States,9K,KAP,Operating
+Airlines,Capital Airlines,Mainline,China,JD,CBJ,Operating
+Airlines,Cardiff Aviation Malta,Airline ACMI,Malta,,SGO,Operating
+Airlines,Cardig Air,Cargo,Indonesia,,CAD,Operating
+Airlines,Cargo Air,Cargo,Bulgaria,,CGF,Operating
+Airlines,Cargojet Airways,Cargo,Canada,W8,CJT,Operating
+Airlines,CargoLogicAir,Cargo,United Kingdom,P3,CLU,Operating
+Airlines,Cargolux,Cargo,Luxembourg,CV,CLX,Operating
+Airlines,Cargolux Italia,Cargo,Italy,C8,ICV,Operating
+Airlines,Caribbean Airlines,Mainline,Trinidad & Tobago,BW,BWA,Operating
+Airlines,Carpatair,Regional,Romania,V3,KRP,Operating
+Airlines,Caspian Airlines,Mainline,Iran,,CPN,Operating
+Airlines,Cat Island Air,Regional,Bahamas,,CIS,Operating
+Airlines,Catalina Flying Boats,Cargo,United States,,CBT,Operating
+Airlines,Cathay Dragon,Mainline,Hong Kong SAR,KA,HDA,Operating
+Airlines,Cathay Pacific,Mainline,Hong Kong SAR,CX,CPA,Operating
+Airlines,Cavok Air,Cargo,Ukraine,,CVK,Operating
+Airlines,Cayman Airways,Mainline,Cayman Islands,KX,CAY,Operating
+Airlines,Cebgo,Low-cost,Philippines,DG,SRQ,Operating
+Airlines,Cebu Pacific Air,Low-cost,Philippines,5J,CEB,Operating
+Airlines,CEIBA Intercontinental,Mainline,Equatorial Guinea,C2,CEL,Operating
+Airlines,CemAir,Airline ACMI,South Africa,,KEM,Operating
+Airlines,Central Mountain Air,Regional,Canada,9M,GLR,Operating
+Airlines,Chabahar Airlines,Mainline,Iran,,IRU,Operating
+Airlines,Chair Airlines,Leisure,Switzerland,GM,GSW,Operating
+Airlines,Chalair,Regional,France,CE,CLG,Operating
+Airlines,Cham Wings,Mainline,Syria,6Q,SAW,Operating
+Airlines,Chanchangi Airlines,Mainline,Nigeria,,NCH,Operating
+Airlines,CHC Helicopters Netherlands,Regional,Netherlands,,HNL,Operating
+Airlines,Chengdu Airlines,Regional,China,EU,UEA,Operating
+Airlines,Cherry Air,Other,United States,,CCY,Operating
+Airlines,China Air Cargo,Cargo,China,ZY,CCO,Operating
+Airlines,China Airlines,Mainline,Taiwan,CI,CAL,Operating
+Airlines,China Cargo Airlines,Cargo,China,CK,CKK,Operating
+Airlines,China Eastern Airlines,Mainline,China,MU,CES,Operating
+Airlines,China Express Airlines,Low-cost,China,G5,HXA,Operating
+Airlines,China Postal Airlines,Cargo,China,CF,CYZ,Operating
+Airlines,China Southern Airlines,Mainline,China,CZ,CSN,Operating
+Airlines,China Southern Airlines Henan,Mainline,China,,CYH,Operating
+Airlines,China United Airlines,Low-cost,China,KN,CUA,Operating
+Airlines,Chongqing Airlines,Mainline,China,OQ,CQN,Operating
+Airlines,Cinnamon Air,Regional,Sri Lanka,C7,CIN,Operating
+Airlines,Citilink Indonesia,Low-cost,Indonesia,QG,CTV,Operating
+Airlines,CityJet,Airline ACMI,Ireland,WX,BCY,Operating
+Airlines,Click Airways,Cargo,United Arab Emirates,C4,CGK,Operating
+Airlines,CM Airlines,Regional,Honduras,CC,OMT,Operating
+Airlines,Coastal Air Transport,Regional,US Virgin Islands,,CXT,Operating
+Airlines,Coastal Aviation,Regional,Tanzania,CQ,CSV,Operating
+Airlines,Cobham Avn Services Australia-Airline Services,Regional,Australia,,NJS,Operating
+Airlines,Cobham Avtn Services Australia-Regional Services,Regional,Australia,,JTE,Operating
+Airlines,Colombe Airline,Regional,Burkina Faso,,CBL,Operating
+Airlines,Colorful Guizhou Airlines,Regional,China,GY,CGZ,Operating
+Airlines,Comair (South Africa),Mainline,South Africa,MN,CAW,Operating
+Airlines,Comeravia,Regional,Venezuela,,CVV,Operating
+Airlines,CommutAir,Regional,United States,C5,UCA,Operating
+Airlines,Comores Aviation,Regional,Comoros,,KMZ,Operating
+Airlines,Compass Airlines,Regional,United States,CP,CPZ,Operating
+Airlines,Condor,Leisure,Germany,DE,CFG,Operating
+Airlines,Congo Airways,Mainline,Congo (Democratic Republic),8Z,CGA,Operating
+Airlines,Constanta Airlines,Regional,Ukraine,,UZA,Operating
+Airlines,Conviasa,Mainline,Venezuela,V0,VCV,Operating
+Airlines,Copa Airlines,Mainline,Panama,CM,CMP,Operating
+Airlines,Copa Airlines Colombia,Mainline,Colombia,P5,RPB,Operating
+Airlines,Corendon Airlines,Leisure,Turkey,XC,CAI,Operating
+Airlines,Corendon Airlines Europe,Leisure,Malta,XR,CXI,Operating
+Airlines,Corendon Dutch Airlines,Leisure,Netherlands,CD,CND,Operating
+Airlines,Corporate Air,Cargo,United States,,CPT,Operating
+Airlines,Corporate Flight Management,Regional,United States,LF,VTE,Operating
+Airlines,Corsair,Leisure,France,SS,CRL,Operating
+Airlines,Cotair,Regional,Central African Republic,,COB,Operating
+Airlines,Coyne Airways,Virtual Airline,United Kingdom,7C,COY,Operating
+Airlines,Crimea Universal Avia,Other,Ukraine,,KRM,Operating
+Airlines,Croatia Airlines,Mainline,Croatia,OU,CTN,Operating
+Airlines,Croix Rouge Francais,Other,France,,CRF,Operating
+Airlines,CSA Air,Cargo,United States,,IRO,Operating
+Airlines,Cubana,Mainline,Cuba,CU,CUB,Operating
+Airlines,Cygnus Air,Cargo,Spain,,RGN,Operating
+Airlines,Cyprus Airways,Mainline,Cyprus,CY,CYP,Operating
+Airlines,Czech Airlines,Mainline,Czech Republic,OK,CSA,Operating
+Airlines,DAC International Airlines,Airline ACMI,Ghana,OP,DIG,Operating
+Airlines,Dalian Airlines,Mainline,China,,CCD,Operating
+Airlines,DANA,Regional,Nigeria,,DAV,Operating
+Airlines,DANA Air,Mainline,Nigeria,9J,DAN,Operating
+Airlines,DAT - Danish Air Transport,Regional,Denmark,DX,DTR,Operating
+Airlines,Delta Air Lines,Mainline,United States,DL,DAL,Operating
+Airlines,Dena Airways,Airline ACMI,Iran,D9,DAI,Operating
+Airlines,Deraya Air Taxi,Regional,Indonesia,,DRY,Operating
+Airlines,DHL Aero Expreso,Cargo,Panama,D5,DAE,Operating
+Airlines,DHL Air,Cargo,United Kingdom,D0,DHK,Operating
+Airlines,DHL Aviation,Cargo,South Africa,,DHV,Operating
+Airlines,DHL de Guatemala,Cargo,Guatemala,L3,JOS,Operating
+Airlines,DHL Ecuador,Cargo,Ecuador,7T,RTM,Operating
+Airlines,DHL International Aviation EEMEA,Cargo,Bahrain,ES,DHX,Operating
+Airlines,Divi Divi Air,Regional,Netherlands Antilles,3R,DVR,Operating
+Airlines,Donghai Airlines,Mainline,China,DZ,EPA,Operating
+Airlines,DOT LT,Airline ACMI,Lithuania,R6,DNU,Operating
+Airlines,Dove Air Services,Regional,Sudan,,DOV,Operating
+Airlines,Dream Wind,Leisure,Ukraine,,DRW,Operating
+Airlines,Druk Air,Regional,Bhutan,KB,DRK,Operating
+Airlines,Eagle Air,Regional,Uganda,,EGU,Operating
+Airlines,Eagle Air Iceland,Regional,Iceland,,FEI,Operating
+Airlines,East Kazakhstan Region Air Enterprise,Regional,Kazakhstan,,UCK,Operating
+Airlines,East Wing,Mainline,Kazakhstan,,EWZ,Operating
+Airlines,EastAfrican,Regional,Kenya,B5,EXZ,Operating
+Airlines,Eastar Jet,Low-cost,South Korea,ZE,ESR,Operating
+Airlines,Eastern Airlines,Mainline,United States,2D,DYA,Operating
+Airlines,Eastern Airways,Regional,United Kingdom,T3,EZE,Operating
+Airlines,Eastern Australia Airlines,Regional,Australia,,EAQ,Operating
+Airlines,Easy Fly Express,Cargo,Bangladesh,8E,EFX,Operating
+Airlines,Easyfly,Regional,Colombia,VE,EFY,Operating
+Airlines,EasyJet,Low-cost,United Kingdom,U2,EZY,Operating
+Airlines,EasyJet Europe,Low-cost,Austria,EC,EJU,Operating
+Airlines,EasyJet Switzerland,Low-cost,Switzerland,DS,EZS,Operating
+Airlines,EasySky,Leisure,Honduras,,EKY,Operating
+Airlines,Eco Jet,Regional,Bolivia,8J,ECO,Operating
+Airlines,Edelweiss Air,Leisure,Switzerland,WK,EDW,Operating
+Airlines,Egyptair,Mainline,Egypt,MS,MSR,Operating
+Airlines,Egyptair Express,Regional,Egypt,,MSE,Operating
+Airlines,El Al,Mainline,Israel,LY,ELY,Operating
+Airlines,El Dinder Aviation,Cargo,Sudan,,DND,Operating
+Airlines,El Magal Aviation,Cargo,Sudan,,MGG,Operating
+Airlines,Electra Airways,Airline ACMI,Bulgaria,,EAF,Operating
+Airlines,Elite Airways,Regional,United States,7Q,MNU,Operating
+Airlines,Ellinair,Leisure,Greece,EL,ELB,Operating
+Airlines,Emirates Airline,Mainline,United Arab Emirates,EK,UAE,Operating
+Airlines,Empire Airlines,Cargo,United States,EM,CFS,Operating
+Airlines,Encompass Aviation LLC,Regional,United States,,ROM,Operating
+Airlines,Encore Air Cargo,Cargo,United States,,DKT,Operating
+Airlines,Endeavor Air,Regional,United States,9E,EDV,Operating
+Airlines,Enerjet,Leisure,Canada,,ENJ,Operating
+Airlines,Enter Air,Leisure,Poland,E4,ENT,Operating
+Airlines,Envoy Air,Regional,United States,MQ,ENY,Operating
+Airlines,Epsilon Aviation SA,Regional,Greece,,GRV,Operating
+Airlines,Equaflight,Regional,Congo,E7,EKA,Operating
+Airlines,Eritrean Airlines,Mainline,Eritrea,B8,ERT,Operating
+Airlines,Ernest Airlines,Low-cost,Italy,EG,ERN,Operating
+Airlines,Estafeta Carga Aerea,Cargo,Mexico,E7,ESF,Operating
+Airlines,Ethiopian Airlines,Mainline,Ethiopia,ET,ETH,Operating
+Airlines,Etihad Airways,Mainline,United Arab Emirates,EY,ETD,Operating
+Airlines,Etram Air Wing,Cargo,Angola,,ETM,Operating
+Airlines,Euro-Asia Air,Regional,Kazakhstan,,EAK,Operating
+Airlines,EuroAtlantic airways,Airline ACMI,Portugal,YU,MMZ,Operating
+Airlines,European Air Transport,Cargo,Germany,QY,BCS,Operating
+Airlines,Eurowings,Low-cost,Germany,EW,EWG,Operating
+Airlines,Eurowings Europe,Low-cost,Austria,E2,EWE,Operating
+Airlines,EVA Air,Mainline,Taiwan,BR,EVA,Operating
+Airlines,Evelop Airlines,Mainline,Spain,E9,EVE,Operating
+Airlines,Everts Air Alaska,Cargo,United States,5V,VTS,Operating
+Airlines,Ewa Air,Regional,Mayotte,ZD,EWR,Operating
+Airlines,EXIN,Mainline,Poland,,EXN,Operating
+Airlines,Express Air,Regional,Indonesia,XN,XAR,Operating
+Airlines,Express Air Cargo,Cargo,Tunisia,7A,XRC,Operating
+Airlines,Express Freighters Australia,Cargo,Australia,QE,EFA,Operating
+Airlines,ExpressJet Airlines,Regional,United States,EV,ASQ,Operating
+Airlines,Eznis Airways,Regional,Mongolia,MG,EZA,Operating
+Airlines,Fair Aviation,Airline ACMI,South Africa,,FAV,Operating
+Airlines,Far Eastern Air Transport,Mainline,Taiwan,FE,FEA,Operating
+Airlines,Fars Qeshm Air Lines,Regional,Iran,,QFZ,Operating
+Airlines,FastJet Zimbabwe,Low-cost,Zimbabwe,FN,FJW,Operating
+Airlines,Federal Airlines,Regional,South Africa,7V,FDR,Operating
+Airlines,FedEx,Cargo,United States,FX,FDX,Operating
+Airlines,Felix Airways,Mainline,Yemen Republic,,FXX,Operating
+Airlines,Fiji Airways,Mainline,Fiji,FJ,FJI,Operating
+Airlines,Fiji Link,Regional,Fiji,FJ,FJA,Operating
+Airlines,Finnair,Mainline,Finland,AY,FIN,Operating
+Airlines,FireFly,Regional,Malaysia,FY,FFM,Operating
+Airlines,First Air,Regional,Canada,7F,FAB,Operating
+Airlines,FitsAir,Cargo,Sri Lanka,8D,EXV,Operating
+Airlines,Flair Airlines,Low-cost,Canada,F8,FLE,Operating
+Airlines,Fleet Air International,Cargo,Hungary,,FRF,Operating
+Airlines,Flight Safety Academy SKY FLITE,Mainline,United States,,SFY,Operating
+Airlines,Flightline (Spain),Cargo,Spain,,FTL,Operating
+Airlines,Fly Allways,Low-cost,Suriname,8W,EDR,Operating
+Airlines,Fly Baghdad,Mainline,Iraq,IF,FBA,Operating
+Airlines,Fly Jordan,Leisure,Jordan,,STR,Operating
+Airlines,Fly Mid Africa,Mainline,Gambia,,MFG,Operating
+Airlines,Fly2Sky,Leisure,Bulgaria,,VAW,Operating
+Airlines,Fly540,Low-cost,Kenya,5H,FFV,Operating
+Airlines,Flyadeal,Low-cost,Saudi Arabia,F3,FAD,Operating
+Airlines,FlyART,Airline ACMI,Chad,T2,FLB,Operating
+Airlines,Flybe,Regional,United Kingdom,BE,BEE,Operating
+Airlines,Flybondi,Low-cost,Argentina,FO,FBZ,Operating
+Airlines,FlyBosnia,Mainline,Bosnia-Herzegovina,6W,FBS,Operating
+Airlines,flydubai,Low-cost,United Arab Emirates,FZ,FDB,Operating
+Airlines,flyEgypt,Leisure,Egypt,FT,FEG,Operating
+Airlines,FlyEst,Regional,Argentina,FQ,OLS,Operating
+Airlines,FlyGTA Airlines,Regional,Canada,,TOR,Operating
+Airlines,Flyme,Regional,Maldives,VP,VQI,Operating
+Airlines,Flynas,Low-cost,Saudi Arabia,XY,KNE,Operating
+Airlines,FlyOne,Leisure,Moldova,5F,FIA,Operating
+Airlines,FlyValan,Regional,Italy,F6,FXP,Operating
+Airlines,Freebird Airlines,Leisure,Turkey,FH,FHY,Operating
+Airlines,Freebird Airlines Europe,Leisure,Malta,,FHM,Operating
+Airlines,Freedom Air (Guam),Regional,Guam,,FRE,Operating
+Airlines,Freedom Airline Express,Regional,Kenya,4F,FDT,Operating
+Airlines,Freight Runners Express,Regional,United States,,FRG,Operating
+Airlines,French Bee,Low-cost,Guadeloupe,BF,FBU,Operating
+Airlines,Frontier Airlines,Low-cost,United States,F9,FFT,Operating
+Airlines,Frontier Flying Service,Regional,United States,,FTA,Operating
+Airlines,Fuji Dream Airlines,Low-cost,Japan,JH,FDA,Operating
+Airlines,Fuzhou Airlines,Regional,China,FU,FZA,Operating
+Airlines,Garuda Indonesia,Mainline,Indonesia,GA,GIA,Operating
+Airlines,Gatari Air Service,Leisure,Indonesia,,GHS,Operating
+Airlines,Gazpromavia,Mainline,Russia,4G,GZP,Operating
+Airlines,Genex,Regional,Belarus,,GNX,Operating
+Airlines,Genghis Khan Airlines,Regional,China,9D,NMG,Operating
+Airlines,Geo Sky,Cargo,Georgia,D4,GEL,Operating
+Airlines,Georgian Airways,Mainline,Georgia,A9,TGZ,Operating
+Airlines,Germanwings,Low-cost,Germany,4U,GWI,Operating
+Airlines,GetJet Airlines,Airline ACMI,Lithuania,GW,GJT,Operating
+Airlines,Ghadames Air Transport,Cargo,Libya,,GHT,Operating
+Airlines,Global Africa Aviation,Cargo,Zimbabwe,Z5,GAA,Operating
+Airlines,Global Air,Low-cost,Mexico,,DMJ,Operating
+Airlines,Global Air Transport,Cargo,Libya,5S,GAK,Operating
+Airlines,Global Aviation Operations,Airline ACMI,South Africa,GE,GBB,Operating
+Airlines,Globus,Leisure,Russia,GH,GLP,Operating
+Airlines,Go2Sky,Airline ACMI,Slovakia,6G,RLX,Operating
+Airlines,GoAir,Low-cost,India,G8,GOW,Operating
+Airlines,GoJet Airlines,Regional,United States,G7,GJS,Operating
+Airlines,GOL,Low-cost,Brazil,G3,GLO,Operating
+Airlines,Golden Myanmar Airlines,Low-cost,Myanmar,Y5,GMR,Operating
+Airlines,Goliaf Air,Other,Sao Tome and Principe,,GLE,Operating
+Airlines,Grand Canyon Airlines,Leisure,United States,,CVU,Operating
+Airlines,Grand China Air,Regional,China,CN,GDC,Operating
+Airlines,Grand Cru Airlines,Airline ACMI,Lithuania,,GCA,Operating
+Airlines,Grant Aviation,Regional,United States,GV,GUN,Operating
+Airlines,Great Dane Airlines,Airline ACMI,Denmark,DW,GDE,Operating
+Airlines,Green Flag Aviation,Regional,Sudan,,GNF,Operating
+Airlines,Groupe Transair,Regional,Senegal,R2,GTS,Operating
+Airlines,Gulf & Caribbean Cargo,Cargo,United States,IF,TSU,Operating
+Airlines,Gulf Air,Mainline,Bahrain,GF,GFA,Operating
+Airlines,Gum Air,Regional,Suriname,,GUM,Operating
+Airlines,GX Airlines,Regional,China,GX,CBG,Operating
+Airlines,Hageland Aviation,Regional,United States,H6,HAG,Operating
+Airlines,Hahn Air,Regional,Germany,HR,HHN,Operating
+Airlines,Hainan Airlines,Mainline,China,HU,CHH,Operating
+Airlines,Hawaiian Airlines,Mainline,United States,HA,HAL,Operating
+Airlines,Hebei Airlines,Regional,China,NS,HBH,Operating
+Airlines,Hebridean Air Services,Regional,United Kingdom,,HBR,Operating
+Airlines,Heli Securite,Regional,France,HS,HLI,Operating
+Airlines,Heli Sky,Airline ACMI,United Arab Emirates,,HAC,Operating
+Airlines,Helijetic Air,Regional,Sudan,,HJT,Operating
+Airlines,Helvetic Airways,Airline ACMI,Switzerland,2L,OAW,Operating
+Airlines,Hex' Air,Regional,France,,HER,Operating
+Airlines,Hi Fly,Airline ACMI,Portugal,5K,HFY,Operating
+Airlines,Hi Fly Malta,Airline ACMI,Malta,,HFM,Operating
+Airlines,Himalaya Airlines,Leisure,Nepal,H9,HIM,Operating
+Airlines,Hinterland Aviation,Regional,Australia,OI,HND,Operating
+Airlines,HK Express,Low-cost,Hong Kong SAR,UO,HKE,Operating
+Airlines,Hokkaido Air System,Regional,Japan,,NTH,Operating
+Airlines,Hong Kong Air Cargo,Cargo,Hong Kong SAR,RH,HKC,Operating
+Airlines,Hong Kong Airlines,Mainline,Hong Kong SAR,HX,CRK,Operating
+Airlines,Horizon Air,Regional,United States,QX,QXE,Operating
+Airlines,Hunnu Air,Regional,Mongolia,MR,MML,Operating
+Airlines,IBC Airways,Mainline,United States,II,CSQ,Operating
+Airlines,Iberia,Mainline,Spain,IB,IBE,Operating
+Airlines,Iberia Express,Low-cost,Spain,I2,IBS,Operating
+Airlines,IBEX Airlines,Regional,Japan,FW,IBX,Operating
+Airlines,Ibom Air,Regional,Nigeria,,IAN,Operating
+Airlines,Icelandair,Mainline,Iceland,FI,ICE,Operating
+Airlines,Ifly,Leisure,Russia,F7,RSY,Operating
+Airlines,Iliamna Air Taxi,Regional,United States,V8,IAR,Operating
+Airlines,IndiGo,Low-cost,India,6E,IGO,Operating
+Airlines,Indonesia Air Transport,Regional,Indonesia,,IDA,Operating
+Airlines,Indonesia AirAsia,Low-cost,Indonesia,QZ,AWQ,Operating
+Airlines,Indonesia AirAsia Extra,Low-cost,Indonesia,XT,IDX,Operating
+Airlines,Int'Air Iles,Virtual Airline,Comoros,,IIA,Operating
+Airlines,InterCaribbean Airways,Regional,Turks and Caicos Islands,JY,IWY,Operating
+Airlines,Interjet,Low-cost,Mexico,4O,AIJ,Operating
+Airlines,Interjet West,Cargo,United States,K8,IJW,Operating
+Airlines,IrAero,Regional,Russia,IO,IAE,Operating
+Airlines,Iran Air,Mainline,Iran,IR,IRA,Operating
+Airlines,Iran Airtour Airline,Mainline,Iran,B9,IRB,Operating
+Airlines,Iran Aseman Airlines,Regional,Iran,EP,IRC,Operating
+Airlines,Iraqi Airways,Mainline,Iraq,IA,IAW,Operating
+Airlines,Island Air Express,Regional,United States,I4,EXP,Operating
+Airlines,Island Aviation,Regional,Philippines,,SOY,Operating
+Airlines,Isles of Scilly Skybus,Regional,United Kingdom,,IOS,Operating
+Airlines,Israir,Regional,Israel,6H,ISR,Operating
+Airlines,Ivoirienne de Transports Aeriens,Other,Cote d'Ivoire,,IVN,Operating
+Airlines,Izhavia,Regional,Russia,I8,IZA,Operating
+Airlines,Jambojet,Low-cost,Kenya,JM,JMA,Operating
+Airlines,Japan Air Commuter,Regional,Japan,JC,JAC,Operating
+Airlines,Japan Airlines,Mainline,Japan,JL,JAL,Operating
+Airlines,Japan TransOcean Air,Regional,Japan,NU,JTA,Operating
+Airlines,Jazeera Airways,Mainline,Kuwait,J9,JZR,Operating
+Airlines,Jazz,Regional,Canada,QK,JZA,Operating
+Airlines,JC International Airlines,Mainline,Cambodia,QD,JCC,Operating
+Airlines,Jeju Air,Low-cost,South Korea,7C,JJA,Operating
+Airlines,Jet time,Leisure,Denmark,,JTG,Operating
+Airlines,Jet Time Finland,Mainline,Finland,,JTF,Operating
+Airlines,Jet2.com,Leisure,United Kingdom,LS,EXS,Operating
+Airlines,JetBlue Airways,Low-cost,United States,B6,JBU,Operating
+Airlines,JetConnect,Regional,New Zealand,,QNZ,Operating
+Airlines,JetSMART Argentina,Low-cost,Argentina,WJ,JES,Operating
+Airlines,JetSMART Chile,Low-cost,Chile,JA,JAT,Operating
+Airlines,Jetstar,Low-cost,Australia,JQ,JST,Operating
+Airlines,Jetstar Asia,Low-cost,Singapore,3K,JSA,Operating
+Airlines,Jetstar Japan,Low-cost,Japan,GK,JJP,Operating
+Airlines,Jetstar Pacific,Low-cost,Vietnam,BL,PIC,Operating
+Airlines,JetSuiteX Air,Virtual Airline,United States,XE,JSX,Operating
+Airlines,Jetways Airlines,Regional,Kenya,WU,JWX,Operating
+Airlines,Jhonlin Air Transport,Regional,Indonesia,,JLB,Operating
+Airlines,Jiangxi Air,Regional,China,RY,CJX,Operating
+Airlines,Jin Air,Low-cost,South Korea,LJ,JNA,Operating
+Airlines,Jonika Airlines,Airline ACMI,Ukraine,,JNK,Operating
+Airlines,Jordan Aviation,Leisure,Jordan,R5,JAV,Operating
+Airlines,Jordan International Air Cargo,Cargo,Jordan,,JCI,Operating
+Airlines,Joy Air,Regional,China,JR,JOY,Operating
+Airlines,Jubba Airways,Regional,Kenya,3J,JBW,Operating
+Airlines,Jubba Airways (Somalia),Regional,Somalia,,JUB,Operating
+Airlines,Juneyao Air,Mainline,China,HO,DKH,Operating
+Airlines,Jupiter Jet,Cargo,Kazakhstan,IM,JPJ,Operating
+Airlines,Just Us Air,Airline ACMI,Romania,,JOC,Operating
+Airlines,Kabo Air,Mainline,Nigeria,,QNK,Operating
+Airlines,Kalitta Air,Cargo,United States,K4,CKS,Operating
+Airlines,Kam Air,Mainline,Afghanistan,RQ,KMF,Operating
+Airlines,Kan Air,Regional,Thailand,,KND,Operating
+Airlines,Karinou Airlines,Regional,Central African Republic,,KRN,Operating
+Airlines,Karun Airlines,Regional,Iran,NV,KRU,Operating
+Airlines,Kata Transportation Company,Cargo,Sudan,,KTV,Operating
+Airlines,Kavok Airlines,Regional,Venezuela,,KVA,Operating
+Airlines,Kaz Air Trans,Mainline,Kazakhstan,,KUY,Operating
+Airlines,Kenmore Air,Regional,United States,M5,KEN,Operating
+Airlines,Kenn Borek Air,Regional,Canada,4K,KBA,Operating
+Airlines,Kenya Airways,Mainline,Kenya,KQ,KQA,Operating
+Airlines,Key Lime Air,Cargo,United States,KG,LYM,Operating
+Airlines,KF Cargo,Cargo,Canada,FK,KFA,Operating
+Airlines,Kharkiv Airlines,Leisure,Ukraine,,KHK,Operating
+Airlines,Khatlon Air,Cargo,Tajikistan,,KHT,Operating
+Airlines,Khors Aircompany,Mainline,Ukraine,,KHO,Operating
+Airlines,Kish Air,Mainline,Iran,Y9,KIS,Operating
+Airlines,KLM Cityhopper,Regional,Netherlands,WA,KLC,Operating
+Airlines,KLM Royal Dutch Airlines,Mainline,Netherlands,KL,KLM,Operating
+Airlines,K-Mile Air,Cargo,Thailand,8K,KMI,Operating
+Airlines,Komiaviatrans,Regional,Russia,KO,KMA,Operating
+Airlines,Korea Express Air,Regional,South Korea,KW,KEA,Operating
+Airlines,Korean Air,Mainline,South Korea,KE,KAL,Operating
+Airlines,Kosmos Airlines,Mainline,Russia,,KSM,Operating
+Airlines,KrasAvia,Regional,Russia,,SSJ,Operating
+Airlines,Kunming Airlines,Mainline,China,KY,KNA,Operating
+Airlines,Kush Air,Regional,South Sudan,,KUH,Operating
+Airlines,Kuwait Airways,Mainline,Kuwait,KU,KAC,Operating
+Airlines,La Compagnie,Mainline,France,B0,DJT,Operating
+Airlines,La Costena,Regional,Nicaragua,,NIS,Operating
+Airlines,LADE,Regional,Argentina,,LDE,Operating
+Airlines,Lankan Cargo,Cargo,Sri Lanka,,RLN,Operating
+Airlines,Lanmei Airlines,Leisure,Cambodia,LQ,MKR,Operating
+Airlines,Lao Airlines,Mainline,Laos,QV,LAO,Operating
+Airlines,Lao Skyway,Regional,Laos,LK,LLL,Operating
+Airlines,LASER,Mainline,Venezuela,QL,LER,Operating
+Airlines,LATAM Airlines Argentina,Mainline,Argentina,4M,DSM,Operating
+Airlines,LATAM Airlines Brazil,Mainline,Brazil,JJ,TAM,Operating
+Airlines,LATAM Airlines Chile,Mainline,Chile,LA,LAN,Operating
+Airlines,LATAM Airlines Colombia,Mainline,Colombia,4C,ARE,Operating
+Airlines,LATAM Airlines Ecuador,Mainline,Ecuador,XL,LNE,Operating
+Airlines,LATAM Airlines Paraguay,Mainline,Paraguay,PZ,LAP,Operating
+Airlines,LATAM Airlines Peru,Mainline,Peru,LP,LPE,Operating
+Airlines,LATAM Cargo Brazil,Cargo,Brazil,M3,LTG,Operating
+Airlines,LATAM Cargo Chile,Cargo,Chile,UC,LCO,Operating
+Airlines,LATAM Cargo Colombia,Cargo,Colombia,L7,LAE,Operating
+Airlines,Lauda,Low-cost,Austria,OE,LDM,Operating
+Airlines,Lease Fly,Airline ACMI,Portugal,,LZF,Operating
+Airlines,Let's Fly,Regional,Spain,,LLY,Operating
+Airlines,Level (Austria),Low-cost,Austria,VK,FOO,Operating
+Airlines,Level (France),Low-cost,France,LV,BOS,Operating
+Airlines,LGW,Regional,Germany,HE,LGW,Operating
+Airlines,LIAT,Regional,Antigua & Barbuda,LI,LIA,Operating
+Airlines,Libyan Air Cargo,Cargo,Libya,,LCR,Operating
+Airlines,Libyan Airlines,Mainline,Libya,LN,LAA,Operating
+Airlines,Libyan Wings,Mainline,Libya,YL,LWA,Operating
+Airlines,Lina Congo,Cargo,Congo,,GCB,Operating
+Airlines,Lineas Aereas Suramericanas,Cargo,Colombia,4L,LAU,Operating
+Airlines,Linhas Aereas de Mocambique,Mainline,Mozambique,TM,LAM,Operating
+Airlines,Lion Air,Low-cost,Indonesia,JT,LNI,Operating
+Airlines,Lipican Aer,Airline ACMI,Slovenia,,LIP,Operating
+Airlines,Loganair,Regional,United Kingdom,LM,LOG,Operating
+Airlines,Longhao Airlines,Cargo,China,GI,LHA,Operating
+Airlines,LongJiang Airlines,Regional,China,LT,SNG,Operating
+Airlines,Loong Air,Low-cost,China,GJ,CDC,Operating
+Airlines,LOT Polish Airlines,Mainline,Poland,LO,LOT,Operating
+Airlines,LTA-Linea Turistica Aereotuy,Regional,Venezuela,,TUY,Operating
+Airlines,Lucky Air,Low-cost,China,8L,LKE,Operating
+Airlines,Lufthansa,Mainline,Germany,LH,DLH,Operating
+Airlines,Lufthansa Cargo,Cargo,Germany,LH,GEC,Operating
+Airlines,Lufthansa CityLine,Regional,Germany,CL,CLH,Operating
+Airlines,Lufttransport,Regional,Norway,,LTR,Operating
+Airlines,Lumiwings,Airline ACMI,Greece,,LWI,Operating
+Airlines,Luxair,Mainline,Luxembourg,LG,LGL,Operating
+Airlines,Lyddair,Regional,United Kingdom,,LYD,Operating
+Airlines,Lynden Air Cargo,Cargo,United States,L2,LYC,Operating
+Airlines,Madagasikara Airways,Regional,Madagascar,7D,AYS,Operating
+Airlines,Magnicharters,Leisure,Mexico,,GMT,Operating
+Airlines,Mahan Air,Mainline,Iran,W5,IRM,Operating
+Airlines,Mahogany Air,Regional,Zambia,KT,HOG,Operating
+Airlines,Malawian Airlines,Mainline,Malawi,3W,MWI,Operating
+Airlines,Malaysia Airlines,Mainline,Malaysia,MH,MAS,Operating
+Airlines,Maldivian,Regional,Maldives,Q2,DQA,Operating
+Airlines,Maleth Aero,Airline ACMI,Malta,DB,MLT,Operating
+Airlines,Malindo Air,Mainline,Malaysia,OD,MXD,Operating
+Airlines,Malta Air,Low-cost,Malta,AL,MAY,Operating
+Airlines,Manas Airways,Cargo,Kyrgyzstan,,BAM,Operating
+Airlines,Mandarin Airlines,Regional,Taiwan,AE,MDA,Operating
+Airlines,Mango,Low-cost,South Africa,JE,MNO,Operating
+Airlines,Mann Yadanarpon Airlines,Regional,Myanmar,7Y,MYP,Operating
+Airlines,Manta Air,Regional,Maldives,,NR,Operating
+Airlines,MAP Linhas Aereas,Regional,Brazil,7M,PAM,Operating
+Airlines,Martinair,Cargo,Netherlands,MP,MPH,Operating
+Airlines,Martinaire,Cargo,United States,,MRA,Operating
+Airlines,Mas Air,Cargo,Mexico,M7,MAA,Operating
+Airlines,MASwings,Regional,Malaysia,MY,MWG,Operating
+Airlines,Mauritania Airlines,Mainline,Mauritania,L6,MAI,Operating
+Airlines,MaxAir,Airline ACMI,Nigeria,VM,NGL,Operating
+Airlines,Maximus Air,Cargo,United Arab Emirates,,MXU,Operating
+Airlines,Maximus Airlines,Cargo,Ukraine,6M,MXM,Operating
+Airlines,Maya Island Air,Regional,Belize,2M,MYD,Operating
+Airlines,MAYAir,Regional,Mexico,,MYI,Operating
+Airlines,McNeely Charter Service,Cargo,United States,,MDS,Operating
+Airlines,Medavia,Regional,Malta,5M,MDM,Operating
+Airlines,MEGAviation SRL,Airline ACMI,Moldova,,ARM,Operating
+Airlines,Meraj Air,Mainline,Iran,JI,MRJ,Operating
+Airlines,Meridian,Cargo,Ukraine,,MEM,Operating
+Airlines,Mesa Airlines,Regional,United States,YV,ASH,Operating
+Airlines,META Linhas Aereas,Regional,Brazil,,MSQ,Operating
+Airlines,MHS Aviation,Regional,Germany,M2,MHV,Operating
+Airlines,Miami Air International,Leisure,United States,LL,BSK,Operating
+Airlines,MIAT - Mongolian Airlines,Mainline,Mongolia,OM,MGL,Operating
+Airlines,Mid Airlines,Regional,Sudan,,NYL,Operating
+Airlines,Middle East Airlines,Mainline,Lebanon,ME,MEA,Operating
+Airlines,Minair,Regional,Central African Republic,,OMR,Operating
+Airlines,MNG Airlines,Cargo,Turkey,MB,MNB,Operating
+Airlines,Mocambique EXpresso,Regional,Mozambique,,MXE,Operating
+Airlines,Modern Logistics,Cargo,Brazil,WD,MWM,Operating
+Airlines,Mokulele Airlines,Regional,United States,MW,MHO,Operating
+Airlines,Mombasa Air Safari,Regional,Kenya,,RRV,Operating
+Airlines,Montenegro Airlines,Regional,Montenegro,YM,MGX,Operating
+Airlines,Montserrat Airways,Regional,Montserrat,5M,MNT,Operating
+Airlines,Morningstar Air Express,Cargo,Canada,,MAL,Operating
+Airlines,Motor Sich Airlines,Regional,Ukraine,M9,MSI,Operating
+Airlines,Mount Cook Airline,Regional,New Zealand,,NZM,Operating
+Airlines,Mountain Air Cargo,Cargo,United States,,MTN,Operating
+Airlines,MRK Airlines,Leisure,Ukraine,,MRW,Operating
+Airlines,Mustique Airways,Regional,St. Vincent and the Grenadines,,MAW,Operating
+Airlines,My Indo Airlines,Cargo,Indonesia,2Y,MYU,Operating
+Airlines,MY Jet Xpress,Cargo,Malaysia,N7,NEP,Operating
+Airlines,Myanmar Airways International,Mainline,Myanmar,8M,MMA,Operating
+Airlines,Myanmar National Airlines,Mainline,Myanmar,UB,UBA,Operating
+Airlines,Myway Airlines,Leisure,Georgia,MJ,MYW,Operating
+Airlines,Nam Air,Low-cost,Indonesia,IN,LKN,Operating
+Airlines,Natalco Airlines,Cargo,United Arab Emirates,,NCO,Operating
+Airlines,National Airlines,Cargo,United States,N8,NCR,Operating
+Airlines,National Airways,Regional,Ethiopia,9Y,NAE,Operating
+Airlines,National Regionale Transport,Regional,Gabon,,NRG,Operating
+Airlines,Nauru Airlines,Mainline,Australia,ON,RON,Operating
+Airlines,Neos,Leisure,Italy,NO,NOS,Operating
+Airlines,Nepal Airlines,Mainline,Nepal,RA,RNA,Operating
+Airlines,Nesma Airlines,Leisure,Egypt,NE,NMA,Operating
+Airlines,Nesma Airlines (Saudi Arabia),Regional,Saudi Arabia,NA,NSS,Operating
+Airlines,Network Aviation,Regional,Australia,,NWK,Operating
+Airlines,New Central Airservice,Regional,Japan,,CUK,Operating
+Airlines,New England Airlines,Regional,United States,,NEA,Operating
+Airlines,NewGen Airways,Leisure,Thailand,E3,VGO,Operating
+Airlines,Niger Airlines,Regional,Niger,6N,NIN,Operating
+Airlines,Nile Air,Mainline,Egypt,NP,NIA,Operating
+Airlines,Nippon Cargo Airlines,Cargo,Japan,KZ,NCA,Operating
+Airlines,Nok Air,Low-cost,Thailand,DD,NOK,Operating
+Airlines,NokScoot,Low-cost,Thailand,XW,NCT,Operating
+Airlines,Nolinor Aviation,Regional,Canada,N5,NRL,Operating
+Airlines,Nordflyg Logistik AB,Cargo,Sweden,,NEF,Operating
+Airlines,Nordic Regional Airlines,Regional,Finland,N7,FCM,Operating
+Airlines,Nordwind Airlines,Leisure,Russia,N4,NWS,Operating
+Airlines,Norfolk Island Airlines,Virtual Airline,Australia,,BNY,Operating
+Airlines,Norlandair,Regional,Iceland,,FNA,Operating
+Airlines,North Cariboo Air,Regional,Canada,,NCB,Operating
+Airlines,North Flying,Regional,Denmark,,NFA,Operating
+Airlines,North Wright Airways,Regional,Canada,HW,NWL,Operating
+Airlines,Northern Air Cargo,Cargo,United States,NC,NAC,Operating
+Airlines,Northern Thunderbird Air,Regional,Canada,,NTA,Operating
+Airlines,NorthStar Air Tours,Regional,Canada,,GJA,Operating
+Airlines,Northwestern Air,Regional,Canada,J3,PLR,Operating
+Airlines,Norwegian,Low-cost,Norway,DY,NAX,Operating
+Airlines,Norwegian Air Argentina,Low-cost,Argentina,DN,NAA,Operating
+Airlines,Norwegian Air International,Low-cost,Ireland,D8,IBK,Operating
+Airlines,Norwegian Air Norway,Low-cost,Norway,DH,NAN,Operating
+Airlines,Norwegian Air UK,Low-cost,United Kingdom,DI,NRS,Operating
+Airlines,Nouvelair,Mainline,Tunisia,BJ,LBT,Operating
+Airlines,Nouvelle Air Affaires Gabon,Regional,Gabon,,NVS,Operating
+Airlines,Nova Airways,Regional,Sudan,O9,NOV,Operating
+Airlines,Novair,Leisure,Sweden,N9,NVR,Operating
+Airlines,NovoAir,Regional,Bangladesh,VQ,NVQ,Operating
+Airlines,Nusantara Air Charter,Regional,Indonesia,,SJK,Operating
+Airlines,NyxAir,Cargo,Estonia,,NYX,Operating
+Airlines,Okay Airways,Mainline,China,BK,OKA,Operating
+Airlines,Olympic Air,Regional,Greece,OA,OAL,Operating
+Airlines,Olympus Airways,Airline ACMI,Greece,,OLY,Operating
+Airlines,Oman Air,Mainline,Oman,WY,OMA,Operating
+Airlines,Omni Air International,Leisure,United States,OY,OAE,Operating
+Airlines,ONE Airlines,Regional,Chile,IP,ONS,Operating
+Airlines,One Caribbean,Regional,St. Vincent and the Grenadines,C0,VCY,Operating
+Airlines,Onur Air,Leisure,Turkey,8Q,OHY,Operating
+Airlines,Orange2fly,Leisure,Greece,O4,OTF,Operating
+Airlines,Orbest,Leisure,Portugal,6O,OBS,Operating
+Airlines,Orenburzhie Aircompany,Regional,Russia,,ORG,Operating
+Airlines,Oriental Air Bridge,Regional,Japan,OC,ORC,Operating
+Airlines,Oscar Jet,Cargo,Moldova,,OSJ,Operating
+Airlines,Overland Airways,Regional,Nigeria,OF,OLA,Operating
+Airlines,Pacific Air Express,Cargo,Australia,PE,PCF,Operating
+Airlines,Pacific Coastal Airlines,Regional,Canada,8P,PCO,Operating
+Airlines,Pakistan International Airlines,Mainline,Pakistan,PK,PIA,Operating
+Airlines,PAL Airlines,Mainline,Canada,PB,PVL,Operating
+Airlines,PAL Express,Low-cost,Philippines,2P,GAP,Operating
+Airlines,Palau National Airlines,Virtual Airline,Palau,,PNA,Operating
+Airlines,Palestinian Airlines,Mainline,Palestine,,PNW,Operating
+Airlines,Pan African Airways,Other,Kenya,,ODM,Operating
+Airlines,Pan Malaysian Air Transport,Cargo,Malaysia,,PMA,Operating
+Airlines,Pan Pacific Airlines,Mainline,Philippines,8Y,AAV,Operating
+Airlines,PanAir Cargo,Cargo,Panama,,CTW,Operating
+Airlines,Paranair,Regional,Paraguay,ZP,AZP,Operating
+Airlines,Par-Avion Airlines,Regional,Australia,,ATM,Operating
+Airlines,Pars Air,Mainline,Iran,,PRA,Operating
+Airlines,Pascan Aviation,Regional,Canada,P6,PSC,Operating
+Airlines,Passaredo Transportes Aereos,Regional,Brazil,2Z,PTB,Operating
+Airlines,Payam Air,Cargo,Iran,,IRP,Operating
+Airlines,Peach,Low-cost,Japan,MM,APJ,Operating
+Airlines,Pearl Airways,Other,Haiti,,HPA,Operating
+Airlines,Pecotox Air,Cargo,Moldova,,PXA,Operating
+Airlines,Pegas Fly,Leisure,Russia,EO,KAR,Operating
+Airlines,Pegasus,Low-cost,Turkey,PC,PGT,Operating
+Airlines,Pelita Air Service,Regional,Indonesia,,PAS,Operating
+Airlines,PenAir,Regional,United States,KS,NLA,Operating
+Airlines,People's Vienna Line,Regional,Switzerland,PE,PEV,Operating
+Airlines,Perimeter,Regional,Canada,,PAG,Operating
+Airlines,Petroleum Air Services,Regional,Egypt,UF,PER,Operating
+Airlines,Petropavlovsk-Kamchatsky Air Enterprise,Regional,Russia,,PTK,Operating
+Airlines,Philippine Airlines,Mainline,Philippines,PR,PAL,Operating
+Airlines,Philippines AirAsia,Low-cost,Philippines,Z2,APG,Operating
+Airlines,Photros Air,Mainline,Iran,,KHP,Operating
+Airlines,Phuket Air,Airline ACMI,Thailand,,VAP,Operating
+Airlines,Piedmont Airlines,Regional,United States,PT,PDT,Operating
+Airlines,Pier Seven Aviation,Airline ACMI,United Arab Emirates,,AAZ,Operating
+Airlines,Pineapple Air,Regional,Bahamas,,PNP,Operating
+Airlines,Plus Ultra,Mainline,Spain,PU,PUE,Operating
+Airlines,PNG Air,Regional,Papua New Guinea,CG,TOK,Operating
+Airlines,Pobeda,Low-cost,Russia,DP,PBD,Operating
+Airlines,Podillia Avia,Other,Ukraine,,PDA,Operating
+Airlines,Polar Air Cargo,Cargo,United States,PO,PAC,Operating
+Airlines,Polar Airlines,Regional,Russia,PI,RKA,Operating
+Airlines,Porter Airlines,Regional,Canada,PD,POE,Operating
+Airlines,Portugalia Airlines,Regional,Portugal,NI,PGA,Operating
+Airlines,Poste Air Cargo,Cargo,Italy,M4,MSA,Operating
+Airlines,Pouya Air,Cargo,Iran,,PYA,Operating
+Airlines,Precision Air,Regional,Tanzania,PW,PRF,Operating
+Airlines,Prescott,Cargo,United States,PM,PSK,Operating
+Airlines,Privilege Style,Leisure,Spain,P6,PVG,Operating
+Airlines,Proflight Zambia,Regional,Zambia,P0,PFZ,Operating
+Airlines,Progress TsSKB Aviakompania,Regional,Russia,,PSS,Operating
+Airlines,PSA Airlines,Regional,United States,OH,JIA,Operating
+Airlines,Qantas,Mainline,Australia,QF,QFA,Operating
+Airlines,QantasLink,Regional,Australia,,QLK,Operating
+Airlines,Qatar Airways,Mainline,Qatar,QR,QTR,Operating
+Airlines,Qazaq Air,Regional,Kazakhstan,IQ,QAZ,Operating
+Airlines,Qeshm Airlines,Regional,Iran,QB,QSM,Operating
+Airlines,Qingdao Airlines,Mainline,China,QW,QDA,Operating
+Airlines,Quikjet,Cargo,India,QO,FQA,Operating
+Airlines,Qurinea Air Service,Other,Libya,,QAQ,Operating
+Airlines,Rada Airlines,Cargo,Belarus,,RDA,Operating
+Airlines,RAF-AVIA,Cargo,Latvia,,MTL,Operating
+Airlines,Rahila Air,Regional,Libya,RI,RIH,Operating
+Airlines,Ravn Alaska,Regional,United States,7H,RVF,Operating
+Airlines,Raya Airways,Cargo,Malaysia,TH,RMY,Operating
+Airlines,Rayyan Air,Cargo,Pakistan,,RAB,Operating
+Airlines,Real Aviation,Other,Ghana,,RLV,Operating
+Airlines,REAL Tonga,Regional,Tonga,,RLT,Operating
+Airlines,Rectrix Aviation,Regional,United States,,RIX,Operating
+Airlines,Red Wings Airlines,Leisure,Russia,WZ,RWZ,Operating
+Airlines,Regent Airways,Regional,Bangladesh,RX,RGE,Operating
+Airlines,Regional Air,Regional,Bahamas,,RGB,Operating
+Airlines,Regional Air Lines,Regional,Morocco,,RGL,Operating
+Airlines,Regional Air Services,Regional,Tanzania,8N,REG,Operating
+Airlines,Regional Express,Regional,Australia,ZL,RXA,Operating
+Airlines,Regional Jet,Airline ACMI,Estonia,EE,EST,Operating
+Airlines,Reliant Air Charter,Regional,United States,L0,RLI,Operating
+Airlines,Republic Airways,Regional,United States,YX,RPA,Operating
+Airlines,RepublicAir,Other,Mexico,,RBC,Operating
+Airlines,Rio Linhas Aereas,Cargo,Brazil,,RIO,Operating
+Airlines,Rossiya Airlines,Mainline,Russia,FV,SDM,Operating
+Airlines,Rossiya Special Flight Detachment,Other,Russia,,RSD,Operating
+Airlines,Rotana Jet,Mainline,United Arab Emirates,RG,RJD,Operating
+Airlines,Royal Air,Leisure,Philippines,RW,RYL,Operating
+Airlines,Royal Air (Gambia),Other,Gambia,,RGG,Operating
+Airlines,Royal Air Freight,Cargo,United States,,RAX,Operating
+Airlines,Royal Air Maroc,Mainline,Morocco,AT,RAM,Operating
+Airlines,Royal Air Maroc Express,Regional,Morocco,,RXP,Operating
+Airlines,Royal Brunei Airlines,Mainline,Brunei,BI,RBA,Operating
+Airlines,Royal Flight,Leisure,Russia,RL,ABG,Operating
+Airlines,Royal Jordanian,Mainline,Jordan,RJ,RJA,Operating
+Airlines,Royal Wings,Regional,Jordan,,RYW,Operating
+Airlines,RPX Airlines,Cargo,Indonesia,,RPH,Operating
+Airlines,Ruby Star Airlines,Cargo,Belarus,,RSB,Operating
+Airlines,Ruili Airlines,Regional,China,DR,RLH,Operating
+Airlines,Rusline,Regional,Russia,7R,RLU,Operating
+Airlines,Rutaca,Mainline,Venezuela,5R,RUC,Operating
+Airlines,RwandAir,Regional,Rwanda,WB,RWD,Operating
+Airlines,Ryan Air,Regional,United States,7S,RYA,Operating
+Airlines,Ryanair,Low-cost,Ireland,FR,RYR,Operating
+Airlines,Ryanair UK,Low-cost,United Kingdom,RK,RUK,Operating
+Airlines,S.Group International,Other,Kyrgyzstan,,IND,Operating
+Airlines,S7 Airlines,Mainline,Russia,S7,SBI,Operating
+Airlines,SA Express,Regional,South Africa,XZ,EXY,Operating
+Airlines,Saber Cargo Airlines,Mainline,United States,,SBR,Operating
+Airlines,SADELCA,Cargo,Colombia,,SDK,Operating
+Airlines,SAEP,Cargo,Colombia,,KSP,Operating
+Airlines,SAEREO,Regional,Ecuador,,SRO,Operating
+Airlines,Safair,Low-cost,South Africa,FA,SFR,Operating
+Airlines,Safari Express Cargo,Cargo,Kenya,ZF,SXY,Operating
+Airlines,SafariLink Aviation,Regional,Kenya,F2,XLK,Operating
+Airlines,Safat Airlines,Regional,Iran,,IRV,Operating
+Airlines,Safe Air Company,Regional,Kenya,K3,SAQ,Operating
+Airlines,SAHA Airlines,Other,Iran,,IRZ,Operating
+Airlines,Sahand Asia Airlines,Airline ACMI,Iran,,IRS,Operating
+Airlines,S-Air,Other,Russia,,RLS,Operating
+Airlines,SalamAir,Low-cost,Oman,OV,OMS,Operating
+Airlines,Samar Air,Other,Tajikistan,,SMQ,Operating
+Airlines,Samoa Airways,Mainline,Samoa,OL,PAO,Operating
+Airlines,SANSA,Regional,Costa Rica,RZ,LRS,Operating
+Airlines,SAS,Mainline,Sweden,SK,SAS,Operating
+Airlines,SAS Ireland,Low-cost,Ireland,,SZS,Operating
+Airlines,SASCO Air Lines,Other,Sudan,,SAC,Operating
+Airlines,SAT Airlines (Kazakhstan),Regional,Kazakhstan,,SOZ,Operating
+Airlines,SATA Air Acores,Regional,Portugal,SP,SAT,Operating
+Airlines,Satena,Regional,Colombia,9R,NSE,Operating
+Airlines,Saudia,Mainline,Saudi Arabia,SV,SVA,Operating
+Airlines,SaudiGulf,Regional,Saudi Arabia,6S,SGQ,Operating
+Airlines,Savanair,Mainline,Angola,,SVN,Operating
+Airlines,SCAT,Regional,Kazakhstan,DV,VSV,Operating
+Airlines,SCD Aviation,Other,Gabon,,SCY,Operating
+Airlines,Scenic Airlines,Regional,United States,YR,SCE,Operating
+Airlines,Scoot,Low-cost,Singapore,TR,TGW,Operating
+Airlines,Seaborne Airlines,Regional,Puerto Rico,BB,SBS,Operating
+Airlines,SEARCA Colombia,Regional,Colombia,,SRC,Operating
+Airlines,SELVA Colombia,Regional,Colombia,,SDV,Operating
+Airlines,Sepehran Airlines,Mainline,Iran,IS,SHI,Operating
+Airlines,Serair Transworld Press,Cargo,Spain,,SEV,Operating
+Airlines,Serene Air,Mainline,Pakistan,ER,SEP,Operating
+Airlines,Servicio Leo Lopez SA de CV,Other,Mexico,,LLA,Operating
+Airlines,Servicios Aereos Colaereos,Mainline,Ecuador,,OLR,Operating
+Airlines,Servicios Aereos de Los Andes,Regional,Peru,,AND,Operating
+Airlines,Sete Linhas Aereas,Regional,Brazil,,SLX,Operating
+Airlines,Sevenair,Regional,Portugal,,RVP,Operating
+Airlines,Severstal Aircompany,Regional,Russia,D2,SSF,Operating
+Airlines,SF Airlines,Cargo,China,O3,CSS,Operating
+Airlines,Shandong Airlines,Mainline,China,SC,CDG,Operating
+Airlines,Shanghai Airlines,Mainline,China,FM,CSH,Operating
+Airlines,Shar ink,Cargo,Russia,,UGP,Operating
+Airlines,Shenzhen Airlines,Mainline,China,ZH,CSZ,Operating
+Airlines,Shovkoviy Shlyah,Cargo,Ukraine,,SWW,Operating
+Airlines,Shree Airlines,Regional,Nepal,N9,SHA,Operating
+Airlines,Sichuan Airlines,Mainline,China,3U,CSC,Operating
+Airlines,Sideral Air Cargo,Cargo,Brazil,,SID,Operating
+Airlines,Sierra Pacific Airlines,Airline ACMI,United States,SI,SPA,Operating
+Airlines,Sigma Airlines,Cargo,Kazakhstan,,SGL,Operating
+Airlines,Silk Way Airlines,Cargo,Azerbaijan,ZP,AZQ,Operating
+Airlines,Silk Way West Airlines,Cargo,Azerbaijan,7L,AZG,Operating
+Airlines,SilkAir,Regional,Singapore,MI,SLK,Operating
+Airlines,Silver Air (Czech Republic),Regional,Czech Republic,,SLD,Operating
+Airlines,Silver Airways,Regional,United States,3M,SIL,Operating
+Airlines,Silverstone Air Services,Regional,Kenya,K5,SLR,Operating
+Airlines,Simrik Airlines,Regional,Nepal,,RMK,Operating
+Airlines,Singapore Airlines,Mainline,Singapore,SQ,SIA,Operating
+Airlines,Singapore Airlines Cargo,Cargo,Singapore,SQ,SQC,Operating
+Airlines,Sinkom-Avia,Other,Ukraine,,INK,Operating
+Airlines,SJL Aeronautica,Regional,Angola,,GGL,Operating
+Airlines,SKA Air & Logistics (Uganda),Cargo,Uganda,,UGS,Operating
+Airlines,Sky Airline,Low-cost,Chile,H2,SKU,Operating
+Airlines,Sky Airline Peru,Low-cost,Peru,H8,SKX,Operating
+Airlines,Sky Angkor Airlines,Regional,Cambodia,ZA,SWM,Operating
+Airlines,Sky Capital Airlines,Airline ACMI,Bangladesh,S8,AHW,Operating
+Airlines,Sky Executive Airlines,Other,Nigeria,,SXC,Operating
+Airlines,Sky Express,Regional,Greece,GQ,SEH,Operating
+Airlines,Sky Gabon,Cargo,Gabon,,SKG,Operating
+Airlines,Sky Gates Airlines,Cargo,Russia,U3,SAY,Operating
+Airlines,Sky Harbor Air Service Inc,Mainline,United States,,SKD,Operating
+Airlines,Sky High,Regional,Dominican Republic,DO,SHH,Operating
+Airlines,Sky Horse Aviation,Regional,Mongolia,,TNL,Operating
+Airlines,Sky Jet,Regional,Canada,DU,LIZ,Operating
+Airlines,Sky Lease Cargo,Cargo,United States,GG,KYE,Operating
+Airlines,Sky Net Airline,Regional,Armenia,,SKJ,Operating
+Airlines,Sky Prim Air,Airline ACMI,Moldova,,KPM,Operating
+Airlines,Sky Regional Airlines,Regional,Canada,KV,SKV,Operating
+Airlines,Sky Way Air,Cargo,United Arab Emirates,,SAB,Operating
+Airlines,Skybus,Leisure,Kazakhstan,,BYK,Operating
+Airlines,Skyjet,Regional,Philippines,M8,MSJ,Operating
+Airlines,Skyjet Uganda,Other,Uganda,,SJU,Operating
+Airlines,Skylink Express Inc,Cargo,Canada,,SLQ,Operating
+Airlines,Skymark Airlines,Low-cost,Japan,BC,SKY,Operating
+Airlines,Skypower Express Airways,Regional,Nigeria,NB,EAN,Operating
+Airlines,SkyTaxi,Airline ACMI,Poland,TE,IGA,Operating
+Airlines,Skytrans,Regional,Australia,QN,SKP,Operating
+Airlines,SkyUp,Low-cost,Ukraine,PQ,SQP,Operating
+Airlines,Skyward International Aviation,Regional,Kenya,OW,SEW,Operating
+Airlines,Skyway Costa Rica,Regional,Costa Rica,LC,GCS,Operating
+Airlines,SkyWay Enterprises,Cargo,United States,,SKZ,Operating
+Airlines,SkyWest Airlines,Regional,United States,OO,SKW,Operating
+Airlines,Smart,Regional,Egypt,,SME,Operating
+Airlines,Smart Cargo,Cargo,Luxembourg,,WLX,Operating
+Airlines,Smartavia,Regional,Russia,5N,AUL,Operating
+Airlines,Smartlynx Estonia,Leisure,Estonia,,MYX,Operating
+Airlines,SmartLynx Latvia,Airline ACMI,Latvia,6Y,ART,Operating
+Airlines,Smartwings,Leisure,Czech Republic,QS,TVS,Operating
+Airlines,Smartwings Hungary,Leisure,Hungary,7O,TVL,Operating
+Airlines,Smartwings Poland,Leisure,Poland,3Z,TVP,Operating
+Airlines,Smartwings Slovakia,Leisure,Slovakia,6D,TVQ,Operating
+Airlines,Smithair,Mainline,United States,,SMH,Operating
+Airlines,SNAS Aviation,Cargo,Saudi Arabia,,RSE,Operating
+Airlines,Snunit Aviation,Mainline,Israel,,SNU,Operating
+Airlines,Sobel Air Ghana,Other,Ghana,,SBL,Operating
+Airlines,Societe Tout Transport Mauritannien,Other,Mauritania,,TTM,Operating
+Airlines,Sol del Paraguay Lineas Aereas SA,Regional,Paraguay,,SGU,Operating
+Airlines,Solaseed Air,Low-cost,Japan,6J,SNJ,Operating
+Airlines,Solenta Aviation,Airline ACMI,South Africa,,SET,Operating
+Airlines,Solenta Aviation Cote d'Ivoire,Virtual Airline,Cote d'Ivoire,,SIV,Operating
+Airlines,Solenta Aviation Gabon,Regional,Gabon,,SVG,Operating
+Airlines,Solenta Aviation Ghana,Airline ACMI,Ghana,,SOG,Operating
+Airlines,Solinair,Cargo,Slovenia,,SOP,Operating
+Airlines,Solomon Airlines,Regional,Solomon Islands,IE,SOL,Operating
+Airlines,Somon Air,Mainline,Tajikistan,SZ,SMR,Operating
+Airlines,SonAir,Mainline,Angola,,SOR,Operating
+Airlines,South African Airways,Mainline,South Africa,SA,SAA,Operating
+Airlines,South East Asian Airlines (SEAIR),Regional,Philippines,XO,SGD,Operating
+Airlines,Southern Air,Cargo,United States,9S,SOO,Operating
+Airlines,Southern Air Charter,Regional,Bahamas,PL,SOA,Operating
+Airlines,Southern Airways Express,Regional,United States,9X,FDY,Operating
+Airlines,Southern Express,Mainline,United States,,MIT,Operating
+Airlines,Southern Jersey Airways,Mainline,United States,,ALC,Operating
+Airlines,Southern Sky Airlines,Regional,Kazakhstan,IH,SRS,Operating
+Airlines,Southwest Airlines,Low-cost,United States,WN,SWA,Operating
+Airlines,SpiceJet,Low-cost,India,SG,SEJ,Operating
+Airlines,Spirit Airlines,Low-cost,United States,NK,NKS,Operating
+Airlines,Spring Airlines,Low-cost,China,9C,CQH,Operating
+Airlines,Spring Airlines Japan,Low-cost,Japan,IJ,SJO,Operating
+Airlines,Springdale Air Service,Other,United States,,SPG,Operating
+Airlines,SprintAir,Regional,Poland,P8,SRN,Operating
+Airlines,SriLankan Airlines,Mainline,Sri Lanka,UL,ALK,Operating
+Airlines,Sriwijaya Air,Mainline,Indonesia,SJ,SJY,Operating
+Airlines,St Barth Commuter,Regional,St. Barthelemy,PV,SBU,Operating
+Airlines,Star Air,Cargo,Denmark,,SRR,Operating
+Airlines,Star Air,Airline ACMI,South Africa,,BRH,Operating
+Airlines,Star Air (India),Low-cost,India,OG,SDG,Operating
+Airlines,Star East,Airline ACMI,Romania,4R,SEK,Operating
+Airlines,Star Flyer,Low-cost,Japan,7G,SFJ,Operating
+Airlines,Star Peru,Regional,Peru,2I,SRU,Operating
+Airlines,Starlink Aviation,Regional,Canada,,TLK,Operating
+Airlines,Starship SA de SV,Other,Mexico,,HIP,Operating
+Airlines,Stobart Air,Regional,Ireland,RE,STK,Operating
+Airlines,STP Airways,Virtual Airline,Sao Tome and Principe,8F,STP,Operating
+Airlines,Suburban Air Freight,Cargo,United States,,SUB,Operating
+Airlines,Sudan Airways,Mainline,Sudan,SD,SUD,Operating
+Airlines,Sun Air,Regional,Sudan,,SNR,Operating
+Airlines,Sun Country Airlines,Low-cost,United States,SY,SCX,Operating
+Airlines,Sun-Air of Scandinavia,Regional,Denmark,EZ,SUS,Operating
+Airlines,Sundair,Leisure,Germany,SR,SDR,Operating
+Airlines,Sundance Air (Venezuela),Regional,Venezuela,,SUV,Operating
+Airlines,SunExpress,Leisure,Turkey,XQ,SXS,Operating
+Airlines,SunExpress Germany,Leisure,Germany,XG,SXD,Operating
+Airlines,Sunrise Airways,Regional,Haiti,S6,KSZ,Operating
+Airlines,Sunstate Airlines,Mainline,Australia,,SSQ,Operating
+Airlines,Sunwing Airlines,Leisure,Canada,WG,SWG,Operating
+Airlines,Suparna Airlines,Cargo,China,Y8,YZR,Operating
+Airlines,Surinam Airways,Mainline,Suriname,PY,SLM,Operating
+Airlines,Susi Air,Regional,Indonesia,,SQS,Operating
+Airlines,SVG Air,Regional,St. Vincent and the Grenadines,,SVD,Operating
+Airlines,SW Italia,Cargo,Italy,IU,CSW,Operating
+Airlines,Swift Air,Airline ACMI,United States,WQ,SWQ,Operating
+Airlines,Swiftair,Airline ACMI,Spain,WT,SWT,Operating
+Airlines,Swiftair Hellas,Cargo,Greece,,MDF,Operating
+Airlines,SWISS,Mainline,Switzerland,LX,SWR,Operating
+Airlines,Swoop,Low-cost,Canada,WO,WSW,Operating
+Airlines,Sylt Air,Regional,Germany,7E,AWU,Operating
+Airlines,Syrianair,Mainline,Syria,RB,SYR,Operating
+Airlines,TAAG Angola Airlines,Mainline,Angola,DT,DTA,Operating
+Airlines,TAB Airlines,Cargo,Bolivia,2L,BOL,Operating
+Airlines,Taban Airlines,Regional,Iran,HH,TBN,Operating
+Airlines,Taftan Air,Regional,Iran,,SBT,Operating
+Airlines,TAG Airlines,Regional,Guatemala,5U,TGU,Operating
+Airlines,Tailwind Airlines,Leisure,Turkey,TI,TWI,Operating
+Airlines,Taimyr Air - NordStar,Regional,Russia,Y7,TYA,Operating
+Airlines,Tajik Air,Mainline,Tajikistan,7J,TJK,Operating
+Airlines,TAME,Mainline,Ecuador,EQ,TAE,Operating
+Airlines,Tanana Air Service,Regional,United States,Z3,TNR,Operating
+Airlines,TAP Air Portugal,Mainline,Portugal,TP,TAP,Operating
+Airlines,TAPSA - Transportes Aereos Petroleros SA,Regional,Argentina,,TPS,Operating
+Airlines,Taquan Air,Regional,United States,K3,TQN,Operating
+Airlines,TAR Aerolineas,Regional,Mexico,YQ,LCT,Operating
+Airlines,Tarco Aviation,Mainline,Sudan,3T,TRQ,Operating
+Airlines,TAROM,Mainline,Romania,RO,ROT,Operating
+Airlines,Taron-Avia,Cargo,Armenia,H7,TRV,Operating
+Airlines,Tasman Cargo Airlines,Cargo,Australia,HJ,TMN,Operating
+Airlines,Tassili Airlines,Mainline,Algeria,SF,DTH,Operating
+Airlines,Tayaran Jet,Airline ACMI,Bulgaria,,TJB,Operating
+Airlines,TCA,Cargo,Georgia,,TZS,Operating
+Airlines,Tchadia Airlines,Mainline,Chad,OT,CDO,Operating
+Airlines,Telford Aviation Inc,Cargo,United States,,TEL,Operating
+Airlines,Tennessee Airways,Mainline,United States,,TEN,Operating
+Airlines,Tep Avia,Other,Moldova,,TET,Operating
+Airlines,Terra Avia,Airline ACMI,Moldova,,TVR,Operating
+Airlines,Texel Air,Cargo,Bahrain,,XLR,Operating
+Airlines,Tez Jet Airlines,Regional,Kyrgyzstan,,TEZ,Operating
+Airlines,Thai AirAsia,Low-cost,Thailand,FD,AIQ,Operating
+Airlines,Thai AirAsia X,Low-cost,Thailand,XJ,TAX,Operating
+Airlines,Thai Airways International,Mainline,Thailand,TG,THA,Operating
+Airlines,Thai Express Cargo,Cargo,Thailand,,TXZ,Operating
+Airlines,Thai Lion Air,Low-cost,Thailand,SL,TLM,Operating
+Airlines,Thai Smile,Regional,Thailand,WE,THD,Operating
+Airlines,Thai VietJet Air,Low-cost,Thailand,VZ,TVJ,Operating
+Airlines,Thomas Cook Airlines Balearics,Leisure,Spain,H5,CTB,Operating
+Airlines,Thomas Cook Airlines Scandinavia,Leisure,Denmark,DK,VKG,Operating
+Airlines,Thomas Cook Aviation,Airline ACMI,Germany,H3,TCN,Operating
+Airlines,THT Air Services,Mainline,Bangladesh,,TAF,Operating
+Airlines,Thunder Airlines,Regional,Canada,,THU,Operating
+Airlines,Tianjin Air Cargo,Cargo,China,HT,CTJ,Operating
+Airlines,Tianjin Airlines,Regional,China,GS,GCR,Operating
+Airlines,Tibet Airlines,Mainline,China,TV,TBA,Operating
+Airlines,Tigerair Australia,Low-cost,Australia,TT,TGG,Operating
+Airlines,Tigerair Taiwan,Low-cost,Taiwan,IT,TTW,Operating
+Airlines,Timbis Air Services,Cargo,Kenya,2T,TBS,Operating
+Airlines,Titan Airways,Airline ACMI,United Kingdom,ZT,AWC,Operating
+Airlines,TMC Airlines,Mainline,United States,,TMM,Operating
+Airlines,Toll Priority,Cargo,Australia,,TFX,Operating
+Airlines,Total Linhas Aereas,Regional,Brazil,,TTL,Operating
+Airlines,Toumai Air Tchad,Regional,Chad,,THE,Operating
+Airlines,Trade Air,Leisure,Croatia,C3,TDR,Operating
+Airlines,Tradecraft Air Nigeria,Mainline,Nigeria,,TCA,Operating
+Airlines,Tradewind Aviation,Regional,United States,TJ,GPD,Operating
+Airlines,Trans Air Congo,Regional,Congo,Q8,TSG,Operating
+Airlines,Trans Florida Airlines,Mainline,United States,,TFA,Operating
+Airlines,Trans Guyana Airways,Regional,Guyana,,TGY,Operating
+Airlines,Trans Island Air 2000,Regional,Barbados,,TRD,Operating
+Airlines,Trans Maldivian Airways,Regional,Maldives,,TMW,Operating
+Airlines,Trans Nation Airways,Regional,Ethiopia,,TNW,Operating
+Airlines,Trans Sayegh Airport Services,Other,Lebanon,,TSM,Operating
+Airlines,Trans States Airlines,Regional,United States,AX,LOF,Operating
+Airlines,TransAfrik,Cargo,Uganda,,TFK,Operating
+Airlines,TransAir,Cargo,United States,R9,MUI,Operating
+Airlines,Transair Gabon,Mainline,Gabon,,TGX,Operating
+Airlines,Transavia Airlines,Low-cost,Netherlands,HV,TRA,Operating
+Airlines,Transavia France,Low-cost,France,TO,TVF,Operating
+Airlines,Transaviabaltika,Cargo,Lithuania,,KTB,Operating
+Airlines,TransAVIAexport Airlines,Cargo,Belarus,,TXC,Operating
+Airlines,Transcarga International Airways,Cargo,Venezuela,T7,TIW,Operating
+Airlines,Transliz Aviation,Cargo,United Arab Emirates,,TLZ,Operating
+Airlines,Transmandu - Transportes Aereos Manduca,Regional,Venezuela,,TMD,Operating
+Airlines,TransNusa Air Services,Regional,Indonesia,8B,TNU,Operating
+Airlines,Transporte Aereo Entre Islas,Regional,Ecuador,,EMT,Operating
+Airlines,Transports & Travaux Aeriens de Madagascar,Mainline,Madagascar,,TML,Operating
+Airlines,Transwisata Air,Regional,Indonesia,,TWT,Operating
+Airlines,Transylvania International Airlines,Regional,Romania,,TYC,Operating
+Airlines,Tri MG Airlines,Cargo,Indonesia,GM,TMG,Operating
+Airlines,Trigana Air,Regional,Indonesia,IL,TGN,Operating
+Airlines,Tropic Air,Regional,Belize,9N,TOS,Operating
+Airlines,Tropical,Mainline,United States,,TOC,Operating
+Airlines,Tropical Airways D'Haiti,Regional,Haiti,,TBG,Operating
+Airlines,Trujet,Regional,India,2T,TRJ,Operating
+Airlines,TUI Airlines Nederland,Leisure,Netherlands,OR,TFL,Operating
+Airlines,TUI fly Belgium,Leisure,Belgium,TB,JAF,Operating
+Airlines,TUI UK,Leisure,United Kingdom,BY,TOM,Operating
+Airlines,TUIfly,Leisure,Germany,X3,TUI,Operating
+Airlines,TUIFly Nordic,Leisure,Sweden,6B,BLX,Operating
+Airlines,TUM AeroCarga,Cargo,Mexico,,MCS,Operating
+Airlines,Tunisair,Mainline,Tunisia,TU,TAR,Operating
+Airlines,Tunisair Express,Regional,Tunisia,UG,TUX,Operating
+Airlines,Turbot Air Cargo,Cargo,Senegal,,TAC,Operating
+Airlines,Turkish Airlines,Mainline,Turkey,TK,THY,Operating
+Airlines,Turkmenistan Airlines,Mainline,Turkmenistan,T5,TUA,Operating
+Airlines,Turkmenistan Khazar,Other,Turkmenistan,,KHR,Operating
+Airlines,Turkmenistan Lebap,Other,Turkmenistan,,LEB,Operating
+Airlines,Turpial Airlines,Mainline,Venezuela,T9,VTU,Operating
+Airlines,Turuhan Aviacompany,Regional,Russia,,TRH,Operating
+Airlines,Tus Airways,Regional,Cyprus,U8,CYF,Operating
+Airlines,T'way Air,Low-cost,South Korea,TW,TWB,Operating
+Airlines,Twin Jet,Regional,France,T7,TJT,Operating
+Airlines,Uganda Air Cargo,Cargo,Uganda,,UCC,Operating
+Airlines,Uganda Airlines,Mainline,Uganda,UR,UGD,Operating
+Airlines,Ukraine Air Enterprise,Other,Ukraine,,UKN,Operating
+Airlines,Ukraine International Airlines,Mainline,Ukraine,PS,AUI,Operating
+Airlines,Ukrainian Wings,Mainline,Ukraine,,UWJ,Operating
+Airlines,ULS Airlines Cargo,Cargo,Turkey,GO,KZU,Operating
+Airlines,Ultimate Jetcharters,Regional,United States,UE,UJC,Operating
+Airlines,UM Air,Mainline,Ukraine,,UKM,Operating
+Airlines,UNI Air,Regional,Taiwan,B7,UIA,Operating
+Airlines,Unique Air,Cargo,United Arab Emirates,,UQA,Operating
+Airlines,United Airlines,Mainline,United States,UA,UAL,Operating
+Airlines,Uni-top Airlines,Cargo,China,UW,UTP,Operating
+Airlines,Unity Air,Regional,Ghana,,AFD,Operating
+Airlines,Universal Airways,Other,United States,UV,UVA,Operating
+Airlines,Uniworld Air Cargo,Cargo,Panama,U7,UCG,Operating
+Airlines,UPS Airlines,Cargo,United States,5X,UPS,Operating
+Airlines,UR Airlines,Airline ACMI,Iraq,UD,UBD,Operating
+Airlines,Ural Airlines,Mainline,Russia,U6,SVR,Operating
+Airlines,Urumqi Air,Low-cost,China,UQ,CUH,Operating
+Airlines,USA Jet Airlines,Cargo,United States,UJ,JUS,Operating
+Airlines,US-Bangla Airlines,Regional,Bangladesh,BS,UBG,Operating
+Airlines,UTAGE,Mainline,Equatorial Guinea,,UTG,Operating
+Airlines,Utair,Mainline,Russia,UT,UTA,Operating
+Airlines,UTair Cargo,Cargo,Russia,,TUM,Operating
+Airlines,UTair Helicopter Services,Regional,Russia,,NFT,Operating
+Airlines,UVT Aero,Regional,Russia,RT,UVT,Operating
+Airlines,Uzbekistan Airways,Mainline,Uzbekistan,HY,UZB,Operating
+Airlines,Valan International Cargo (South Africa),Cargo,South Africa,,VLA,Operating
+Airlines,Valan International Cargo Charter,Cargo,Moldova,,VLN,Operating
+Airlines,VAN AIR Europe,Regional,Czech Republic,V9,VAA,Operating
+Airlines,Vanilla Air,Low-cost,Japan,JW,VNL,Operating
+Airlines,Varesh Airlines,Regional,Iran,,VRH,Operating
+Airlines,VASCO,Regional,Vietnam,0V,VFC,Operating
+Airlines,Venezolana,Regional,Venezuela,,VNE,Operating
+Airlines,Vensecar Internacional,Cargo,Venezuela,V4,VEC,Operating
+Airlines,VH-Air Industrie,Other,Angola,,VHA,Operating
+Airlines,VI Airlink,Regional,British Virgin Islands,V6,VIL,Operating
+Airlines,Vieques Air Link,Regional,Puerto Rico,V4,VES,Operating
+Airlines,VietJet Air,Low-cost,Vietnam,VJ,VJC,Operating
+Airlines,Vietnam Airlines,Mainline,Vietnam,VN,HVN,Operating
+Airlines,Vigo Jet,Cargo,Mexico,,VGJ,Operating
+Airlines,Viking Express Inc,Mainline,United States,,WCY,Operating
+Airlines,Village Air Cargo,Mainline,United States,,CAM,Operating
+Airlines,VIP Avia,Other,Georgia,,VPV,Operating
+Airlines,Virgin Atlantic Airways,Mainline,United Kingdom,VS,VIR,Operating
+Airlines,Virgin Atlantic International,Mainline,United Kingdom,,VGI,Operating
+Airlines,Virgin Australia,Mainline,Australia,VA,VOZ,Operating
+Airlines,Virgin Australia Regional Airlines,Regional,Australia,,OZW,Operating
+Airlines,Virgin Islands Seaplane Shuttle,Other,US Virgin Islands,,VSS,Operating
+Airlines,Vision Air International,Cargo,Pakistan,,VIS,Operating
+Airlines,Vistara,Regional,India,UK,VTI,Operating
+Airlines,Viva Air Colombia,Low-cost,Colombia,VH,VVC,Operating
+Airlines,Viva Air Peru,Low-cost,Peru,VV,VPE,Operating
+Airlines,VivaAerobus,Low-cost,Mexico,VB,VIV,Operating
+Airlines,Volaris,Low-cost,Mexico,Y4,VOI,Operating
+Airlines,Volaris Costa Rica,Low-cost,Costa Rica,Q6,VOC,Operating
+Airlines,Volga-Dnepr Airlines,Cargo,Russia,VI,VDA,Operating
+Airlines,Vologda Air Enterprise,Regional,Russia,,VGV,Operating
+Airlines,Volotea,Low-cost,Spain,V7,VOE,Operating
+Airlines,Vostok Airlines,Regional,Russia,,VTK,Operating
+Airlines,Voyage Air,Airline ACMI,Bulgaria,,VGR,Operating
+Airlines,Voyager Airlines,Other,Bangladesh,,VOG,Operating
+Airlines,Voyageur Airways,Regional,Canada,,VAL,Operating
+Airlines,Vueling Airlines,Low-cost,Spain,VY,VLG,Operating
+Airlines,VVB Aviation,Airline ACMI,United Kingdom,,VVB,Operating
+Airlines,Walya Airways,Regional,Ethiopia,,EAW,Operating
+Airlines,Wamos Air,Leisure,Spain,EB,PLM,Operating
+Airlines,Warbelow's Air Ventures,Regional,United States,4W,WAV,Operating
+Airlines,Wasaya Airways,Regional,Canada,,WSG,Operating
+Airlines,WDL Aviation,Airline ACMI,Germany,WH,WDL,Operating
+Airlines,West Air (China),Low-cost,China,PN,CHB,Operating
+Airlines,West Air (USA),Cargo,United States,,PCM,Operating
+Airlines,West Atlantic,Cargo,United Kingdom,,NPT,Operating
+Airlines,West Atlantic Sweden,Cargo,Sweden,,SWN,Operating
+Airlines,West Coast Airlines,Other,Ghana,,WCG,Operating
+Airlines,West Isle Air Inc,Other,United States,,MRR,Operating
+Airlines,West Wind Aviation,Regional,Canada,,WEW,Operating
+Airlines,Westair Aviation,Regional,Namibia,WV,WAA,Operating
+Airlines,Western Air,Regional,Bahamas,,WST,Operating
+Airlines,Western Global,Cargo,United States,KD,WGN,Operating
+Airlines,WestJet,Low-cost,Canada,WS,WJA,Operating
+Airlines,WestJet Encore,Regional,Canada,WR,WEN,Operating
+Airlines,White,Leisure,Portugal,WI,WHT,Operating
+Airlines,Wideroe,Regional,Norway,WF,WIF,Operating
+Airlines,Wiggins Airways,Cargo,United States,,WIG,Operating
+Airlines,Winair (Saint Maarten),Regional,Saint Maarten,WM,WIA,Operating
+Airlines,Windrose Airlines,Leisure,Ukraine,7W,WRC,Operating
+Airlines,Wings Air,Regional,Indonesia,IW,WON,Operating
+Airlines,Wings Airways,Other,United States,,WAW,Operating
+Airlines,Wings Aviation Nigeria,Other,Nigeria,,TWD,Operating
+Airlines,Wings of Lebanon,Leisure,Lebanon,W7,WLB,Operating
+Airlines,Winlink (St Lucia),Other,St. Lucia,,WIN,Operating
+Airlines,Wizz Air,Low-cost,Hungary,W6,WZZ,Operating
+Airlines,Wizz Air UK,Low-cost,United Kingdom,W9,WUK,Operating
+Airlines,World Atlantic Airlines,Airline ACMI,United States,WL,WAL,Operating
+Airlines,Wright Air Service,Regional,United States,8V,WRT,Operating
+Airlines,Wyoming Airlines,Mainline,United States,,WYG,Operating
+Airlines,Xiamen Airlines,Mainline,China,MF,CXA,Operating
+Airlines,Xtra Airways,Leisure,United States,XP,CXP,Operating
+Airlines,Yakutia Airlines,Mainline,Russia,R3,SYL,Operating
+Airlines,Yamal Airlines,Regional,Russia,YC,LLM,Operating
+Airlines,YanAir,Regional,Ukraine,YE,ANR,Operating
+Airlines,Yas Air,Cargo,Iran,,MHD,Operating
+Airlines,Yemenia,Mainline,Yemen Republic,IY,IYE,Operating
+Airlines,Yeti Airlines,Leisure,Nepal,YT,NYT,Operating
+Airlines,YTO Cargo Airlines,Cargo,China,YG,HYT,Operating
+Airlines,Yuzhmashavia,Cargo,Ukraine,,UMK,Operating
+Airlines,Zagros Airlines,Mainline,Iran,,IZG,Operating
+Airlines,ZanAir,Regional,Tanzania,B4,TAN,Operating
+Airlines,Zephyr Express,Regional,United States,,RZR,Operating
+Airlines,Zhetysu Aviakompania,Regional,Kazakhstan,,JTU,Operating
+Airlines,ZhezAir,Regional,Kazakhstan,,KZH,Operating
+Airlines,Zimex Aviation,Airline ACMI,Switzerland,XM,IMX,Operating
+Airlines,Zorex Air Transport,Cargo,Spain,,ORZ,Operating

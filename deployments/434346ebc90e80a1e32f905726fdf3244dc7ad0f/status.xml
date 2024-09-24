@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>434346ebc90e80a1e32f905726fdf3244dc7ad0f</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Unhides Customer Number field in Received LRU Segment and shuffles layout around to accommodate.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2022-07-10T14:43:20.3387972Z</lastSuccessEndTime>
+  <receivedTime>2022-07-10T14:40:52.4934843Z</receivedTime>
+  <startTime>2022-07-10T14:40:52.6653605Z</startTime>
+  <endTime>2022-07-10T14:43:20.3387972Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+  <project_type>CUSTOM DEPLOYMENT</project_type>
+  <vsproject_id></vsproject_id>
+</deployment>

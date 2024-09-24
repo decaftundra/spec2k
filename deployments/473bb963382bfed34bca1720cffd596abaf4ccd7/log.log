@@ -1,0 +1,67 @@
+2021-11-14T20:06:32.4146903Z,Updating submodules.,be7b8c8a-7729-483a-a9f2-fce8666b3971,0
+2021-11-14T20:06:32.5553148Z,Preparing deployment for commit id '473bb96338'.,f15ad3da-f1c8-4cf1-b616-77ffdcb006dd,0
+2021-11-14T20:06:32.8521957Z,Running custom deployment command...,b49f4596-5d4a-4f0d-a96e-58da60238ba8,0
+2021-11-14T20:06:32.9146986Z,Running deployment command...,4dc1cc35-7aba-450a-99ea-5b944f332a5b,0
+	2021-11-14T20:06:32.9146986Z,Command: D:\home\SiteExtensions\ComposerExtension\Hooks\deploy.cmd,,0
+	2021-11-14T20:06:36.7458495Z,Install Dependencies with Composer,,0
+	2021-11-14T20:06:43.2775282Z,Installing dependencies from lock file,,1
+	2021-11-14T20:06:43.2931490Z,Verifying lock file contents can be installed on current platform.,,1
+	2021-11-14T20:06:43.5119080Z,Nothing to install&comma; update or remove,,1
+	2021-11-14T20:06:43.7306592Z,Generating optimized autoload files,,1
+	2021-11-14T20:09:50.2533519Z,> Illuminate\Foundation\ComposerScripts::postAutoloadDump,,1
+	2021-11-14T20:09:51.4408780Z,> @php artisan package:discover --ansi,,1
+	2021-11-14T20:09:59.5659258Z,Discovered Package: [32macademe/laravel-azure-file-storage-driver[39m,,0
+	2021-11-14T20:09:59.5659258Z,Discovered Package: [32mfideloper/proxy[39m,,0
+	2021-11-14T20:09:59.5659258Z,Discovered Package: [32mfruitcake/laravel-cors[39m,,0
+	2021-11-14T20:09:59.5815504Z,Discovered Package: [32mixudra/curl[39m,,0
+	2021-11-14T20:09:59.5815504Z,Discovered Package: [32mlaracasts/utilities[39m,,0
+	2021-11-14T20:09:59.5815504Z,Discovered Package: [32mlaravel/legacy-factories[39m,,0
+	2021-11-14T20:09:59.5815504Z,Discovered Package: [32mlaravel/passport[39m,,0
+	2021-11-14T20:09:59.5971817Z,Discovered Package: [32mlaravel/tinker[39m,,0
+	2021-11-14T20:09:59.6137012Z,Discovered Package: [32mlaravel/ui[39m,,0
+	2021-11-14T20:09:59.6137012Z,Discovered Package: [32mmadnest/madzipper[39m,,0
+	2021-11-14T20:09:59.6137012Z,Discovered Package: [32mmatthewbdaly/laravel-azure-storage[39m,,0
+	2021-11-14T20:09:59.6284267Z,Discovered Package: [32mnesbot/carbon[39m,,0
+	2021-11-14T20:09:59.6284267Z,[32mPackage manifest generated successfully.[39m,,0
+	2021-11-14T20:09:59.8784267Z,58 packages you are using are looking for funding.,,1
+	2021-11-14T20:09:59.8784267Z,Use the `composer fund` command to find out more!,,1
+	2021-11-14T20:09:59.9253023Z,Handling Basic Web Site deployment.,,0
+	2021-11-14T20:10:03.3472031Z,Creating app_offline.htm,,0
+	2021-11-14T20:10:03.3472031Z,KuduSync.NET from: 'D:\home\repository' to: 'D:\home\site',,0
+	2021-11-14T20:10:03.3628233Z,Copying file: 'app\CageCode.php',,0
+	2021-11-14T20:10:03.3628233Z,Copying file: 'app\Notification.php',,0
+	2021-11-14T20:10:03.3628233Z,Copying file: 'app\Console\Commands\AddCageCodeInfo.php',,0
+	2021-11-14T20:10:03.3784521Z,Copying file: 'app\Http\Controllers\CageCodeController.php',,0
+	2021-11-14T20:10:03.3784521Z,Copying file: 'app\Http\Controllers\InformationController.php',,0
+	2021-11-14T20:10:03.3784521Z,Copying file: 'app\Http\Controllers\ReportExportController.php',,0
+	2021-11-14T20:10:03.3940753Z,Copying file: 'app\Listeners\LogFailedLogin.php',,0
+	2021-11-14T20:10:03.3940753Z,Copying file: 'app\ShopFindings\ShopFinding.php',,0
+	2021-11-14T20:10:03.3940753Z,Copying file: 'bootstrap\cache\packages.php',,0
+	2021-11-14T20:10:03.4097046Z,Copying file: 'bootstrap\cache\services.php',,0
+	2021-11-14T20:10:03.4097046Z,Copying file: 'database\factories\CageCodeFactory.php',,0
+	2021-11-14T20:10:03.4253250Z,Copying file: 'database\migrations\2021_11_03_142219_add_info_column_to_cage_codes_table.php',,0
+	2021-11-14T20:10:03.4253250Z,Copying file: 'resources\views\cage-code\create.blade.php',,0
+	2021-11-14T20:10:03.4409513Z,Copying file: 'resources\views\cage-code\edit.blade.php',,0
+	2021-11-14T20:10:03.4409513Z,Copying file: 'resources\views\cage-code\index.blade.php',,0
+	2021-11-14T20:10:03.4409513Z,Copying file: 'resources\views\dataset\index.blade.php',,0
+	2021-11-14T20:10:28.0422031Z,Copying file: 'resources\views\deleted\index.blade.php',,0
+	2021-11-14T20:10:28.0578298Z,Copying file: 'resources\views\export\index.blade.php',,0
+	2021-11-14T20:10:28.0734542Z,Copying file: 'resources\views\info\cage-codes.blade.php',,0
+	2021-11-14T20:10:28.0734542Z,Copying file: 'resources\views\info\locations.blade.php',,0
+	2021-11-14T20:10:28.0890807Z,Copying file: 'resources\views\location\index.blade.php',,0
+	2021-11-14T20:10:28.0890807Z,Copying file: 'resources\views\notifications\index.blade.php',,0
+	2021-11-14T20:10:28.0890807Z,Copying file: 'resources\views\partials\main-nav.blade.php',,0
+	2021-11-14T20:10:28.1047050Z,Copying file: 'resources\views\standby\index.blade.php',,0
+	2021-11-14T20:10:28.1203327Z,Copying file: 'tests\Feature\InformationTest.php',,0
+	2021-11-14T20:10:28.1203327Z,Copying file: 'tests\Feature\LocationTest.php',,0
+	2021-11-14T20:10:28.1359549Z,Copying file: 'tests\Feature\ReversalTest.php',,0
+	2021-11-14T20:10:28.1359549Z,Copying file: 'vendor\composer\autoload_classmap.php',,0
+	2021-11-14T20:10:28.1359549Z,Copying file: 'vendor\composer\autoload_files.php',,0
+	2021-11-14T20:10:28.1515814Z,Copying file: 'vendor\composer\autoload_static.php',,0
+	2021-11-14T20:10:28.1515814Z,Copying file: 'vendor\composer\installed.php',,0
+	2021-11-14T20:10:28.1515814Z,Copying file: 'vendor\composer\InstalledVersions.php',,0
+	2021-11-14T20:10:28.1515814Z,Deleting app_offline.htm,,0
+	2021-11-14T20:10:28.1515814Z,Finished successfully.,,0
+2021-11-14T20:10:28.2297078Z,Running post deployment command(s)...,e64841a2-30a7-442c-8c53-ae21df1ee822,0
+2021-11-14T20:10:28.3547096Z,Triggering recycle (preview mode disabled).,97ee8781-acef-4b04-b2f4-0d8d8f8f5ca2,0
+2021-11-14T20:10:28.5578323Z,Deployment successful.,f853bab3-1c26-434d-9719-36125bfcd9cf,0

@@ -1,0 +1,72 @@
+2021-06-13T18:10:23.5550069Z,Updating submodules.,7eb319a4-33ef-441c-9c8b-347584d9f4af,0
+2021-06-13T18:10:23.6175078Z,Preparing deployment for commit id '79065373a0'.,b5266fa4-5d11-4cac-9a7f-2694fc218b2e,0
+2021-06-13T18:10:23.8987608Z,Running custom deployment command...,e391bea7-9698-4e85-a3c8-8bd6cdf24846,0
+2021-06-13T18:10:23.9456334Z,Running deployment command...,11238aa9-8570-461a-80aa-bc80dd85657c,0
+	2021-06-13T18:10:23.9456334Z,Command: D:\home\SiteExtensions\ComposerExtension\Hooks\deploy.cmd,,0
+	2021-06-13T18:10:25.9009529Z,Install Dependencies with Composer,,0
+	2021-06-13T18:10:33.8147869Z,Installing dependencies from lock file,,1
+	2021-06-13T18:10:33.8304634Z,Verifying lock file contents can be installed on current platform.,,1
+	2021-06-13T18:10:34.0804135Z,Nothing to install&comma; update or remove,,1
+	2021-06-13T18:10:34.2054134Z,Package microsoft/application-insights is abandoned&comma; you should avoid using it. No replacement was suggested.,,1
+	2021-06-13T18:10:34.2210388Z,Generating optimized autoload files,,1
+	2021-06-13T18:14:20.7940711Z,> Illuminate\Foundation\ComposerScripts::postAutoloadDump,,1
+	2021-06-13T18:14:21.9661335Z,> @php artisan package:discover --ansi,,1
+	2021-06-13T18:14:28.5022748Z,Discovered Package: [32macademe/laravel-azure-file-storage-driver[39m,,0
+	2021-06-13T18:14:28.5022748Z,Discovered Package: [32mfideloper/proxy[39m,,0
+	2021-06-13T18:14:28.5022748Z,Discovered Package: [32mfruitcake/laravel-cors[39m,,0
+	2021-06-13T18:14:28.5022748Z,Discovered Package: [32mixudra/curl[39m,,0
+	2021-06-13T18:14:28.5179014Z,Discovered Package: [32mlaracasts/utilities[39m,,0
+	2021-06-13T18:14:28.5179014Z,Discovered Package: [32mlaravel/legacy-factories[39m,,0
+	2021-06-13T18:14:28.5179014Z,Discovered Package: [32mlaravel/passport[39m,,0
+	2021-06-13T18:14:28.5179014Z,Discovered Package: [32mlaravel/tinker[39m,,0
+	2021-06-13T18:14:28.5179014Z,Discovered Package: [32mlaravel/ui[39m,,0
+	2021-06-13T18:14:28.5335271Z,Discovered Package: [32mmadnest/madzipper[39m,,0
+	2021-06-13T18:14:28.5335271Z,Discovered Package: [32mmatthewbdaly/laravel-azure-storage[39m,,0
+	2021-06-13T18:14:28.5491527Z,Discovered Package: [32mnesbot/carbon[39m,,0
+	2021-06-13T18:14:28.5491527Z,[32mPackage manifest generated successfully.[39m,,0
+	2021-06-13T18:14:29.0960293Z,54 packages you are using are looking for funding.,,1
+	2021-06-13T18:14:29.1116537Z,Use the `composer fund` command to find out more!,,1
+	2021-06-13T18:14:29.1429035Z,Handling Basic Web Site deployment.,,0
+	2021-06-13T18:14:32.6813048Z,Creating app_offline.htm,,0
+	2021-06-13T18:14:32.6969303Z,KuduSync.NET from: 'D:\home\repository' to: 'D:\home\site',,0
+	2021-06-13T18:14:32.6969303Z,Copying file: 'app\EngineDetail.php',,0
+	2021-06-13T18:14:32.6969303Z,Copying file: 'app\Http\Controllers\InformationController.php',,0
+	2021-06-13T18:14:32.7125568Z,Copying file: 'bootstrap\cache\packages.php',,0
+	2021-06-13T18:14:32.7125568Z,Copying file: 'bootstrap\cache\services.php',,0
+	2021-06-13T18:14:32.7281807Z,Copying file: 'database\.DS_Store',,0
+	2021-06-13T18:14:32.7281807Z,Copying file: 'database\migrations\2021_06_08_121832_create_engine_details_table.php',,0
+	2021-06-13T18:14:32.7281807Z,Copying file: 'database\seeders\EngineDetailsTableSeeder.php',,0
+	2021-06-13T18:14:32.7438126Z,Copying file: 'database\seeders\csvs\engine_detail\EngineData_reference_table_080621.csv',,0
+	2021-06-13T18:14:32.7438126Z,Deleting file: 'public\css\fontawesome-all.min.css',,0
+	2021-06-13T18:14:32.7594291Z,Copying file: 'public\css\all.min.css',,0
+	2021-06-13T18:14:32.7594291Z,Copying file: 'public\css\fontawesome.min.css',,0
+	2021-06-13T18:14:32.7750545Z,Copying file: 'public\webfonts\fa-brands-400.eot',,0
+	2021-06-13T18:14:32.7750545Z,Copying file: 'public\webfonts\fa-brands-400.svg',,0
+	2021-06-13T18:14:32.7750545Z,Copying file: 'public\webfonts\fa-brands-400.ttf',,0
+	2021-06-13T18:14:32.7906814Z,Copying file: 'public\webfonts\fa-brands-400.woff',,0
+	2021-06-13T18:14:32.8063053Z,Copying file: 'public\webfonts\fa-brands-400.woff2',,0
+	2021-06-13T18:14:32.8063053Z,Copying file: 'public\webfonts\fa-regular-400.eot',,0
+	2021-06-13T18:15:00.9384157Z,Copying file: 'public\webfonts\fa-regular-400.svg',,0
+	2021-06-13T18:15:00.9384157Z,Copying file: 'public\webfonts\fa-regular-400.ttf',,0
+	2021-06-13T18:15:00.9540333Z,Copying file: 'public\webfonts\fa-regular-400.woff',,0
+	2021-06-13T18:15:00.9540333Z,Copying file: 'public\webfonts\fa-regular-400.woff2',,0
+	2021-06-13T18:15:00.9540333Z,Copying file: 'public\webfonts\fa-solid-900.eot',,0
+	2021-06-13T18:15:00.9540333Z,Copying file: 'public\webfonts\fa-solid-900.svg',,0
+	2021-06-13T18:15:00.9696580Z,Copying file: 'public\webfonts\fa-solid-900.ttf',,0
+	2021-06-13T18:15:00.9696580Z,Copying file: 'public\webfonts\fa-solid-900.woff',,0
+	2021-06-13T18:15:00.9696580Z,Copying file: 'public\webfonts\fa-solid-900.woff2',,0
+	2021-06-13T18:15:00.9696580Z,Copying file: 'resources\views\info\aircraft.blade.php',,0
+	2021-06-13T18:15:00.9696580Z,Copying file: 'resources\views\info\engine-details.blade.php',,0
+	2021-06-13T18:15:00.9852827Z,Copying file: 'resources\views\partials\header.blade.php',,0
+	2021-06-13T18:15:00.9852827Z,Copying file: 'resources\views\partials\main-nav.blade.php',,0
+	2021-06-13T18:15:01.0009081Z,Copying file: 'routes\web.php',,0
+	2021-06-13T18:15:01.0009081Z,Copying file: 'tests\Feature\InformationTest.php',,0
+	2021-06-13T18:15:01.0165338Z,Copying file: 'vendor\composer\autoload_classmap.php',,0
+	2021-06-13T18:15:01.0321595Z,Copying file: 'vendor\composer\autoload_static.php',,0
+	2021-06-13T18:15:01.0321595Z,Copying file: 'vendor\composer\installed.php',,0
+	2021-06-13T18:15:01.0477828Z,Copying file: 'vendor\composer\InstalledVersions.php',,0
+	2021-06-13T18:15:01.0477828Z,Deleting app_offline.htm,,0
+	2021-06-13T18:15:01.0636163Z,Finished successfully.,,0
+2021-06-13T18:15:01.1415364Z,Running post deployment command(s)...,6b3109af-da74-4e01-b16a-8a1e83a68b21,0
+2021-06-13T18:15:01.2352857Z,Triggering recycle (preview mode disabled).,65206b41-313b-40eb-a949-3a1052b505a6,0
+2021-06-13T18:15:01.3446603Z,Deployment successful.,3394b766-4a80-469e-82cb-d8b9cbf16709,0

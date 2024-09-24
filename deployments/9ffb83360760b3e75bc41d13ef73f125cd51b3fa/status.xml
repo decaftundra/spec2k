@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>9ffb83360760b3e75bc41d13ef73f125cd51b3fa</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Updates missing plant code command.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2021-08-15T17:24:14.3132554Z</lastSuccessEndTime>
+  <receivedTime>2021-08-15T17:20:31.2153396Z</receivedTime>
+  <startTime>2021-08-15T17:20:31.3715785Z</startTime>
+  <endTime>2021-08-15T17:24:14.3132554Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

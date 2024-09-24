@@ -1,0 +1,61 @@
+2021-06-27T15:54:07.4591555Z,Updating submodules.,63890615-3270-4bd2-8c2d-d9f2de11db01,0
+2021-06-27T15:54:07.5372805Z,Preparing deployment for commit id '0b4ef83ecf'.,ed950860-cd2e-447e-8b00-dd11189ccc40,0
+2021-06-27T15:54:07.7091550Z,Running custom deployment command...,ea0aeab3-3a4e-4f09-99d6-11b2ec6b4208,0
+2021-06-27T15:54:07.7560272Z,Running deployment command...,b50a5c3b-5ded-42ef-b933-b5a79fc3e666,0
+	2021-06-27T15:54:07.7560272Z,Command: D:\home\SiteExtensions\ComposerExtension\Hooks\deploy.cmd,,0
+	2021-06-27T15:54:09.0692232Z,Install Dependencies with Composer,,0
+	2021-06-27T15:54:14.8296822Z,Installing dependencies from lock file,,1
+	2021-06-27T15:54:14.8296822Z,Verifying lock file contents can be installed on current platform.,,1
+	2021-06-27T15:54:15.0328087Z,Nothing to install&comma; update or remove,,1
+	2021-06-27T15:54:15.2359434Z,Package microsoft/application-insights is abandoned&comma; you should avoid using it. No replacement was suggested.,,1
+	2021-06-27T15:54:15.2515705Z,Generating optimized autoload files,,1
+	2021-06-27T15:57:08.5084585Z,> Illuminate\Foundation\ComposerScripts::postAutoloadDump,,1
+	2021-06-27T15:57:09.5870563Z,> @php artisan package:discover --ansi,,1
+	2021-06-27T15:57:15.5189723Z,Discovered Package: [32macademe/laravel-azure-file-storage-driver[39m,,0
+	2021-06-27T15:57:15.5189723Z,Discovered Package: [32mfideloper/proxy[39m,,0
+	2021-06-27T15:57:15.5189723Z,Discovered Package: [32mfruitcake/laravel-cors[39m,,0
+	2021-06-27T15:57:15.5333516Z,Discovered Package: [32mixudra/curl[39m,,0
+	2021-06-27T15:57:15.5333516Z,Discovered Package: [32mlaracasts/utilities[39m,,0
+	2021-06-27T15:57:15.5333516Z,Discovered Package: [32mlaravel/legacy-factories[39m,,0
+	2021-06-27T15:57:15.5489274Z,Discovered Package: [32mlaravel/passport[39m,,0
+	2021-06-27T15:57:15.5489274Z,Discovered Package: [32mlaravel/tinker[39m,,0
+	2021-06-27T15:57:15.5645770Z,Discovered Package: [32mlaravel/ui[39m,,0
+	2021-06-27T15:57:15.5645770Z,Discovered Package: [32mmadnest/madzipper[39m,,0
+	2021-06-27T15:57:15.5645770Z,Discovered Package: [32mmatthewbdaly/laravel-azure-storage[39m,,0
+	2021-06-27T15:57:15.5645770Z,Discovered Package: [32mnesbot/carbon[39m,,0
+	2021-06-27T15:57:15.5802053Z,[32mPackage manifest generated successfully.[39m,,0
+	2021-06-27T15:57:15.8935670Z,54 packages you are using are looking for funding.,,1
+	2021-06-27T15:57:15.9092013Z,Use the `composer fund` command to find out more!,,1
+	2021-06-27T15:57:15.9404325Z,Handling Basic Web Site deployment.,,0
+	2021-06-27T15:57:21.2436422Z,Creating app_offline.htm,,0
+	2021-06-27T15:57:21.2436422Z,KuduSync.NET from: 'D:\home\repository' to: 'D:\home\site',,0
+	2021-06-27T15:57:21.2592550Z,Copying file: 'app\User.php',,0
+	2021-06-27T15:57:21.2592550Z,Copying file: 'app\Console\Commands\CreateInactiveUserRole.php',,0
+	2021-06-27T15:57:21.2592550Z,Copying file: 'app\Http\Controllers\UserController.php',,0
+	2021-06-27T15:57:21.2748955Z,Copying file: 'app\Http\Controllers\Auth\LoginController.php',,0
+	2021-06-27T15:57:21.2748955Z,Copying file: 'app\Http\Middleware\Authenticate.php',,0
+	2021-06-27T15:57:21.2748955Z,Copying file: 'app\Policies\UserPolicy.php',,0
+	2021-06-27T15:57:21.2748955Z,Copying file: 'bootstrap\cache\packages.php',,0
+	2021-06-27T15:57:21.2905051Z,Copying file: 'bootstrap\cache\services.php',,0
+	2021-06-27T15:57:21.2905051Z,Copying file: 'database\.DS_Store',,0
+	2021-06-27T15:57:21.3061241Z,Copying file: 'database\factories\UserFactory.php',,0
+	2021-06-27T15:57:21.3061241Z,Copying file: 'database\migrations\2021_06_22_133509_add_rank_column_to_roles_table.php',,0
+	2021-06-27T15:57:21.3061241Z,Copying file: 'database\seeders\RolesTableSeeder.php',,0
+	2021-06-27T15:57:21.3217527Z,Copying file: 'database\seeders\UsersTableSeeder.php',,0
+	2021-06-27T15:57:21.3217527Z,Copying file: 'resources\views\info\user-roles.blade.php',,0
+	2021-06-27T15:57:21.3217527Z,Copying file: 'resources\views\user\index.blade.php',,0
+	2021-06-27T15:57:21.3217527Z,Copying file: 'routes\web.php',,0
+	2021-06-27T15:57:21.3373746Z,Copying file: 'tests\DuskTestCase.php',,0
+	2021-06-27T15:57:21.3373746Z,Copying file: 'tests\TestCase.php',,0
+	2021-06-27T15:57:44.6270057Z,Copying file: 'tests\Feature\ActivityTest.php',,0
+	2021-06-27T15:57:44.6426220Z,Copying file: 'tests\Feature\InformationTest.php',,0
+	2021-06-27T15:57:44.6582467Z,Copying file: 'tests\Feature\UserTest.php',,0
+	2021-06-27T15:57:44.6582467Z,Copying file: 'vendor\composer\autoload_classmap.php',,0
+	2021-06-27T15:57:44.6738715Z,Copying file: 'vendor\composer\autoload_static.php',,0
+	2021-06-27T15:57:44.6738715Z,Copying file: 'vendor\composer\installed.php',,0
+	2021-06-27T15:57:44.6738715Z,Copying file: 'vendor\composer\InstalledVersions.php',,0
+	2021-06-27T15:57:44.6894986Z,Deleting app_offline.htm,,0
+	2021-06-27T15:57:44.6894986Z,Finished successfully.,,0
+2021-06-27T15:57:44.7520008Z,Running post deployment command(s)...,44bbc2a1-4f60-49a6-8e36-2b10c2502f2a,0
+2021-06-27T15:57:44.8301620Z,Triggering recycle (preview mode disabled).,ee29998a-4853-49ec-8d07-28f65287781a,0
+2021-06-27T15:57:44.9238804Z,Deployment successful.,acb5b0a8-fa5c-45fd-a967-3f65622a7110,0

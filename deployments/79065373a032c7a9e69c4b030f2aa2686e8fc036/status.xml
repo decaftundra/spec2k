@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>79065373a032c7a9e69c4b030f2aa2686e8fc036</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Changes headings on two info pages.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2021-06-13T18:15:01.3915356Z</lastSuccessEndTime>
+  <receivedTime>2021-06-13T18:10:23.4456338Z</receivedTime>
+  <startTime>2021-06-13T18:10:23.6487564Z</startTime>
+  <endTime>2021-06-13T18:15:01.3915356Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>

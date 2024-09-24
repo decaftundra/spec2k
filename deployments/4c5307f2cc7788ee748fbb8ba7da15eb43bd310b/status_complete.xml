@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>4c5307f2cc7788ee748fbb8ba7da15eb43bd310b</id>
+  <author>Mark Tierney</author>
+  <deployer>Bitbucket</deployer>
+  <authorEmail>mark@interactivedimension.com</authorEmail>
+  <message>Adds failsafe for out of date feed files, adds script to retrieve updated notification data from SAP middleware that was missed during feed outage.
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2022-08-07T11:16:11.9881113Z</lastSuccessEndTime>
+  <receivedTime>2022-08-07T09:46:52.2809656Z</receivedTime>
+  <startTime>2022-08-07T09:46:52.4397087Z</startTime>
+  <endTime>2022-08-07T11:16:11.9881113Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+  <project_type>CUSTOM DEPLOYMENT</project_type>
+  <vsproject_id></vsproject_id>
+</deployment>

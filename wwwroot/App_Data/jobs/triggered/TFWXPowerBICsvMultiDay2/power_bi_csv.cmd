@@ -1,0 +1,1 @@
+php %HOME%\site\artisan spec2kapp:write_power_bi_tables_to_csv
